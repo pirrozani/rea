@@ -12845,7 +12845,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "{ph0}How it works{ph1}"
-msgstr ""
+msgstr "{ph0}Πώς λειτουργεί{ph1}"
 
 #. {ph0}: <a href="#showcases">
 #. {ph1}: </a>
@@ -12853,7 +12853,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "{ph0}Showcases{ph1}"
-msgstr ""
+msgstr "{ph0}Μελέτες{ph1}"
 
 #: website/public/index.html:227
 msgctxt "page:index.html"
@@ -12861,16 +12861,19 @@ msgid ""
 "Ask your coding agent about an app, a game or a website. REA gives it the "
 "tools to inspect the code behind the answer."
 msgstr ""
+"Ρωτήστε τον agent προγραμματισμού σας για μια εφαρμογή, ένα παιχνίδι ή έναν "
+"ιστότοπο. Το REA του δίνει τα εργαλεία για να εξετάσει τον κώδικα πίσω από "
+"την απάντηση."
 
 #: website/public/index.html:232
 msgctxt "page:index.html"
 msgid "Get started"
-msgstr ""
+msgstr "Ξεκινήστε"
 
 #: website/public/index.html:233
 msgctxt "page:index.html"
 msgid "See an example ↓"
-msgstr ""
+msgstr "Δείτε ένα παράδειγμα ↓"
 
 #. {ph0}: <a href="showcase/">
 #. {ph1}: </a>
@@ -12878,7 +12881,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "{ph0}Showcases →{ph1} — investigations and interactive demos."
-msgstr ""
+msgstr "{ph0}Μελέτες →{ph1} — διερευνήσεις και διαδραστικές επιδείξεις."
 
 #. {ph0}: <a href="blog/">
 #. {ph1}: </a>
@@ -12886,12 +12889,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "{ph0}Blog →{ph1} — methods and reconstruction notes."
-msgstr ""
+msgstr "{ph0}Ιστολόγιο →{ph1} — μέθοδοι και σημειώσεις ανακατασκευής."
 
 #: website/public/index.html:293
 msgctxt "page:index.html"
 msgid "Setup for your platform:"
-msgstr ""
+msgstr "Ρύθμιση για την πλατφόρμα σας:"
 
 #. {ph0}: <a href="get-started/#curl-installation" >
 #. {ph1}: <span translate="no">curl</span>
@@ -12900,12 +12903,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "Other install options: {ph0}{ph1} →{ph2}"
-msgstr ""
+msgstr "Άλλοι τρόποι εγκατάστασης: {ph0}{ph1} →{ph2}"
 
 #: website/public/index.html:323
 msgctxt "page:index.html"
 msgid "How it works"
-msgstr ""
+msgstr "Πώς λειτουργεί"
 
 #: website/public/index.html:325
 msgctxt "page:index.html"
@@ -12914,58 +12917,64 @@ msgid ""
 "program itself. With REA, your agent can follow the code, explain a feature "
 "and help you rebuild it."
 msgstr ""
+"Αντίστροφη μηχανική σημαίνει να μαθαίνετε πώς λειτουργεί ένα λογισμικό "
+"εξετάζοντας το ίδιο το πρόγραμμα. Με το REA, ο agent σας μπορεί να "
+"ακολουθήσει τον κώδικα, να εξηγήσει μια λειτουργία και να σας βοηθήσει να "
+"την ανακατασκευάσετε."
 
 #: website/public/index.html:332
 msgctxt "page:index.html"
 msgid "Ask about one feature"
-msgstr ""
+msgstr "Ρωτήστε για μία λειτουργία"
 
 #: website/public/index.html:333
 msgctxt "page:index.html"
 msgid "Give your agent a program or page and a question."
-msgstr ""
+msgstr "Δώστε στον agent σας ένα πρόγραμμα ή μια σελίδα και μια ερώτηση."
 
 #: website/public/index.html:336
 msgctxt "page:index.html"
 msgid "Inspect the program"
-msgstr ""
+msgstr "Εξετάστε το πρόγραμμα"
 
 #: website/public/index.html:337
 msgctxt "page:index.html"
 msgid "REA returns code, references and runtime observations."
-msgstr ""
+msgstr "Το REA επιστρέφει κώδικα, αναφορές και παρατηρήσεις από την εκτέλεση."
 
 #: website/public/index.html:340
 msgctxt "page:index.html"
 msgid "Explain it, then try a change"
-msgstr ""
+msgstr "Εξηγήστε τη και δοκιμάστε μια αλλαγή"
 
 #: website/public/index.html:341
 msgctxt "page:index.html"
 msgid "Your agent uses the findings to explain or rebuild the feature."
 msgstr ""
+"Ο agent σας χρησιμοποιεί τα ευρήματα για να εξηγήσει ή να ανακατασκευάσει τη"
+" λειτουργία."
 
 #: website/public/index.html:347
 msgctxt "page:index.html"
 msgid "See the full Calculator investigation"
-msgstr ""
+msgstr "Δείτε ολόκληρη τη διερεύνηση του Calculator"
 
 #. {ph0}: <span translate="no">200 + 10%</span>
 #: website/public/index.html:348
 #, python-brace-format
 msgctxt "page:index.html"
 msgid "Why does Calculator give 220 for {ph0}?"
-msgstr ""
+msgstr "Γιατί το Calculator δίνει 220 για {ph0};"
 
 #: website/public/index.html:357
 msgctxt "page:index.html"
 msgid "Follow the instructions step by step"
-msgstr ""
+msgstr "Ακολουθήστε τις οδηγίες βήμα προς βήμα"
 
 #: website/public/index.html:508
 msgctxt "page:index.html"
 msgid "Ask your agent the same question"
-msgstr ""
+msgstr "Κάντε την ίδια ερώτηση στον agent σας"
 
 #: website/public/index.html:575
 msgctxt "page:index.html"
@@ -12973,6 +12982,8 @@ msgid ""
 "Let’s try two examples: change a game’s speed, then rebuild Calculator’s % "
 "button."
 msgstr ""
+"Ας δοκιμάσουμε δύο παραδείγματα: θα αλλάξουμε την ταχύτητα ενός παιχνιδιού "
+"και μετά θα ανακατασκευάσουμε το κουμπί % του Calculator."
 
 #: website/public/index.html:583
 msgctxt "page:index.html"
@@ -12980,11 +12991,13 @@ msgid ""
 "The game gets faster as you run. To rebuild it with a speed control, we "
 "first need to find out how the speed changes."
 msgstr ""
+"Το παιχνίδι γίνεται πιο γρήγορο όσο τρέχετε. Για να το ανακατασκευάσουμε με "
+"ρύθμιση ταχύτητας, πρέπει πρώτα να βρούμε πώς αλλάζει η ταχύτητα."
 
 #: website/public/index.html:589
 msgctxt "page:index.html"
 msgid "1. Ask about the speed"
-msgstr ""
+msgstr "1. Ρωτήστε για την ταχύτητα"
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -13000,11 +13013,13 @@ msgctxt "page:index.html"
 msgid ""
 "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Example question · Dinosaur game"
 msgstr ""
+"{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Παράδειγμα ερώτησης · Παιχνίδι με "
+"τον δεινόσαυρο"
 
 #: website/public/index.html:615
 msgctxt "page:index.html"
 msgid "2. Find the speed rule"
-msgstr ""
+msgstr "2. Βρείτε τον κανόνα της ταχύτητας"
 
 #: website/public/index.html:616
 msgctxt "page:index.html"
@@ -13012,11 +13027,14 @@ msgid ""
 "REA lets the agent read the game’s running code. The speed starts at 6 and "
 "increases a little each update while it is below 13."
 msgstr ""
+"Το REA επιτρέπει στον agent να διαβάσει τον κώδικα του παιχνιδιού την ώρα "
+"που εκτελείται. Η ταχύτητα ξεκινά από το 6 και αυξάνεται λίγο σε κάθε "
+"ενημέρωση, όσο είναι κάτω από 13."
 
 #: website/public/index.html:623
 msgctxt "page:index.html"
 msgid "3. Play the result"
-msgstr ""
+msgstr "3. Παίξτε το αποτέλεσμα"
 
 #: website/public/index.html:624
 msgctxt "page:index.html"
@@ -13024,6 +13042,8 @@ msgid ""
 "We rebuilt that rule in the mini-game below and added a speed slider. Press "
 "Play, then choose your own speed."
 msgstr ""
+"Ανακατασκευάσαμε αυτόν τον κανόνα στο μικρό παιχνίδι παρακάτω και προσθέσαμε"
+" ένα ρυθμιστικό ταχύτητας. Πατήστε Έναρξη και επιλέξτε τη δική σας ταχύτητα."
 
 #: website/public/index.html:689
 msgctxt "page:index.html"
@@ -13031,6 +13051,8 @@ msgid ""
 "Enable JavaScript to play. You can still read the rule and open the source "
 "code below."
 msgstr ""
+"Ενεργοποιήστε τη JavaScript για να παίξετε. Μπορείτε πάντως να διαβάσετε τον"
+" κανόνα και να ανοίξετε τον πηγαίο κώδικα παρακάτω."
 
 #: website/public/index.html:721
 msgctxt "page:index.html"
@@ -13038,6 +13060,8 @@ msgid ""
 "Start at 6. Add 0.001 each update without a collision, while speed is below "
 "13."
 msgstr ""
+"Εκκίνηση από 6. Προσθέστε 0.001 σε κάθε ενημέρωση χωρίς σύγκρουση, όσο η "
+"ταχύτητα είναι κάτω από 13."
 
 #: website/public/index.html:807
 msgctxt "page:index.html"
@@ -13045,11 +13069,13 @@ msgid ""
 "The % button does different things after + and ×. Let’s find both rules and "
 "try them in a small calculator."
 msgstr ""
+"Το κουμπί % κάνει διαφορετικά πράγματα μετά το + και μετά το ×. Ας βρούμε "
+"και τους δύο κανόνες και ας τους δοκιμάσουμε σε μια μικρή αριθμομηχανή."
 
 #: website/public/index.html:813
 msgctxt "page:index.html"
 msgid "1. Ask about the % button"
-msgstr ""
+msgstr "1. Ρωτήστε για το κουμπί %"
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -13064,11 +13090,12 @@ msgstr ""
 msgctxt "page:index.html"
 msgid "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Example question · Calculator"
 msgstr ""
+"{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Παράδειγμα ερώτησης · Calculator"
 
 #: website/public/index.html:839
 msgctxt "page:index.html"
 msgid "2. Find both rules"
-msgstr ""
+msgstr "2. Βρείτε και τους δύο κανόνες"
 
 #: website/public/index.html:840
 msgctxt "page:index.html"
@@ -13076,37 +13103,43 @@ msgid ""
 "REA helps the agent read the code behind the % button. It applies two "
 "different rules:"
 msgstr ""
+"Το REA βοηθά τον agent να διαβάσει τον κώδικα πίσω από το κουμπί %. Το "
+"κουμπί εφαρμόζει δύο διαφορετικούς κανόνες:"
 
 #: website/public/index.html:861
 msgctxt "page:index.html"
 msgid "3. Try the % button"
-msgstr ""
+msgstr "3. Δοκιμάστε το κουμπί %"
 
 #: website/public/index.html:862
 msgctxt "page:index.html"
 msgid "We recreated both rules below. Choose + or ×, press %, then press =."
 msgstr ""
+"Αναπαραγάγαμε και τους δύο κανόνες παρακάτω. Επιλέξτε + ή ×, πατήστε % και "
+"μετά =."
 
 #: website/public/index.html:1025
 msgctxt "page:index.html"
 msgid "REA case studies."
-msgstr ""
+msgstr "Μελέτες περίπτωσης του REA."
 
 #: website/public/index.html:1026
 msgctxt "page:index.html"
 msgid ""
 "Explore a feature in a released app or game, with code and checked results."
 msgstr ""
+"Εξερευνήστε μια λειτουργία σε μια δημοσιευμένη εφαρμογή ή ένα παιχνίδι, με "
+"κώδικα και επαληθευμένα αποτελέσματα."
 
 #: website/public/index.html:1035
 msgctxt "page:index.html"
 msgid "Android · APK analysis"
-msgstr ""
+msgstr "Android · Ανάλυση APK"
 
 #: website/public/index.html:1036
 msgctxt "page:index.html"
 msgid "How an authenticator generates a login code"
-msgstr ""
+msgstr "Πώς μια εφαρμογή ελέγχου ταυτότητας δημιουργεί κωδικό σύνδεσης"
 
 #: website/public/index.html:1037
 msgctxt "page:index.html"
@@ -13114,21 +13147,24 @@ msgid ""
 "Trace Aegis's six-digit login code through its released APK, then move a "
 "demo clock to see why it changes every 30 seconds."
 msgstr ""
+"Ακολουθήστε τον εξαψήφιο κωδικό σύνδεσης του Aegis μέσα στο δημοσιευμένο APK"
+" του και, στη συνέχεια, μετακινήστε ένα ρολόι επίδειξης για να δείτε γιατί "
+"αλλάζει κάθε 30 δευτερόλεπτα."
 
 #: website/public/index.html:1041
 msgctxt "page:index.html"
 msgid "Read the Android case study"
-msgstr ""
+msgstr "Διαβάστε τη μελέτη περίπτωσης Android"
 
 #: website/public/index.html:1046
 msgctxt "page:index.html"
 msgid "Electron · Feature tracing"
-msgstr ""
+msgstr "Electron · Ανίχνευση λειτουργίας"
 
 #: website/public/index.html:1047
 msgctxt "page:index.html"
 msgid "How Notion copies text and HTML"
-msgstr ""
+msgstr "Πώς το Notion αντιγράφει κείμενο και HTML"
 
 #: website/public/index.html:1048
 msgctxt "page:index.html"
@@ -13136,21 +13172,23 @@ msgid ""
 "Follow Notion's packaged JavaScript to the system clipboard and see how a "
 "copy preserves rich block data."
 msgstr ""
+"Ακολουθήστε την πακεταρισμένη JavaScript του Notion μέχρι το πρόχειρο του "
+"συστήματος και δείτε πώς η αντιγραφή διατηρεί τα πλούσια δεδομένα των μπλοκ."
 
 #: website/public/index.html:1052
 msgctxt "page:index.html"
 msgid "Read the Notion case study"
-msgstr ""
+msgstr "Διαβάστε τη μελέτη περίπτωσης Notion"
 
 #: website/public/index.html:1057
 msgctxt "page:index.html"
 msgid "Native · Reconstruction"
-msgstr ""
+msgstr "Κώδικας μηχανής · Ανακατασκευή"
 
 #: website/public/index.html:1058
 msgctxt "page:index.html"
 msgid "DX-Ball's sound-pan calculation"
-msgstr ""
+msgstr "Πώς το DX-Ball υπολογίζει τη στερεοφωνική θέση του ήχου"
 
 #: website/public/index.html:1059
 msgctxt "page:index.html"
@@ -13158,16 +13196,18 @@ msgid ""
 "Recover how a ball's position becomes left/right sound in a 1996 Windows "
 "game."
 msgstr ""
+"Ανακαλύψτε πώς η θέση μιας μπάλας μετατρέπεται σε ήχο αριστερά ή δεξιά σε "
+"ένα παιχνίδι για Windows του 1996."
 
 #: website/public/index.html:1063
 msgctxt "page:index.html"
 msgid "Read the DX-Ball case study"
-msgstr ""
+msgstr "Διαβάστε τη μελέτη περίπτωσης DX-Ball"
 
 #: website/public/index.html:1090
 msgctxt "page:index.html"
 msgid "Choose your target."
-msgstr ""
+msgstr "Επιλέξτε τον στόχο σας."
 
 #: website/public/index.html:1091
 msgctxt "page:index.html"
@@ -13175,11 +13215,13 @@ msgid ""
 "These guides cover setup and a first investigation for each kind of "
 "software."
 msgstr ""
+"Οι οδηγοί αυτοί καλύπτουν τη ρύθμιση και μια πρώτη διερεύνηση για κάθε είδος"
+" λογισμικού."
 
 #: website/public/index.html:1123
 msgctxt "page:index.html"
 msgid "Try a larger project"
-msgstr ""
+msgstr "Δοκιμάστε ένα μεγαλύτερο έργο"
 
 #. {ph0}: <a href="faq/">
 #. {ph1}: </a>
@@ -13188,6 +13230,7 @@ msgstr ""
 msgctxt "page:index.html"
 msgid "{ph0}Read the FAQ{ph1} — setup and common questions."
 msgstr ""
+"{ph0}Διαβάστε τις Συχνές ερωτήσεις{ph1} — ρύθμιση και συνήθεις απορίες."
 
 #. {ph0}: <a href="https://discord.gg/GkcryMnJDM">
 #. {ph1}: </a>
@@ -13196,6 +13239,8 @@ msgstr ""
 msgctxt "page:index.html"
 msgid "{ph0}Join Discord{ph1} — get help and discuss your investigations."
 msgstr ""
+"{ph0}Μπείτε στο Discord{ph1} — βρείτε βοήθεια και συζητήστε τις διερευνήσεις"
+" σας."
 
 #. {ph0}: <a href="https://github.com/morluto/rea/issues/new/choose" >
 #. {ph1}: </a >
@@ -13204,11 +13249,13 @@ msgstr ""
 msgctxt "page:index.html"
 msgid "{ph0}GitHub issues{ph1} — report a bug or request a feature."
 msgstr ""
+"{ph0}Ζητήματα στο GitHub{ph1} — αναφέρετε ένα σφάλμα ή ζητήστε μια "
+"λειτουργία."
 
 #: website/public/index.html:292
 msgctxt "page:index.html"
 msgid "Setup options"
-msgstr ""
+msgstr "Επιλογές ρύθμισης"
 
 #. {ph0}: <a
 #. href="https://github.com/morluto/rea/blob/main/CONTRIBUTING.md#development-
