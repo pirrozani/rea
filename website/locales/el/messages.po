@@ -5768,7 +5768,7 @@ msgstr "Επιστροφή στην κορυφή"
 #: website/public/guides/browser/index.html:105
 msgctxt "page:guides/browser/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -5779,13 +5779,14 @@ msgstr ""
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}Home{ph1} / {ph2}Guides{ph3} / Browser observation"
 msgstr ""
+"{ph0}Αρχική{ph1} / {ph2}Οδηγοί{ph3} / Παρατήρηση προγράμματος περιήγησης"
 
 #. {ph0}: <br />
 #: website/public/guides/browser/index.html:200
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "See what happens{ph0}when you click."
-msgstr ""
+msgstr "Δείτε τι συμβαίνει{ph0}όταν κάνετε κλικ."
 
 #: website/public/guides/browser/index.html:201
 msgctxt "page:guides/browser/index.html"
@@ -5793,11 +5794,14 @@ msgid ""
 "Use a small browser app to connect an action, its network request and the "
 "JavaScript that builds a download."
 msgstr ""
+"Χρησιμοποιήστε μια μικρή εφαρμογή για πρόγραμμα περιήγησης για να συνδέσετε "
+"μια ενέργεια, το αίτημα δικτύου της και τη JavaScript που δημιουργεί μια "
+"λήψη."
 
 #: website/public/guides/browser/index.html:208
 msgctxt "page:guides/browser/index.html"
 msgid "In this guide"
-msgstr ""
+msgstr "Σε αυτόν τον οδηγό"
 
 #. {ph0}: <a href="#example">
 #. {ph1}: </a>
@@ -5805,7 +5809,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}The example{ph1}"
-msgstr ""
+msgstr "{ph0}Το παράδειγμα{ph1}"
 
 #. {ph0}: <a href="#prepare">
 #. {ph1}: </a>
@@ -5813,7 +5817,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}Open the browser{ph1}"
-msgstr ""
+msgstr "{ph0}Άνοιγμα του προγράμματος περιήγησης{ph1}"
 
 #. {ph0}: <a href="#ask">
 #. {ph1}: </a>
@@ -5821,7 +5825,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}Ask your agent{ph1}"
-msgstr ""
+msgstr "{ph0}Ερώτηση στον agent σας{ph1}"
 
 #. {ph0}: <a href="#capture">
 #. {ph1}: </a>
@@ -5829,7 +5833,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}Capture from CLI{ph1}"
-msgstr ""
+msgstr "{ph0}Καταγραφή από το CLI{ph1}"
 
 #. {ph0}: <a href="#result">
 #. {ph1}: </a>
@@ -5837,12 +5841,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}Read the request and script{ph1}"
-msgstr ""
+msgstr "{ph0}Ανάγνωση αιτήματος και script{ph1}"
 
 #: website/public/guides/browser/index.html:219
 msgctxt "page:guides/browser/index.html"
 msgid "What happens when you click Export?"
-msgstr ""
+msgstr "Τι συμβαίνει όταν κάνετε κλικ στο Export;"
 
 #. {ph0}: <a href="../../examples/notes-web/">
 #. {ph1}: </a>
@@ -5857,11 +5861,14 @@ msgid ""
 "Clicking it loads {ph4}, formats the two notes as CSV, and starts a "
 "download."
 msgstr ""
+"Το {ph0}παράδειγμα Notes για πρόγραμμα περιήγησης{ph1} διαθέτει ένα κουμπί "
+"{ph2}Export notes{ph3}. Όταν κάνετε κλικ σε αυτό, φορτώνει το {ph4}, "
+"μορφοποιεί τις δύο σημειώσεις ως CSV και ξεκινά μια λήψη."
 
 #: website/public/guides/browser/index.html:228
 msgctxt "page:guides/browser/index.html"
 msgid "From the click to the CSV download"
-msgstr ""
+msgstr "Από το κλικ στη λήψη του CSV"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -5876,6 +5883,9 @@ msgid ""
 "{ph0}01 · You{ph1}{ph2}Click Export notes{ph3}{ph4}Perform the action in "
 "your browser while the capture is running.{ph5}"
 msgstr ""
+"{ph0}01 · Εσείς{ph1}{ph2}Κάνετε κλικ στο Export notes{ph3}{ph4}Εκτελείτε την"
+" ενέργεια στο πρόγραμμα περιήγησής σας ενώ η καταγραφή είναι σε "
+"εξέλιξη.{ph5}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -5890,6 +5900,9 @@ msgid ""
 "{ph0}02 · REA{ph1}{ph2}Record the request{ph3}{ph4}Capture the request URL, "
 "response status and JSON structure from the selected page.{ph5}"
 msgstr ""
+"{ph0}02 · REA{ph1}{ph2}Καταγράφει το αίτημα{ph3}{ph4}Καταγράφει τη διεύθυνση"
+" URL του αιτήματος, την κατάσταση της απόκρισης και τη δομή JSON από την "
+"επιλεγμένη σελίδα.{ph5}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -5906,16 +5919,18 @@ msgid ""
 "{ph0}03 · Your agent{ph1}{ph2}Read the export code{ph3}{ph4}Connect the "
 "observed request to {ph5} in {ph6}.{ph7}"
 msgstr ""
+"{ph0}03 · Ο agent σας{ph1}{ph2}Διαβάζει τον κώδικα εξαγωγής{ph3}{ph4}Συνδέει"
+" το αίτημα που παρατηρήθηκε με το {ph5} στο {ph6}.{ph7}"
 
 #: website/public/guides/browser/index.html:259
 msgctxt "page:guides/browser/index.html"
 msgid "Start the capture before clicking Export notes."
-msgstr ""
+msgstr "Ξεκινήστε την καταγραφή πριν κάνετε κλικ στο Export notes."
 
 #: website/public/guides/browser/index.html:265
 msgctxt "page:guides/browser/index.html"
 msgid "Open Chrome with remote debugging"
-msgstr ""
+msgstr "Ανοίξτε το Chrome με απομακρυσμένη αποσφαλμάτωση"
 
 #: website/public/guides/browser/index.html:266
 msgctxt "page:guides/browser/index.html"
@@ -5923,11 +5938,13 @@ msgid ""
 "Open the hosted Notes example with a separate browser profile and a local "
 "debugging port. On Linux:"
 msgstr ""
+"Ανοίξτε το φιλοξενούμενο παράδειγμα Notes με ξεχωριστό προφίλ προγράμματος "
+"περιήγησης και μια τοπική θύρα αποσφαλμάτωσης. Σε Linux:"
 
 #: website/public/guides/browser/index.html:272
 msgctxt "page:guides/browser/index.html"
 msgid "Start the example browser"
-msgstr ""
+msgstr "Εκκίνηση του προγράμματος περιήγησης του παραδείγματος"
 
 #: website/public/guides/browser/index.html:273
 #: website/public/guides/browser/index.html:305
@@ -5936,7 +5953,7 @@ msgstr ""
 #: website/public/guides/browser/index.html:423
 msgctxt "page:guides/browser/index.html"
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #: website/public/guides/browser/index.html:287
 msgctxt "page:guides/browser/index.html"
@@ -5944,6 +5961,9 @@ msgid ""
 "Use your installed browser's executable path on macOS or Windows. You can "
 "replace the page URL with another page you want to inspect."
 msgstr ""
+"Σε macOS ή Windows, χρησιμοποιήστε τη διαδρομή του εκτελέσιμου αρχείου του "
+"εγκατεστημένου προγράμματος περιήγησής σας. Μπορείτε να αντικαταστήσετε τη "
+"διεύθυνση URL με μια άλλη σελίδα που θέλετε να εξετάσετε."
 
 #: website/public/guides/browser/index.html:292
 msgctxt "page:guides/browser/index.html"
@@ -5951,11 +5971,14 @@ msgid ""
 "REA connects to this existing browser. You keep control of the page, perform"
 " the action, and close the browser when finished."
 msgstr ""
+"Το REA συνδέεται σε αυτό το υπάρχον πρόγραμμα περιήγησης. Εσείς διατηρείτε "
+"τον έλεγχο της σελίδας, εκτελείτε την ενέργεια και κλείνετε το πρόγραμμα "
+"περιήγησης όταν τελειώσετε."
 
 #: website/public/guides/browser/index.html:298
 msgctxt "page:guides/browser/index.html"
 msgid "Ask your agent to watch one action"
-msgstr ""
+msgstr "Ζητήστε από τον agent σας να παρακολουθήσει μία ενέργεια"
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -5969,7 +5992,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Your coding agent"
-msgstr ""
+msgstr "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Ο agent προγραμματισμού σας"
 
 #. {ph0}: <span class="prompt-symbol" aria-hidden="true">
 #. {ph1}: </span >
@@ -5984,6 +6007,9 @@ msgid ""
 "{ph0}›{ph1}{ph2}Use REA to inspect this page while I click Export notes. "
 "What request does it make, and how is the CSV built?{ph3}{ph4}{ph5}"
 msgstr ""
+"{ph0}›{ph1}{ph2}Χρησιμοποίησε το REA για να εξετάσεις αυτή τη σελίδα ενώ "
+"κάνω κλικ στο Export notes. Ποιο αίτημα κάνει και πώς δημιουργείται το "
+"CSV;{ph3}{ph4}{ph5}"
 
 #. {ph0}: <code>http://127.0.0.1:9222</code>
 #: website/public/guides/browser/index.html:322
@@ -5993,6 +6019,9 @@ msgid ""
 "Example prompt. Give your agent the debugging endpoint, {ph0}, and the page "
 "URL. Let it start the capture before you click."
 msgstr ""
+"Παράδειγμα prompt. Δώστε στον agent σας το endpoint αποσφαλμάτωσης, {ph0}, "
+"και τη διεύθυνση URL της σελίδας. Αφήστε τον να ξεκινήσει την καταγραφή πριν"
+" κάνετε κλικ."
 
 #: website/public/guides/browser/index.html:327
 msgctxt "page:guides/browser/index.html"
@@ -6001,21 +6030,24 @@ msgid ""
 "reads the resulting evidence. It can then inspect the script behind the "
 "export."
 msgstr ""
+"Ο agent σας εντοπίζει τον στόχο της σελίδας, ξεκινά ένα παράθυρο παρατήρησης"
+" και διαβάζει τα τεκμήρια που προκύπτουν. Στη συνέχεια, μπορεί να εξετάσει "
+"το script πίσω από την εξαγωγή."
 
 #: website/public/guides/browser/index.html:334
 msgctxt "page:guides/browser/index.html"
 msgid "Or capture from the terminal"
-msgstr ""
+msgstr "Ή καταγράψτε από το τερματικό"
 
 #: website/public/guides/browser/index.html:335
 msgctxt "page:guides/browser/index.html"
 msgid "Find the page's target ID:"
-msgstr ""
+msgstr "Βρείτε το ID στόχου της σελίδας:"
 
 #: website/public/guides/browser/index.html:338
 msgctxt "page:guides/browser/index.html"
 msgid "Find the page"
-msgstr ""
+msgstr "Εύρεση της σελίδας"
 
 #. {ph0}: <code>TARGET_ID</code>
 #: website/public/guides/browser/index.html:351
@@ -6025,11 +6057,13 @@ msgid ""
 "Choose the target with the Notes example URL. Replace {ph0} below with its "
 "ID, then run:"
 msgstr ""
+"Επιλέξτε τον στόχο με τη διεύθυνση URL του παραδείγματος Notes. "
+"Αντικαταστήστε το {ph0} παρακάτω με το ID του και, στη συνέχεια, εκτελέστε:"
 
 #: website/public/guides/browser/index.html:357
 msgctxt "page:guides/browser/index.html"
 msgid "Capture the next ten seconds"
-msgstr ""
+msgstr "Καταγραφή των επόμενων δέκα δευτερολέπτων"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -6040,6 +6074,9 @@ msgid ""
 "Let the command connect for a few seconds, then click {ph0}Export notes{ph1}"
 " in that browser. The result arrives after the observation window ends."
 msgstr ""
+"Αφήστε την εντολή να συνδεθεί για λίγα δευτερόλεπτα και, στη συνέχεια, κάντε"
+" κλικ στο {ph0}Export notes{ph1} σε εκείνο το πρόγραμμα περιήγησης. Το "
+"αποτέλεσμα εμφανίζεται αφού λήξει το παράθυρο παρατήρησης."
 
 #: website/public/guides/browser/index.html:378
 msgctxt "page:guides/browser/index.html"
@@ -6048,53 +6085,57 @@ msgid ""
 " window, and the shape of the JSON response. Earlier requests are outside "
 "this capture."
 msgstr ""
+"Το καταγεγραμμένο αποτέλεσμα περιλαμβάνει την επιλεγμένη σελίδα, τη "
+"δραστηριότητα δικτύου κατά τη διάρκεια αυτού του παραθύρου και τη μορφή της "
+"απόκρισης JSON. Τα προηγούμενα αιτήματα βρίσκονται εκτός αυτής της "
+"καταγραφής."
 
 #: website/public/guides/browser/index.html:385
 msgctxt "page:guides/browser/index.html"
 msgid "Read the request and export script"
-msgstr ""
+msgstr "Διαβάστε το αίτημα και το script εξαγωγής"
 
 #: website/public/guides/browser/index.html:388
 msgctxt "page:guides/browser/index.html"
 msgid "Recorded with REA 4.1.0 on the local Notes example"
-msgstr ""
+msgstr "Καταγράφηκε με το REA 4.1.0 στο τοπικό παράδειγμα Notes"
 
 #: website/public/guides/browser/index.html:393
 msgctxt "page:guides/browser/index.html"
 msgid "Captured fact"
-msgstr ""
+msgstr "Καταγεγραμμένο στοιχείο"
 
 #: website/public/guides/browser/index.html:394
 msgctxt "page:guides/browser/index.html"
 msgid "Value"
-msgstr ""
+msgstr "Τιμή"
 
 #: website/public/guides/browser/index.html:399
 msgctxt "page:guides/browser/index.html"
 msgid "Request"
-msgstr ""
+msgstr "Αίτημα"
 
 #: website/public/guides/browser/index.html:403
 msgctxt "page:guides/browser/index.html"
 msgid "Response"
-msgstr ""
+msgstr "Απόκριση"
 
 #: website/public/guides/browser/index.html:407
 msgctxt "page:guides/browser/index.html"
 msgid "Request initiator"
-msgstr ""
+msgstr "Εκκινητής αιτήματος"
 
 #. {ph0}: <code>export.js</code>
 #: website/public/guides/browser/index.html:408
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0} · script"
-msgstr ""
+msgstr "{ph0} · script"
 
 #: website/public/guides/browser/index.html:411
 msgctxt "page:guides/browser/index.html"
 msgid "Response structure"
-msgstr ""
+msgstr "Δομή απόκρισης"
 
 #. {ph0}: <code>notes[]</code>
 #. {ph1}: <code>id</code>
@@ -6103,12 +6144,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0} with {ph1} and {ph2} fields"
-msgstr ""
+msgstr "{ph0} με πεδία {ph1} και {ph2}"
 
 #: website/public/guides/browser/index.html:422
 msgctxt "page:guides/browser/index.html"
 msgid "Read the loaded scripts"
-msgstr ""
+msgstr "Ανάγνωση των φορτωμένων script"
 
 #. {ph0}: <code>export.js</code>
 #: website/public/guides/browser/index.html:436
@@ -6118,13 +6159,16 @@ msgid ""
 "The request identifies the data source, and REA records {ph0} as its "
 "initiator. Read the captured script source to see how the data is used:"
 msgstr ""
+"Το αίτημα προσδιορίζει την πηγή των δεδομένων και το REA καταγράφει το {ph0}"
+" ως εκκινητή του. Διαβάστε τον καταγεγραμμένο πηγαίο κώδικα του script για "
+"να δείτε πώς χρησιμοποιούνται τα δεδομένα:"
 
 #. {ph0}: <span translate="no">export.js</span>
 #: website/public/guides/browser/index.html:443
 #, python-brace-format
 msgctxt "page:guides/browser/index.html"
 msgid "{ph0} · example source excerpt"
-msgstr ""
+msgstr "{ph0} · απόσπασμα πηγαίου κώδικα του παραδείγματος"
 
 #. {ph0}: <code>notes.json</code>
 #: website/public/guides/browser/index.html:456
@@ -6135,6 +6179,9 @@ msgid ""
 "formatting step comes from the script; the network capture establishes that "
 "this click requested {ph0}."
 msgstr ""
+"Η λήψη δημιουργείται μέσα στη σελίδα με βάση την απόκριση JSON. Το βήμα "
+"μορφοποίησης CSV προκύπτει από το script· η καταγραφή δικτύου τεκμηριώνει "
+"ότι αυτό το κλικ ζήτησε το {ph0}."
 
 #. {ph0}: <a href="../../examples/notes-web/">
 #. {ph1}: </a>
@@ -6151,6 +6198,8 @@ msgid ""
 "{ph0}Open the example{ph1} · {ph2}Download {ph3}{ph4} · {ph5}Download "
 "{ph6}{ph7}"
 msgstr ""
+"{ph0}Άνοιγμα του παραδείγματος{ph1} · {ph2}Λήψη {ph3}{ph4} · {ph5}Λήψη "
+"{ph6}{ph7}"
 
 #. {ph0}: <code>notes.json</code>
 #: website/public/guides/browser/index.html:472
@@ -6160,6 +6209,8 @@ msgid ""
 "Find the script that requests {ph0}. How does it escape titles containing "
 "commas or quotation marks?"
 msgstr ""
+"Βρες το script που ζητά το {ph0}. Πώς κάνει escape στους τίτλους που "
+"περιέχουν κόμματα ή εισαγωγικά;"
 
 #. {ph0}: <a href="../javascript/">
 #. {ph1}: </a>
@@ -6170,6 +6221,9 @@ msgid ""
 "For an installed JavaScript or Electron app, continue with the "
 "{ph0}application workflow{ph1} to follow files and process boundaries."
 msgstr ""
+"Για μια εγκατεστημένη εφαρμογή JavaScript ή Electron, συνεχίστε με τη "
+"{ph0}ροή εργασιών για εφαρμογές{ph1} για να ακολουθήσετε αρχεία και όρια "
+"διεργασιών."
 
 #. {ph0}: <a href="https://github.com/morluto/rea/blob/main/docs/web-network-
 #. captures.md" >
@@ -6183,11 +6237,16 @@ msgid ""
 "capture Evidence, or connect Everywhere's MCP server to inspect captured "
 "traffic with your agent."
 msgstr ""
+"Για τα σώματα αιτημάτων και αποκρίσεων HTTP, χρησιμοποιήστε το {ph0}Fiddler "
+"Everywhere: καταγραφές SAZ, MCP και δημόσια skills{ph1}. Εξαγάγετε SAZ ή HAR"
+" 1.2 για τεκμήρια καταγραφής του REA εκτός σύνδεσης ή συνδέστε τον "
+"διακομιστή MCP του Everywhere για να εξετάσετε την καταγεγραμμένη κίνηση με "
+"τον agent σας."
 
 #: website/public/guides/browser/index.html:6
 msgctxt "page:guides/browser/index.html"
 msgid "Browser and Network Analysis — REA"
-msgstr ""
+msgstr "Ανάλυση προγράμματος περιήγησης και δικτύου — REA"
 
 #: website/public/guides/browser/index.html:7
 msgctxt "page:guides/browser/index.html"
@@ -6195,51 +6254,56 @@ msgid ""
 "Observe a Notes export with REA: select a browser page, capture a click, "
 "inspect the request and follow the export script."
 msgstr ""
+"Παρατηρήστε μια εξαγωγή του Notes με το REA: επιλέξτε μια σελίδα του "
+"προγράμματος περιήγησης, καταγράψτε ένα κλικ, εξετάστε το αίτημα και "
+"ακολουθήστε το script εξαγωγής."
 
 #: website/public/guides/browser/index.html:207
 msgctxt "page:guides/browser/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #: website/public/guides/browser/index.html:217
 msgctxt "page:guides/browser/index.html"
 msgid "Browser observation"
-msgstr ""
+msgstr "Παρατήρηση προγράμματος περιήγησης"
 
 #: website/public/guides/browser/index.html:273
 msgctxt "page:guides/browser/index.html"
 msgid "Copy start the example browser"
 msgstr ""
+"Αντιγραφή της εντολής εκκίνησης του προγράμματος περιήγησης του "
+"παραδείγματος"
 
 #: website/public/guides/browser/index.html:305
 msgctxt "page:guides/browser/index.html"
 msgid "Copy example prompt"
-msgstr ""
+msgstr "Αντιγραφή του παραδείγματος prompt"
 
 #: website/public/guides/browser/index.html:339
 msgctxt "page:guides/browser/index.html"
 msgid "Copy find the page"
-msgstr ""
+msgstr "Αντιγραφή της εντολής εύρεσης της σελίδας"
 
 #: website/public/guides/browser/index.html:358
 msgctxt "page:guides/browser/index.html"
 msgid "Copy capture the next ten seconds"
-msgstr ""
+msgstr "Αντιγραφή της εντολής καταγραφής των επόμενων δέκα δευτερολέπτων"
 
 #: website/public/guides/browser/index.html:423
 msgctxt "page:guides/browser/index.html"
 msgid "Copy read the loaded scripts"
-msgstr ""
+msgstr "Αντιγραφή της εντολής ανάγνωσης των φορτωμένων script"
 
 #: website/public/guides/browser/index.html:509
 msgctxt "page:guides/browser/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/guides/index.html:105
 msgctxt "page:guides/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../">
 #. {ph1}: </a>
@@ -6247,12 +6311,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/index.html"
 msgid "{ph0}Home{ph1} / Guides"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1} / Οδηγοί"
 
 #: website/public/guides/index.html:197
 msgctxt "page:guides/index.html"
 msgid "REA guides."
-msgstr ""
+msgstr "Οδηγοί του REA."
 
 #: website/public/guides/index.html:198
 msgctxt "page:guides/index.html"
@@ -6260,36 +6324,41 @@ msgid ""
 "Analyze a native function, an Electron export or a browser request. Each "
 "guide includes a prompt, code and results."
 msgstr ""
+"Αναλύστε μια συνάρτηση σε κώδικα μηχανής, μια εξαγωγή σε Electron ή ένα "
+"αίτημα του προγράμματος περιήγησης. Κάθε οδηγός περιλαμβάνει prompt, κώδικα "
+"και αποτελέσματα."
 
 #: website/public/guides/index.html:205
 msgctxt "page:guides/index.html"
 msgid "First investigation"
-msgstr ""
+msgstr "Πρώτη διερεύνηση"
 
 #: website/public/guides/index.html:207
 msgctxt "page:guides/index.html"
 msgid "Set up REA"
-msgstr ""
+msgstr "Ρύθμιση του REA"
 
 #: website/public/guides/index.html:208
 msgctxt "page:guides/index.html"
 msgid "Connect your coding agent or use REA from the terminal."
 msgstr ""
+"Συνδέστε τον agent προγραμματισμού σας ή χρησιμοποιήστε το REA από το "
+"τερματικό."
 
 #: website/public/guides/index.html:209
 msgctxt "page:guides/index.html"
 msgid "Get started with REA"
-msgstr ""
+msgstr "Ξεκινήστε με το REA"
 
 #: website/public/guides/index.html:213
 msgctxt "page:guides/index.html"
 msgid "Native binaries"
-msgstr ""
+msgstr "Δυαδικά αρχεία με κώδικα μηχανής"
 
 #: website/public/guides/index.html:215
 msgctxt "page:guides/index.html"
 msgid "Recover a sound-pan calculation"
-msgstr ""
+msgstr "Ανακτήστε έναν υπολογισμό στερεοφωνικής θέσης ήχου"
 
 #: website/public/guides/index.html:216
 msgctxt "page:guides/index.html"
@@ -6297,41 +6366,44 @@ msgid ""
 "Start with a Windows game executable. Inspect instructions, follow a caller,"
 " read numeric constants and check the recovered C."
 msgstr ""
+"Ξεκινήστε από το εκτελέσιμο ενός παιχνιδιού για Windows. Εξετάστε εντολές, "
+"ακολουθήστε έναν καλούντα, διαβάστε αριθμητικές σταθερές και ελέγξτε τον "
+"ανακτημένο κώδικα C."
 
 #: website/public/guides/index.html:221
 msgctxt "page:guides/index.html"
 msgid "Instructions"
-msgstr ""
+msgstr "Εντολές"
 
 #: website/public/guides/index.html:222
 msgctxt "page:guides/index.html"
 msgid "Caller"
-msgstr ""
+msgstr "Καλών"
 
 #: website/public/guides/index.html:223
 msgctxt "page:guides/index.html"
 msgid "Constants"
-msgstr ""
+msgstr "Σταθερές"
 
 #: website/public/guides/index.html:224
 msgctxt "page:guides/index.html"
 msgid "C function"
-msgstr ""
+msgstr "Συνάρτηση C"
 
 #: website/public/guides/index.html:226
 msgctxt "page:guides/index.html"
 msgid "Native analysis guide"
-msgstr ""
+msgstr "Οδηγός ανάλυσης κώδικα μηχανής"
 
 #: website/public/guides/index.html:230
 msgctxt "page:guides/index.html"
 msgid "JavaScript & Electron"
-msgstr ""
+msgstr "JavaScript και Electron"
 
 #: website/public/guides/index.html:232
 msgctxt "page:guides/index.html"
 msgid "Follow a CSV export"
-msgstr ""
+msgstr "Ακολουθήστε μια εξαγωγή CSV"
 
 #: website/public/guides/index.html:233
 msgctxt "page:guides/index.html"
@@ -6339,31 +6411,34 @@ msgid ""
 "A small Notes app spreads one feature across the renderer, preload and main "
 "process. Use REA to connect the API, IPC channel and file writer."
 msgstr ""
+"Μια μικρή εφαρμογή Notes μοιράζει μία λειτουργία ανάμεσα στον renderer, το "
+"preload και την κύρια διεργασία. Χρησιμοποιήστε το REA για να συνδέσετε το "
+"API, το κανάλι IPC και τον κώδικα που γράφει το αρχείο."
 
 #: website/public/guides/index.html:239
 msgctxt "page:guides/index.html"
 msgid "Button"
-msgstr ""
+msgstr "Κουμπί"
 
 #: website/public/guides/index.html:240
 msgctxt "page:guides/index.html"
 msgid "Preload API"
-msgstr ""
+msgstr "API του preload"
 
 #: website/public/guides/index.html:241
 msgctxt "page:guides/index.html"
 msgid "IPC"
-msgstr ""
+msgstr "IPC"
 
 #: website/public/guides/index.html:241
 msgctxt "page:guides/index.html"
 msgid "CSV file"
-msgstr ""
+msgstr "Αρχείο CSV"
 
 #: website/public/guides/index.html:243
 msgctxt "page:guides/index.html"
 msgid "JavaScript & Electron guide"
-msgstr ""
+msgstr "Οδηγός JavaScript και Electron"
 
 #. {ph0}: <a href="../showcase/notion/">
 #. {ph1}: </a>
@@ -6372,16 +6447,18 @@ msgstr ""
 msgctxt "page:guides/index.html"
 msgid "For a larger packaged app, follow {ph0}Notion's clipboard bridge{ph1}."
 msgstr ""
+"Για μια μεγαλύτερη πακεταρισμένη εφαρμογή, ακολουθήστε {ph0}τη γέφυρα "
+"προχείρου του Notion{ph1}."
 
 #: website/public/guides/index.html:253
 msgctxt "page:guides/index.html"
 msgid "Browser behavior"
-msgstr ""
+msgstr "Συμπεριφορά προγράμματος περιήγησης"
 
 #: website/public/guides/index.html:255
 msgctxt "page:guides/index.html"
 msgid "Observe a click"
-msgstr ""
+msgstr "Παρατηρήστε ένα κλικ"
 
 #: website/public/guides/index.html:256
 msgctxt "page:guides/index.html"
@@ -6389,31 +6466,33 @@ msgid ""
 "Open a working Notes example, capture an export request and find the code "
 "that turns its response into a download."
 msgstr ""
+"Ανοίξτε ένα λειτουργικό παράδειγμα Notes, καταγράψτε ένα αίτημα εξαγωγής και"
+" βρείτε τον κώδικα που μετατρέπει την απάντησή του σε λήψη αρχείου."
 
 #: website/public/guides/index.html:261
 msgctxt "page:guides/index.html"
 msgid "Your click"
-msgstr ""
+msgstr "Το κλικ σας"
 
 #: website/public/guides/index.html:262
 msgctxt "page:guides/index.html"
 msgid "Captured request"
-msgstr ""
+msgstr "Καταγεγραμμένο αίτημα"
 
 #: website/public/guides/index.html:263
 msgctxt "page:guides/index.html"
 msgid "Export script"
-msgstr ""
+msgstr "Σενάριο εξαγωγής"
 
 #: website/public/guides/index.html:265
 msgctxt "page:guides/index.html"
 msgid "Browser observation guide"
-msgstr ""
+msgstr "Οδηγός παρατήρησης προγράμματος περιήγησης"
 
 #: website/public/guides/index.html:6
 msgctxt "page:guides/index.html"
 msgid "Reverse Engineering Guides — REA"
-msgstr ""
+msgstr "Οδηγοί αντίστροφης μηχανικής — REA"
 
 #: website/public/guides/index.html:7
 msgctxt "page:guides/index.html"
@@ -6421,16 +6500,19 @@ msgid ""
 "Learn REA through short worked examples: a native calculation, an Electron "
 "CSV export and a browser request."
 msgstr ""
+"Μάθετε το REA μέσα από σύντομα λυμένα παραδείγματα: έναν υπολογισμό σε "
+"κώδικα μηχανής, μια εξαγωγή CSV σε Electron και ένα αίτημα του προγράμματος "
+"περιήγησης."
 
 #: website/public/guides/index.html:284
 msgctxt "page:guides/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/guides/javascript/index.html:105
 msgctxt "page:guides/javascript/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -6440,14 +6522,14 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Home{ph1} / {ph2}Guides{ph3} / JavaScript & Electron"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1} / {ph2}Οδηγοί{ph3} / JavaScript και Electron"
 
 #. {ph0}: <br />
 #: website/public/guides/javascript/index.html:200
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "Trace an Electron{ph0}CSV export."
-msgstr ""
+msgstr "Ιχνηλατήστε μια εξαγωγή{ph0}CSV σε Electron."
 
 #: website/public/guides/javascript/index.html:201
 msgctxt "page:guides/javascript/index.html"
@@ -6455,11 +6537,13 @@ msgid ""
 "Follow a button click from the page API, through Electron IPC, to the CSV "
 "file writer."
 msgstr ""
+"Ακολουθήστε ένα κλικ σε κουμπί από το API της σελίδας, μέσω του IPC του "
+"Electron, μέχρι τον κώδικα που γράφει το αρχείο CSV."
 
 #: website/public/guides/javascript/index.html:208
 msgctxt "page:guides/javascript/index.html"
 msgid "In this guide"
-msgstr ""
+msgstr "Σε αυτόν τον οδηγό"
 
 #. {ph0}: <a href="#example">
 #. {ph1}: </a>
@@ -6467,7 +6551,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}The example{ph1}"
-msgstr ""
+msgstr "{ph0}Το παράδειγμα{ph1}"
 
 #. {ph0}: <a href="#ask">
 #. {ph1}: </a>
@@ -6475,7 +6559,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Ask your agent{ph1}"
-msgstr ""
+msgstr "{ph0}Ρωτήστε τον agent σας{ph1}"
 
 #. {ph0}: <a href="#follow">
 #. {ph1}: </a>
@@ -6483,7 +6567,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Trace the export code{ph1}"
-msgstr ""
+msgstr "{ph0}Ιχνηλατήστε τον κώδικα εξαγωγής{ph1}"
 
 #. {ph0}: <a href="#try">
 #. {ph1}: </a>
@@ -6491,7 +6575,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Try the example{ph1}"
-msgstr ""
+msgstr "{ph0}Δοκιμάστε το παράδειγμα{ph1}"
 
 #. {ph0}: <a href="#next">
 #. {ph1}: </a>
@@ -6499,12 +6583,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Inspect the CSV writer{ph1}"
-msgstr ""
+msgstr "{ph0}Εξετάστε τον κώδικα εγγραφής του CSV{ph1}"
 
 #: website/public/guides/javascript/index.html:219
 msgctxt "page:guides/javascript/index.html"
 msgid "Where does “Export notes” go?"
-msgstr ""
+msgstr "Πού οδηγεί το «Export notes»;"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -6516,11 +6600,14 @@ msgid ""
 "an API in the page, crosses into the main process, and writes a CSV. The "
 "behavior is spread across several files."
 msgstr ""
+"Αυτός ο οδηγός χρησιμοποιεί μια μικρή εφαρμογή Electron. Το κλικ στο "
+"{ph0}Export notes{ph1} καλεί ένα API στη σελίδα, περνά στην κύρια διεργασία "
+"και γράφει ένα CSV. Η συμπεριφορά είναι μοιρασμένη σε πολλά αρχεία."
 
 #: website/public/guides/javascript/index.html:227
 msgctxt "page:guides/javascript/index.html"
 msgid "The CSV export across Electron processes"
-msgstr ""
+msgstr "Η εξαγωγή CSV ανάμεσα στις διεργασίες του Electron"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -6538,6 +6625,8 @@ msgid ""
 "{ph0}Renderer → preload{ph1}{ph2}{ph3}{ph4}{ph5}{ph6} calls the API exposed "
 "by {ph7}.{ph8}"
 msgstr ""
+"{ph0}Renderer → preload{ph1}{ph2}{ph3}{ph4}{ph5}{ph6} καλεί το API που "
+"εκθέτει το {ph7}.{ph8}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -6553,6 +6642,8 @@ msgid ""
 "{ph0}Between processes{ph1}{ph2}{ph3}{ph4}{ph5}The preload invokes an IPC "
 "channel: a named message to the main process.{ph6}"
 msgstr ""
+"{ph0}Μεταξύ διεργασιών{ph1}{ph2}{ph3}{ph4}{ph5}Το preload καλεί ένα κανάλι "
+"IPC: ένα επώνυμο μήνυμα προς την κύρια διεργασία.{ph6}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -6568,6 +6659,8 @@ msgid ""
 "{ph0}Main process{ph1}{ph2}An export handler{ph3}{ph4}{ph5} handles that "
 "channel and calls the CSV writer.{ph6}"
 msgstr ""
+"{ph0}Κύρια διεργασία{ph1}{ph2}Ένας χειριστής εξαγωγής{ph3}{ph4}{ph5} "
+"χειρίζεται αυτό το κανάλι και καλεί τον κώδικα εγγραφής του CSV.{ph6}"
 
 #. {ph0}: <code>csv.js</code>
 #. {ph1}: <code>main.js</code>
@@ -6576,7 +6669,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0} formats the notes → {ph1} writes {ph2}."
-msgstr ""
+msgstr "Το {ph0} μορφοποιεί τις σημειώσεις → το {ph1} γράφει το {ph2}."
 
 #: website/public/guides/javascript/index.html:260
 msgctxt "page:guides/javascript/index.html"
@@ -6585,11 +6678,14 @@ msgid ""
 "API. The path is inferred from code; a runtime capture can check what "
 "executes."
 msgstr ""
+"Το REA αντιστοιχίζει την κυριολεκτική κλήση IPC με τον χειριστή της και "
+"αναγνωρίζει το εκτεθειμένο API. Η διαδρομή συνάγεται από τον κώδικα· μια "
+"καταγραφή κατά την εκτέλεση μπορεί να ελέγξει τι πραγματικά εκτελείται."
 
 #: website/public/guides/javascript/index.html:268
 msgctxt "page:guides/javascript/index.html"
 msgid "Ask about the CSV export"
-msgstr ""
+msgstr "Ρωτήστε για την εξαγωγή CSV"
 
 #. {ph0}: <a href="../../get-started/#agent">
 #. {ph1}: </a>
@@ -6600,6 +6696,8 @@ msgid ""
 "{ph0}Connect your agent to REA{ph1} and give it the app directory or ASAR "
 "file:"
 msgstr ""
+"{ph0}Συνδέστε τον agent σας με το REA{ph1} και δώστε του τον φάκελο της "
+"εφαρμογής ή το αρχείο ASAR:"
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -6613,13 +6711,13 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Your coding agent"
-msgstr ""
+msgstr "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Ο agent προγραμματισμού σας"
 
 #: website/public/guides/javascript/index.html:279
 #: website/public/guides/javascript/index.html:428
 msgctxt "page:guides/javascript/index.html"
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #. {ph0}: <span class="prompt-symbol" aria-hidden="true">
 #. {ph1}: </span >
@@ -6634,6 +6732,8 @@ msgid ""
 "{ph0}›{ph1}{ph2}Use REA to find what happens when I export notes in this "
 "app. Where is the CSV created?{ph3}{ph4}{ph5}"
 msgstr ""
+"{ph0}›{ph1}{ph2}Χρησιμοποίησε το REA για να βρεις τι συμβαίνει όταν εξάγω "
+"σημειώσεις σε αυτή την εφαρμογή. Πού δημιουργείται το CSV;{ph3}{ph4}{ph5}"
 
 #. {ph0}: <code>app.asar</code>
 #: website/public/guides/javascript/index.html:296
@@ -6643,6 +6743,8 @@ msgid ""
 "Example prompt. Include the absolute path to the application folder or "
 "{ph0}."
 msgstr ""
+"Παράδειγμα prompt. Συμπεριλάβετε την απόλυτη διαδρομή του φακέλου της "
+"εφαρμογής ή του {ph0}."
 
 #: website/public/guides/javascript/index.html:300
 msgctxt "page:guides/javascript/index.html"
@@ -6651,16 +6753,19 @@ msgid ""
 " process boundaries. Your agent uses that map to narrow the investigation to"
 " the export feature."
 msgstr ""
+"Το REA διαβάζει τα αρχεία της εφαρμογής και δημιουργεί έναν χάρτη με σημεία "
+"εισόδου, modules και όρια διεργασιών. Ο agent σας χρησιμοποιεί αυτόν τον "
+"χάρτη για να περιορίσει τη διερεύνηση στη λειτουργία εξαγωγής."
 
 #: website/public/guides/javascript/index.html:307
 msgctxt "page:guides/javascript/index.html"
 msgid "Trace the export code"
-msgstr ""
+msgstr "Ιχνηλατήστε τον κώδικα εξαγωγής"
 
 #: website/public/guides/javascript/index.html:308
 msgctxt "page:guides/javascript/index.html"
 msgid "The page calls a small API"
-msgstr ""
+msgstr "Η σελίδα καλεί ένα μικρό API"
 
 #. {ph0}: <span translate="no">renderer.js</span>
 #: website/public/guides/javascript/index.html:311
@@ -6669,7 +6774,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0} · example source"
-msgstr ""
+msgstr "{ph0} · πηγαίος κώδικας παραδείγματος"
 
 #: website/public/guides/javascript/index.html:321
 msgctxt "page:guides/javascript/index.html"
@@ -6677,6 +6782,8 @@ msgid ""
 "The page knows the method name. The implementation lives in the preload, "
 "which exposes it to the renderer."
 msgstr ""
+"Η σελίδα γνωρίζει το όνομα της μεθόδου. Η υλοποίηση βρίσκεται στο preload, "
+"το οποίο την εκθέτει στον renderer."
 
 #. {ph0}: <code>notes.exportCsv</code>
 #. {ph1}: <code>notes:export</code>
@@ -6687,6 +6794,8 @@ msgid ""
 "REA records {ph0} and the literal channel {ph1}. It pairs that invocation "
 "with the single matching handler in the main process."
 msgstr ""
+"Το REA καταγράφει το {ph0} και το κυριολεκτικό κανάλι {ph1}. Αντιστοιχίζει "
+"αυτή την κλήση με τον μοναδικό χειριστή που ταιριάζει στην κύρια διεργασία."
 
 #. {ph0}: <code>csv.js</code>
 #. {ph1}: <code>notes.csv</code>
@@ -6697,11 +6806,14 @@ msgid ""
 "Reading the handler answers the original question: {ph0} formats the notes, "
 "and the main process writes {ph1} into the user's Downloads folder."
 msgstr ""
+"Η ανάγνωση του χειριστή απαντά στην αρχική ερώτηση: το {ph0} μορφοποιεί τις "
+"σημειώσεις και η κύρια διεργασία γράφει το {ph1} στον φάκελο Downloads του "
+"χρήστη."
 
 #: website/public/guides/javascript/index.html:359
 msgctxt "page:guides/javascript/index.html"
 msgid "REA result · summary.ipc excerpt"
-msgstr ""
+msgstr "Αποτέλεσμα του REA · απόσπασμα του summary.ipc"
 
 #: website/public/guides/javascript/index.html:369
 msgctxt "page:guides/javascript/index.html"
@@ -6709,11 +6821,14 @@ msgid ""
 "Recorded by REA 4.1.0 on the downloadable example below. Source locations "
 "accompany the API, channel and handler findings."
 msgstr ""
+"Καταγράφηκε από το REA 4.1.0 στο παράδειγμα που μπορείτε να κατεβάσετε "
+"παρακάτω. Τα ευρήματα για το API, το κανάλι και τον χειριστή συνοδεύονται "
+"από θέσεις στον πηγαίο κώδικα."
 
 #: website/public/guides/javascript/index.html:375
 msgctxt "page:guides/javascript/index.html"
 msgid "Analyze the example yourself"
-msgstr ""
+msgstr "Αναλύστε μόνοι σας το παράδειγμα"
 
 #. {ph0}: <code>notes-example</code>
 #. {ph1}: <span translate="no">Node.js</span>
@@ -6725,6 +6840,9 @@ msgid ""
 "folder. Analyze it with {ph1} and npm; Electron is not needed for this "
 "example."
 msgstr ""
+"Κατεβάστε το παράδειγμα και αποσυμπιέστε το. Το αρχείο περιέχει ολόκληρο τον"
+" φάκελο {ph0}. Αναλύστε το με το {ph1} και το npm· για αυτό το παράδειγμα "
+"δεν χρειάζεται το Electron."
 
 #. {ph0}: <a class="button" href="../../examples/notes-example.zip"
 #. download="notes-example.zip" >
@@ -6733,17 +6851,17 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/javascript/index.html"
 msgid "{ph0}Download example ZIP{ph1}"
-msgstr ""
+msgstr "{ph0}Λήψη του παραδείγματος (ZIP){ph1}"
 
 #: website/public/guides/javascript/index.html:391
 msgctxt "page:guides/javascript/index.html"
 msgid "Browse the six source files"
-msgstr ""
+msgstr "Δείτε τα έξι αρχεία πηγαίου κώδικα"
 
 #: website/public/guides/javascript/index.html:427
 msgctxt "page:guides/javascript/index.html"
 msgid "Static application analysis"
-msgstr ""
+msgstr "Στατική ανάλυση εφαρμογής"
 
 #. {ph0}: <code>normalized_result.summary.ipc</code>
 #. {ph1}: <code>normalized_result.graph</code>
@@ -6754,6 +6872,9 @@ msgid ""
 "Replace the path with the folder you unzipped. You should find one IPC "
 "channel and one matching handler in {ph0}. Source locations are in {ph1}."
 msgstr ""
+"Αντικαταστήστε τη διαδρομή με τον φάκελο που αποσυμπιέσατε. Στο {ph0} θα "
+"πρέπει να βρείτε ένα κανάλι IPC και έναν αντίστοιχο χειριστή. Οι θέσεις στον"
+" πηγαίο κώδικα βρίσκονται στο {ph1}."
 
 #: website/public/guides/javascript/index.html:446
 msgctxt "page:guides/javascript/index.html"
@@ -6762,11 +6883,15 @@ msgid ""
 "agent can follow a literal string, API name or IPC channel with REA's "
 "feature tracing tools."
 msgstr ""
+"Για τη δική σας εφαρμογή, χρησιμοποιήστε την ίδια εντολή με τον φάκελό της ή"
+" τη διαδρομή του ASAR. Ένας agent μπορεί να ακολουθήσει μια κυριολεκτική "
+"συμβολοσειρά, ένα όνομα API ή ένα κανάλι IPC με τα εργαλεία ανίχνευσης "
+"λειτουργιών του REA."
 
 #: website/public/guides/javascript/index.html:453
 msgctxt "page:guides/javascript/index.html"
 msgid "Inspect the CSV writer"
-msgstr ""
+msgstr "Εξετάστε τον κώδικα εγγραφής του CSV"
 
 #. {ph0}: <code>notes:export</code>
 #: website/public/guides/javascript/index.html:455
@@ -6776,6 +6901,8 @@ msgid ""
 "Follow {ph0} to its handler. Which inputs reach the CSV writer, and what "
 "happens if writing the file fails?"
 msgstr ""
+"Ακολούθησε το {ph0} μέχρι τον χειριστή του. Ποιες είσοδοι φτάνουν στον "
+"κώδικα που γράφει το CSV και τι συμβαίνει αν αποτύχει η εγγραφή του αρχείου;"
 
 #: website/public/guides/javascript/index.html:461
 msgctxt "page:guides/javascript/index.html"
@@ -6784,6 +6911,10 @@ msgid ""
 "and ambiguous handlers can remain unresolved; runtime observations give you "
 "another way to investigate them."
 msgstr ""
+"Χρησιμοποιήστε τις θέσεις στον πηγαίο κώδικα για να εξετάσετε αυτές τις "
+"λεπτομέρειες. Υπολογιζόμενα ονόματα καναλιών και αμφίσημοι χειριστές μπορεί "
+"να μείνουν ανεπίλυτοι· οι παρατηρήσεις κατά την εκτέλεση σας δίνουν έναν "
+"ακόμη τρόπο να τα διερευνήσετε."
 
 #. {ph0}: <a href="../../showcase/notion/" >
 #. {ph1}: </a >
@@ -6796,6 +6927,8 @@ msgid ""
 "{ph0}Follow Notion's clipboard bridge{ph1} {ph2}Apply the same approach to a"
 " packaged Electron app.{ph3}"
 msgstr ""
+"{ph0}Ακολουθήστε τη γέφυρα προχείρου του Notion{ph1} {ph2}Εφαρμόστε την ίδια"
+" προσέγγιση σε μια πακεταρισμένη εφαρμογή Electron.{ph3}"
 
 #. {ph0}: <a href="../browser/">
 #. {ph1}: </a >
@@ -6808,6 +6941,8 @@ msgid ""
 "{ph0}Observe a browser export{ph1}{ph2}Capture a real click and see which "
 "request it makes.{ph3}"
 msgstr ""
+"{ph0}Παρατηρήστε μια εξαγωγή στο πρόγραμμα περιήγησης{ph1}{ph2}Καταγράψτε "
+"ένα πραγματικό κλικ και δείτε ποιο αίτημα στέλνει.{ph3}"
 
 #. {ph0}: <a href="../native/">
 #. {ph1}: </a >
@@ -6820,11 +6955,13 @@ msgid ""
 "{ph0}Follow a native function{ph1}{ph2}Continue into a binary when a feature"
 " depends on native code.{ph3}"
 msgstr ""
+"{ph0}Ακολουθήστε μια συνάρτηση σε κώδικα μηχανής{ph1}{ph2}Συνεχίστε σε ένα "
+"δυαδικό αρχείο όταν μια λειτουργία εξαρτάται από κώδικα μηχανής.{ph3}"
 
 #: website/public/guides/javascript/index.html:6
 msgctxt "page:guides/javascript/index.html"
 msgid "JavaScript and Electron Analysis — REA"
-msgstr ""
+msgstr "Ανάλυση JavaScript και Electron — REA"
 
 #: website/public/guides/javascript/index.html:7
 msgctxt "page:guides/javascript/index.html"
@@ -6833,36 +6970,39 @@ msgid ""
 "with REA. Includes downloadable example files and a verified analysis "
 "result."
 msgstr ""
+"Ιχνηλατήστε με το REA μια εξαγωγή CSV του Notes μέσα από ένα API του "
+"renderer, το preload και έναν χειριστή IPC. Περιλαμβάνει αρχεία "
+"παραδείγματος για λήψη και ένα επαληθευμένο αποτέλεσμα ανάλυσης."
 
 #: website/public/guides/javascript/index.html:207
 msgctxt "page:guides/javascript/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #: website/public/guides/javascript/index.html:217
 msgctxt "page:guides/javascript/index.html"
 msgid "JavaScript & Electron"
-msgstr ""
+msgstr "JavaScript και Electron"
 
 #: website/public/guides/javascript/index.html:279
 msgctxt "page:guides/javascript/index.html"
 msgid "Copy example prompt"
-msgstr ""
+msgstr "Αντιγραφή του παραδείγματος prompt"
 
 #: website/public/guides/javascript/index.html:428
 msgctxt "page:guides/javascript/index.html"
 msgid "Copy static application analysis"
-msgstr ""
+msgstr "Αντιγραφή της εντολής στατικής ανάλυσης εφαρμογής"
 
 #: website/public/guides/javascript/index.html:505
 msgctxt "page:guides/javascript/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/guides/native/index.html:105
 msgctxt "page:guides/native/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -6872,14 +7012,14 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}Home{ph1} / {ph2}Guides{ph3} / Native analysis"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1} / {ph2}Οδηγοί{ph3} / Ανάλυση κώδικα μηχανής"
 
 #. {ph0}: <br />
 #: website/public/guides/native/index.html:199
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "Recover DX-Ball's{ph0}sound-pan calculation."
-msgstr ""
+msgstr "Ανακτήστε τον υπολογισμό{ph0}του panning ήχου στο DX-Ball."
 
 #: website/public/guides/native/index.html:200
 msgctxt "page:guides/native/index.html"
@@ -6887,11 +7027,13 @@ msgid ""
 "Inspect the original instructions, identify the input and constants, then "
 "check the recovered C."
 msgstr ""
+"Εξετάστε τις αρχικές εντολές, εντοπίστε την είσοδο και τις σταθερές και "
+"έπειτα ελέγξτε τον ανακτημένο κώδικα C."
 
 #: website/public/guides/native/index.html:207
 msgctxt "page:guides/native/index.html"
 msgid "In this guide"
-msgstr ""
+msgstr "Σε αυτόν τον οδηγό"
 
 #. {ph0}: <a href="#example">
 #. {ph1}: </a>
@@ -6899,7 +7041,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}The example{ph1}"
-msgstr ""
+msgstr "{ph0}Το παράδειγμα{ph1}"
 
 #. {ph0}: <a href="#ask">
 #. {ph1}: </a>
@@ -6907,7 +7049,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}Ask your agent{ph1}"
-msgstr ""
+msgstr "{ph0}Ερώτηση στον agent σας{ph1}"
 
 #. {ph0}: <a href="#follow">
 #. {ph1}: </a>
@@ -6915,7 +7057,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}Read the REA results{ph1}"
-msgstr ""
+msgstr "{ph0}Ανάγνωση των αποτελεσμάτων του REA{ph1}"
 
 #. {ph0}: <a href="#result">
 #. {ph1}: </a>
@@ -6923,7 +7065,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}Recover and check{ph1}"
-msgstr ""
+msgstr "{ph0}Ανάκτηση και έλεγχος{ph1}"
 
 #. {ph0}: <a href="#try">
 #. {ph1}: </a>
@@ -6931,12 +7073,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}Use your own binary{ph1}"
-msgstr ""
+msgstr "{ph0}Χρήση του δικού σας δυαδικού αρχείου{ph1}"
 
 #: website/public/guides/native/index.html:218
 msgctxt "page:guides/native/index.html"
 msgid "Calculate left/right sound panning"
-msgstr ""
+msgstr "Υπολογισμός του panning ήχου αριστερά/δεξιά"
 
 #: website/public/guides/native/index.html:219
 msgctxt "page:guides/native/index.html"
@@ -6944,6 +7086,8 @@ msgid ""
 "In DX-Ball, a brick hit supplies a horizontal screen position. The sound "
 "code turns it into a left/right panning value."
 msgstr ""
+"Στο DX-Ball, ένα χτύπημα σε τούβλο δίνει μια οριζόντια θέση στην οθόνη. Ο "
+"κώδικας ήχου τη μετατρέπει σε τιμή panning αριστερά/δεξιά."
 
 #. {ph0}: <code>0x00406400</code>
 #. {ph1}: <code>__ftol()</code>
@@ -6955,11 +7099,15 @@ msgid ""
 "{ph1}. REA also returns its instructions and callers, which give the agent a"
 " way to investigate the missing arithmetic."
 msgstr ""
+"Η αρχική συνάρτηση, {ph0}, έχει σύντομο αποτέλεσμα απομεταγλωττιστή: μια "
+"κλήση στη {ph1}. Το REA επιστρέφει επίσης τις εντολές και τις καλούσες "
+"συναρτήσεις της, οι οποίες δίνουν στον agent έναν τρόπο να διερευνήσει τις "
+"αριθμητικές πράξεις που λείπουν."
 
 #: website/public/guides/native/index.html:230
 msgctxt "page:guides/native/index.html"
 msgid "New to these terms?"
-msgstr ""
+msgstr "Δεν γνωρίζετε αυτούς τους όρους;"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -6972,6 +7120,8 @@ msgid ""
 "{ph0}Instructions:{ph1} the steps the processor runs, shown in readable form"
 " such as {ph2} or {ph3}."
 msgstr ""
+"{ph0}Εντολές:{ph1} τα βήματα που εκτελεί ο επεξεργαστής, σε ευανάγνωστη "
+"μορφή όπως {ph2} ή {ph3}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -6982,6 +7132,9 @@ msgid ""
 "{ph0}Decompiler result / pseudocode:{ph1} an analysis tool's attempt to turn"
 " instructions back into C-like code. It can miss parts, as in this example."
 msgstr ""
+"{ph0}Αποτέλεσμα απομεταγλωττιστή / ψευδοκώδικας:{ph1} η προσπάθεια ενός "
+"εργαλείου ανάλυσης να μετατρέψει τις εντολές ξανά σε κώδικα παρόμοιο με C. "
+"Μπορεί να παραλείψει τμήματα, όπως σε αυτό το παράδειγμα."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -6992,6 +7145,8 @@ msgid ""
 "{ph0}Caller:{ph1} a function that calls this one. It shows which values are "
 "passed in."
 msgstr ""
+"{ph0}Καλούσα συνάρτηση:{ph1} μια συνάρτηση που καλεί αυτήν. Δείχνει ποιες "
+"τιμές μεταβιβάζονται."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7003,6 +7158,8 @@ msgid ""
 "{ph0}Address:{ph1} a location in the program, written in hexadecimal, such "
 "as {ph2}."
 msgstr ""
+"{ph0}Διεύθυνση:{ph1} μια θέση στο πρόγραμμα, γραμμένη σε δεκαεξαδική μορφή, "
+"όπως {ph2}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7013,11 +7170,13 @@ msgid ""
 "{ph0}Constants:{ph1} fixed numbers stored in the program, read as raw bytes "
 "and decoded."
 msgstr ""
+"{ph0}Σταθερές:{ph1} σταθεροί αριθμοί αποθηκευμένοι στο πρόγραμμα, που "
+"διαβάζονται ως ακατέργαστα byte και αποκωδικοποιούνται."
 
 #: website/public/guides/native/index.html:257
 msgctxt "page:guides/native/index.html"
 msgid "Three pieces of evidence, one calculation"
-msgstr ""
+msgstr "Τρία τεκμήρια, ένας υπολογισμός"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -7032,6 +7191,9 @@ msgid ""
 "{ph0}01 · Instructions{ph1}{ph2}An integer input{ph3}{ph4}A stack read "
 "supplies the value used by the floating-point instructions.{ph5}"
 msgstr ""
+"{ph0}01 · Εντολές{ph1}{ph2}Μια ακέραια είσοδος{ph3}{ph4}Μια ανάγνωση από τη "
+"στοίβα παρέχει την τιμή που χρησιμοποιούν οι εντολές κινητής "
+"υποδιαστολής.{ph5}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -7047,6 +7209,8 @@ msgid ""
 "{ph0}02 · Caller{ph1}{ph2}A screen coordinate{ph3}{ph4}The brick-hit caller "
 "passes {ph5}.{ph6}"
 msgstr ""
+"{ph0}02 · Καλούσα συνάρτηση{ph1}{ph2}Μια συντεταγμένη οθόνης{ph3}{ph4}Η "
+"καλούσα συνάρτηση για το χτύπημα τούβλου μεταβιβάζει το {ph5}.{ph6}"
 
 #. {ph0}: <span class="flow-label">
 #. {ph1}: </span >
@@ -7063,6 +7227,9 @@ msgid ""
 "{ph0}03 · Data bytes{ph1}{ph2}The numeric constants{ph3}{ph4}Referenced "
 "bytes decode to {ph5}, {ph6} and a scale value.{ph7}"
 msgstr ""
+"{ph0}03 · Byte δεδομένων{ph1}{ph2}Οι αριθμητικές σταθερές{ph3}{ph4}Τα byte "
+"που αναφέρονται αποκωδικοποιούνται σε {ph5}, {ph6} και μια τιμή "
+"κλίμακας.{ph7}"
 
 #: website/public/guides/native/index.html:289
 msgctxt "page:guides/native/index.html"
@@ -7070,11 +7237,13 @@ msgid ""
 "REA supplies the instructions, call relationship and bytes. The agent "
 "interprets them together."
 msgstr ""
+"Το REA παρέχει τις εντολές, τη σχέση κλήσης και τα byte. Ο agent τα "
+"ερμηνεύει συνδυαστικά."
 
 #: website/public/guides/native/index.html:296
 msgctxt "page:guides/native/index.html"
 msgid "Ask about the behavior"
-msgstr ""
+msgstr "Ρωτήστε για τη συμπεριφορά"
 
 #. {ph0}: <a href="../../get-started/#agent" >
 #. {ph1}: </a >
@@ -7087,16 +7256,21 @@ msgid ""
 "After {ph0}connecting REA to your agent{ph1} and {ph2}setting up a native "
 "analysis tool{ph3}, provide the local executable and a question:"
 msgstr ""
+"Αφού {ph0}συνδέσετε το REA με τον agent σας{ph1} και {ph2}ρυθμίσετε ένα "
+"εργαλείο ανάλυσης κώδικα μηχανής{ph3}, δώστε το τοπικό εκτελέσιμο αρχείο και"
+" μια ερώτηση:"
 
 #: website/public/guides/native/index.html:308
 msgctxt "page:guides/native/index.html"
 msgid "Which analysis tool should I use?"
-msgstr ""
+msgstr "Ποιο εργαλείο ανάλυσης να χρησιμοποιήσω;"
 
 #: website/public/guides/native/index.html:309
 msgctxt "page:guides/native/index.html"
 msgid "REA needs one of these to read native programs:"
 msgstr ""
+"Το REA χρειάζεται ένα από τα παρακάτω για να διαβάσει προγράμματα σε κώδικα "
+"μηχανής:"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7108,6 +7282,10 @@ msgid ""
 "install it. On macOS, open Hopper once and choose demo mode or activate a "
 "license before your first analysis."
 msgstr ""
+"{ph0}Hopper{ph1} (macOS ή Linux): η ρύθμιση του REA το εντοπίζει ή "
+"προσφέρεται να το εγκαταστήσει. Σε macOS, ανοίξτε το Hopper μία φορά και "
+"επιλέξτε τη λειτουργία επίδειξης ή ενεργοποιήστε μια άδεια πριν από την "
+"πρώτη σας ανάλυση."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7118,6 +7296,9 @@ msgid ""
 "{ph0}Ghidra{ph1} (macOS or Linux; experimental on Windows): free, but needs "
 "an existing Ghidra 12.1.x installation and a 64-bit JDK 21 or newer."
 msgstr ""
+"{ph0}Ghidra{ph1} (macOS ή Linux· πειραματικά σε Windows): δωρεάν, αλλά "
+"απαιτεί υπάρχουσα εγκατάσταση του Ghidra 12.1.x και JDK 21 ή νεότερο, 64 "
+"bit."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7127,6 +7308,8 @@ msgctxt "page:guides/native/index.html"
 msgid ""
 "{ph0}IDA{ph1} (Windows): for an existing IDA setup with an MCP registration."
 msgstr ""
+"{ph0}IDA{ph1} (Windows): για υπάρχουσα εγκατάσταση του IDA με καταχώριση "
+"MCP."
 
 #. {ph0}: <a href="../../get-started/#native">
 #. {ph1}: </a>
@@ -7135,6 +7318,7 @@ msgstr ""
 msgctxt "page:guides/native/index.html"
 msgid "See {ph0}Set up native analysis{ph1} for the steps."
 msgstr ""
+"Δείτε την ενότητα {ph0}Ρύθμιση ανάλυσης κώδικα μηχανής{ph1} για τα βήματα."
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -7148,13 +7332,13 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Your coding agent"
-msgstr ""
+msgstr "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Ο agent προγραμματισμού σας"
 
 #: website/public/guides/native/index.html:339
 #: website/public/guides/native/index.html:470
 msgctxt "page:guides/native/index.html"
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #. {ph0}: <span class="prompt-symbol" aria-hidden="true">
 #. {ph1}: </span >
@@ -7169,6 +7353,9 @@ msgid ""
 "{ph0}›{ph1}{ph2}Use REA to find how DX-Ball calculates sound panning. "
 "Explain the calculation and show the code.{ph3}{ph4}{ph5}"
 msgstr ""
+"{ph0}›{ph1}{ph2}Χρησιμοποίησε το REA για να βρεις πώς υπολογίζει το DX-Ball "
+"το panning του ήχου. Εξήγησε τον υπολογισμό και δείξε τον "
+"κώδικα.{ph3}{ph4}{ph5}"
 
 #: website/public/guides/native/index.html:356
 msgctxt "page:guides/native/index.html"
@@ -7177,11 +7364,15 @@ msgid ""
 "executable. REA doesn't include DX-Ball, so use your own copy, or ask the "
 "same kind of question about another small Windows program you have."
 msgstr ""
+"Παράδειγμα prompt. Δώστε στον agent σας τη διαδρομή του τοπικού εκτελέσιμου "
+"αρχείου του DX-Ball 1.07. Το REA δεν περιλαμβάνει το DX-Ball, οπότε "
+"χρησιμοποιήστε το δικό σας αντίγραφο ή κάντε την ίδια ερώτηση για ένα άλλο "
+"μικρό πρόγραμμα Windows που έχετε."
 
 #: website/public/guides/native/index.html:363
 msgctxt "page:guides/native/index.html"
 msgid "How do I get a file's full path?"
-msgstr ""
+msgstr "Πώς βρίσκω την πλήρη διαδρομή ενός αρχείου;"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7194,6 +7385,9 @@ msgid ""
 "{ph0}Windows:{ph1} in File Explorer, right-click the file and choose "
 "{ph2}Copy as path{ph3}. On Windows 10, hold Shift while right-clicking."
 msgstr ""
+"{ph0}Windows:{ph1} στην Εξερεύνηση αρχείων, κάντε δεξί κλικ στο αρχείο και "
+"επιλέξτε {ph2}Αντιγραφή ως διαδρομή{ph3}. Στα Windows 10, κρατήστε πατημένο "
+"το Shift ενώ κάνετε δεξί κλικ."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7206,6 +7400,8 @@ msgid ""
 "{ph0}macOS:{ph1} in Finder, right-click the file, hold Option and choose "
 "{ph2}Copy \"…\" as Pathname{ph3}."
 msgstr ""
+"{ph0}macOS:{ph1} στο Finder, κάντε δεξί κλικ στο αρχείο, κρατήστε πατημένο "
+"το Option και επιλέξτε {ph2}Αντιγραφή «…» ως όνομα διαδρομής{ph3}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -7216,21 +7412,23 @@ msgid ""
 "{ph0}Any system:{ph1} drag the file into a terminal window and its path "
 "appears."
 msgstr ""
+"{ph0}Οποιοδήποτε σύστημα:{ph1} σύρετε το αρχείο σε ένα παράθυρο τερματικού "
+"και θα εμφανιστεί η διαδρομή του."
 
 #: website/public/guides/native/index.html:382
 msgctxt "page:guides/native/index.html"
 msgid "Read the REA results"
-msgstr ""
+msgstr "Διαβάστε τα αποτελέσματα του REA"
 
 #: website/public/guides/native/index.html:383
 msgctxt "page:guides/native/index.html"
 msgid "Read the input"
-msgstr ""
+msgstr "Διαβάστε την είσοδο"
 
 #: website/public/guides/native/index.html:386
 msgctxt "page:guides/native/index.html"
 msgid "REA instruction excerpt · 0x406409"
-msgstr ""
+msgstr "Απόσπασμα εντολών από το REA · 0x406409"
 
 #: website/public/guides/native/index.html:392
 msgctxt "page:guides/native/index.html"
@@ -7238,16 +7436,19 @@ msgid ""
 "The instructions load an integer argument and convert it for floating-point "
 "arithmetic. This is the input absent from the first pseudocode view."
 msgstr ""
+"Οι εντολές φορτώνουν ένα ακέραιο όρισμα και το μετατρέπουν για αριθμητική "
+"κινητής υποδιαστολής. Αυτή είναι η είσοδος που απουσίαζε από την πρώτη "
+"προβολή ψευδοκώδικα."
 
 #: website/public/guides/native/index.html:397
 msgctxt "page:guides/native/index.html"
 msgid "Follow the caller"
-msgstr ""
+msgstr "Ακολουθήστε την καλούσα συνάρτηση"
 
 #: website/public/guides/native/index.html:400
 msgctxt "page:guides/native/index.html"
 msgid "REA caller excerpt · 0x411f5b"
-msgstr ""
+msgstr "Απόσπασμα καλούσας συνάρτησης από το REA · 0x411f5b"
 
 #. {ph0}: <code>0x14</code>
 #: website/public/guides/native/index.html:406
@@ -7257,16 +7458,19 @@ msgid ""
 "REA identifies the brick-hit caller. Its earlier instructions multiply the "
 "tile coordinate by 30; adding {ph0} (20) gives the brick's screen position."
 msgstr ""
+"Το REA εντοπίζει την καλούσα συνάρτηση για το χτύπημα τούβλου. Οι "
+"προηγούμενες εντολές της πολλαπλασιάζουν τη συντεταγμένη του πλακιδίου επί "
+"30· η πρόσθεση του {ph0} (20) δίνει τη θέση του τούβλου στην οθόνη."
 
 #: website/public/guides/native/index.html:411
 msgctxt "page:guides/native/index.html"
 msgid "Read the referenced constants"
-msgstr ""
+msgstr "Διαβάστε τις σταθερές που αναφέρονται"
 
 #: website/public/guides/native/index.html:414
 msgctxt "page:guides/native/index.html"
 msgid "REA byte results · interpreted as little-endian doubles"
-msgstr ""
+msgstr "Αποτελέσματα byte του REA · ερμηνεία ως double little-endian"
 
 #: website/public/guides/native/index.html:422
 msgctxt "page:guides/native/index.html"
@@ -7274,16 +7478,19 @@ msgid ""
 "The arithmetic references these addresses. Reading the bytes supplies the "
 "actual values; the instruction order tells the agent how they are used."
 msgstr ""
+"Οι αριθμητικές πράξεις αναφέρονται σε αυτές τις διευθύνσεις. Η ανάγνωση των "
+"byte δίνει τις πραγματικές τιμές· η σειρά των εντολών δείχνει στον agent πώς"
+" χρησιμοποιούνται."
 
 #: website/public/guides/native/index.html:429
 msgctxt "page:guides/native/index.html"
 msgid "Write and check the recovered function"
-msgstr ""
+msgstr "Γράψτε και ελέγξτε την ανακτημένη συνάρτηση"
 
 #: website/public/guides/native/index.html:431
 msgctxt "page:guides/native/index.html"
 msgid "Recovered C · excerpt"
-msgstr ""
+msgstr "Ανακτημένος κώδικας C · απόσπασμα"
 
 #: website/public/guides/native/index.html:438
 msgctxt "page:guides/native/index.html"
@@ -7292,6 +7499,9 @@ msgid ""
 "before integer conversion. The calculation puts the center of the screen at "
 "the center of the stereo field."
 msgstr ""
+"Με κλίμακα 1.0, οι θέσεις οθόνης 0, 320 και 640 αντιστοιχούν σε −500, 0 και "
+"500 πριν από τη μετατροπή σε ακέραιο. Ο υπολογισμός τοποθετεί το κέντρο της "
+"οθόνης στο κέντρο του στερεοφωνικού πεδίου."
 
 #: website/public/guides/native/index.html:443
 msgctxt "page:guides/native/index.html"
@@ -7300,6 +7510,9 @@ msgid ""
 " inputs against the original x86 function and reproduced all 63 compiled "
 "bytes of the complete function."
 msgstr ""
+"Ο agent χρησιμοποίησε τα ευρήματα του REA για να γράψει τον κώδικα C. "
+"Ξεχωριστοί έλεγχοι συνέκριναν 3,205 εισόδους με την αρχική συνάρτηση x86 και"
+" αναπαρήγαγαν και τα 63 μεταγλωττισμένα byte ολόκληρης της συνάρτησης."
 
 #. {ph0}: <a href="../../showcase/dx-ball/#sound-pan" >
 #. {ph1}: </a >
@@ -7307,12 +7520,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:guides/native/index.html"
 msgid "{ph0}See the full investigation and assembly-to-C comparison{ph1}"
-msgstr ""
+msgstr "{ph0}Δείτε ολόκληρη τη διερεύνηση και τη σύγκριση assembly με C{ph1}"
 
 #: website/public/guides/native/index.html:455
 msgctxt "page:guides/native/index.html"
 msgid "Try it with your own binary"
-msgstr ""
+msgstr "Δοκιμάστε το με το δικό σας δυαδικό αρχείο"
 
 #. {ph0}: <a href="../../get-started/#native" >
 #. {ph1}: </a >
@@ -7325,6 +7538,10 @@ msgid ""
 "questions include “How is this file parsed?” or “Which function handles this"
 " menu action?”"
 msgstr ""
+"{ph0}Συνδέστε έναν πάροχο ανάλυσης κώδικα μηχανής{ph1} και έπειτα δώστε στον"
+" agent σας ένα τοπικό εκτελέσιμο αρχείο ή βιβλιοθήκη και μια λειτουργία προς"
+" διερεύνηση. Χρήσιμες αρχικές ερωτήσεις είναι «Πώς αναλύεται συντακτικά αυτό"
+" το αρχείο;» ή «Ποια συνάρτηση χειρίζεται αυτή την ενέργεια του μενού;»"
 
 #: website/public/guides/native/index.html:463
 msgctxt "page:guides/native/index.html"
@@ -7332,11 +7549,13 @@ msgid ""
 "If you already know a function name or address, you can query it from the "
 "terminal. For a configured Ghidra installation:"
 msgstr ""
+"Αν γνωρίζετε ήδη το όνομα ή τη διεύθυνση μιας συνάρτησης, μπορείτε να την "
+"αναζητήσετε από το τερματικό. Για μια ρυθμισμένη εγκατάσταση του Ghidra:"
 
 #: website/public/guides/native/index.html:469
 msgctxt "page:guides/native/index.html"
 msgid "Function analysis"
-msgstr ""
+msgstr "Ανάλυση συνάρτησης"
 
 #. {ph0}: <code>main</code>
 #: website/public/guides/native/index.html:482
@@ -7348,6 +7567,11 @@ msgid ""
 "session. Your agent's MCP queries reuse the imported binary while that "
 "session is open."
 msgstr ""
+"Αντικαταστήστε τη διαδρομή του στόχου και το {ph0} με το δικό σας όνομα ή "
+"διεύθυνση συνάρτησης. Κάθε εκτέλεση του CLI εισάγει και αναλύει το δυαδικό "
+"αρχείο και έπειτα κλείνει τη συνεδρία της. Τα ερωτήματα MCP του agent σας "
+"επαναχρησιμοποιούν το εισαγμένο δυαδικό αρχείο όσο η συνεδρία αυτή παραμένει"
+" ανοιχτή."
 
 #: website/public/guides/native/index.html:488
 msgctxt "page:guides/native/index.html"
@@ -7355,11 +7579,14 @@ msgid ""
 "Read the pseudocode alongside instructions and references. When a result "
 "leaves a call or value unresolved, use that location as the next question."
 msgstr ""
+"Διαβάστε τον ψευδοκώδικα μαζί με τις εντολές και τις αναφορές. Όταν ένα "
+"αποτέλεσμα αφήνει μια κλήση ή μια τιμή ανεπίλυτη, χρησιμοποιήστε αυτή τη "
+"θέση ως την επόμενη ερώτηση."
 
 #: website/public/guides/native/index.html:6
 msgctxt "page:guides/native/index.html"
 msgid "Native Binary Analysis — REA"
-msgstr ""
+msgstr "Ανάλυση δυαδικών αρχείων με κώδικα μηχανής — REA"
 
 #: website/public/guides/native/index.html:7
 msgctxt "page:guides/native/index.html"
@@ -7367,31 +7594,34 @@ msgid ""
 "Recover a native calculation with REA: inspect instructions, follow a "
 "caller, read constants and check reconstructed C."
 msgstr ""
+"Ανακτήστε έναν υπολογισμό σε κώδικα μηχανής με το REA: εξετάστε εντολές, "
+"ακολουθήστε μια καλούσα συνάρτηση, διαβάστε σταθερές και ελέγξτε τον "
+"ανακατασκευασμένο κώδικα C."
 
 #: website/public/guides/native/index.html:206
 msgctxt "page:guides/native/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #: website/public/guides/native/index.html:216
 msgctxt "page:guides/native/index.html"
 msgid "Native analysis"
-msgstr ""
+msgstr "Ανάλυση κώδικα μηχανής"
 
 #: website/public/guides/native/index.html:339
 msgctxt "page:guides/native/index.html"
 msgid "Copy example prompt"
-msgstr ""
+msgstr "Αντιγραφή του παραδείγματος prompt"
 
 #: website/public/guides/native/index.html:470
 msgctxt "page:guides/native/index.html"
 msgid "Copy function analysis"
-msgstr ""
+msgstr "Αντιγραφή της εντολής ανάλυσης συνάρτησης"
 
 #: website/public/guides/native/index.html:511
 msgctxt "page:guides/native/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/index.html:107
 msgctxt "page:index.html"
