@@ -3468,7 +3468,7 @@ msgstr "Επιστροφή στην κορυφή"
 #: website/public/examples/dino-lab/index.html:106
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -3478,17 +3478,17 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Home{ph1}{ph2}/{ph3}Dinosaur speed lab"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1}{ph2}/{ph3}Εργαστήριο ταχύτητας δεινοσαύρου"
 
 #: website/public/examples/dino-lab/index.html:200
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Inspect → rebuild → change"
-msgstr ""
+msgstr "Εξέταση → ανακατασκευή → αλλαγή"
 
 #: website/public/examples/dino-lab/index.html:201
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Rebuild the dinosaur’s speed rule."
-msgstr ""
+msgstr "Ανακατασκευάστε τον κανόνα ταχύτητας του δεινοσαύρου."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -3502,12 +3502,16 @@ msgid ""
 "speed. {ph0}REA returned the running script;{ph1} we used its rule to build "
 "this mini-game with {ph2}adjustable speed.{ph3}"
 msgstr ""
+"Για να αναδημιουργήσετε την επιτάχυνση του παιχνιδιού, πρέπει πρώτα να "
+"βρείτε τον κανόνα που ελέγχει την ταχύτητά του. {ph0}Το REA επέστρεψε το "
+"script που εκτελούνταν·{ph1} με τον κανόνα του κατασκευάσαμε αυτό το μίνι "
+"παιχνίδι με {ph2}ρυθμιζόμενη ταχύτητα.{ph3}"
 
 #: website/public/examples/dino-lab/index.html:211
 #: website/public/examples/dino-lab/index.html:210
 msgctxt "page:examples/dino-lab/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #. {ph0}: <a href="#play">
 #. {ph1}: </a>
@@ -3515,7 +3519,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Play and change the speed{ph1}"
-msgstr ""
+msgstr "{ph0}Παίξτε και αλλάξτε την ταχύτητα{ph1}"
 
 #. {ph0}: <a href="#rule">
 #. {ph1}: </a>
@@ -3523,7 +3527,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Read the recovered rule{ph1}"
-msgstr ""
+msgstr "{ph0}Διαβάστε τον ανακτημένο κανόνα{ph1}"
 
 #. {ph0}: <a href="#check">
 #. {ph1}: </a>
@@ -3531,7 +3535,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Check the reconstruction{ph1}"
-msgstr ""
+msgstr "{ph0}Ελέγξτε την ανακατασκευή{ph1}"
 
 #. {ph0}: <a href="#inspect">
 #. {ph1}: </a>
@@ -3539,12 +3543,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Try the analysis{ph1}"
-msgstr ""
+msgstr "{ph0}Δοκιμάστε την ανάλυση{ph1}"
 
 #: website/public/examples/dino-lab/index.html:221
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Play and change the speed"
-msgstr ""
+msgstr "Παίξτε και αλλάξτε την ταχύτητα"
 
 #: website/public/examples/dino-lab/index.html:222
 msgctxt "page:examples/dino-lab/index.html"
@@ -3553,46 +3557,52 @@ msgid ""
 " or faster game; it switches to a fixed speed. Select the recovered rule to "
 "start at 6 and gradually accelerate again."
 msgstr ""
+"Πατήστε Έναρξη και πηδήξτε πάνω από τον κάκτο. Μετακινήστε το ρυθμιστικό "
+"ταχύτητας για να δοκιμάσετε ένα πιο αργό ή πιο γρήγορο παιχνίδι· η ταχύτητα "
+"γίνεται τότε σταθερή. Επιλέξτε τον ανακτημένο κανόνα για να ξεκινά ξανά από "
+"το 6 και να επιταχύνει σταδιακά."
 
 #: website/public/examples/dino-lab/index.html:228
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Play the reconstruction"
-msgstr ""
+msgstr "Παίξτε την ανακατασκευή"
 
 #: website/public/examples/dino-lab/index.html:260
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Play"
-msgstr ""
+msgstr "Έναρξη"
 
 #: website/public/examples/dino-lab/index.html:263
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Jump ↑"
-msgstr ""
+msgstr "Άλμα ↑"
 
 #: website/public/examples/dino-lab/index.html:264
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Restart"
-msgstr ""
+msgstr "Επανεκκίνηση"
 
 #: website/public/examples/dino-lab/index.html:267
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Speed"
-msgstr ""
+msgstr "Ταχύτητα"
 
 #: website/public/examples/dino-lab/index.html:277
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Use the recovered acceleration rule"
-msgstr ""
+msgstr "Χρήση του ανακτημένου κανόνα επιτάχυνσης"
 
 #: website/public/examples/dino-lab/index.html:281
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Original rule: start at 6, then increase toward 13."
-msgstr ""
+msgstr "Αρχικός κανόνας: εκκίνηση από 6 και σταδιακή αύξηση προς το 13."
 
 #: website/public/examples/dino-lab/index.html:284
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Move the slider to set your own speed. Space or Jump clears a cactus."
 msgstr ""
+"Μετακινήστε το ρυθμιστικό για να ορίσετε τη δική σας ταχύτητα. Πατήστε Space"
+" ή Άλμα για να περάσετε έναν κάκτο."
 
 #: website/public/examples/dino-lab/index.html:289
 msgctxt "page:examples/dino-lab/index.html"
@@ -3600,11 +3610,13 @@ msgid ""
 "Enable JavaScript to play the reconstruction. The code and explanation above"
 " remain readable."
 msgstr ""
+"Ενεργοποιήστε τη JavaScript για να παίξετε την ανακατασκευή. Ο παραπάνω "
+"κώδικας και η εξήγηση παραμένουν αναγνώσιμα."
 
 #: website/public/examples/dino-lab/index.html:297
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Read the script REA returned"
-msgstr ""
+msgstr "Διαβάστε το script που επέστρεψε το REA"
 
 #. {ph0}: <a href="https://wayou.github.io/t-rex-runner/" >
 #. {ph1}: </a >
@@ -3617,11 +3629,14 @@ msgid ""
 " returned the loaded {ph2}, including this branch in the game’s update "
 "function:"
 msgstr ""
+"Με το REA εξετάσαμε την {ph0}έκδοση του wayou για προγράμματα περιήγησης, "
+"βασισμένη στο Chromium{ph1}. Επέστρεψε το φορτωμένο {ph2}, μαζί με αυτή τη "
+"διακλάδωση στη συνάρτηση ενημέρωσης του παιχνιδιού:"
 
 #: website/public/examples/dino-lab/index.html:308
 msgctxt "page:examples/dino-lab/index.html"
 msgid "REA · selected script source"
-msgstr ""
+msgstr "REA · επιλεγμένος κώδικας του script"
 
 #. {ph0}: <code>SPEED: 6</code>
 #. {ph1}: <code>ACCELERATION: 0.001</code>
@@ -3633,24 +3648,26 @@ msgid ""
 "The settings are {ph0}, {ph1} and {ph2}. The game runs this branch on an "
 "update without a collision."
 msgstr ""
+"Οι ρυθμίσεις είναι {ph0}, {ph1} και {ph2}. Το παιχνίδι εκτελεί αυτή τη "
+"διακλάδωση σε ενημερώσεις χωρίς σύγκρουση."
 
 #: website/public/examples/dino-lab/index.html:319
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Use the same rule in the new game"
-msgstr ""
+msgstr "Χρησιμοποιήστε τον ίδιο κανόνα στο νέο παιχνίδι"
 
 #. {ph0}: <span translate="no">dino-speed.js</span>
 #: website/public/examples/dino-lab/index.html:322
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Reconstruction · {ph0}"
-msgstr ""
+msgstr "Ανακατασκευή · {ph0}"
 
 #: website/public/examples/dino-lab/index.html:325
 #: website/public/examples/dino-lab/index.html:424
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #: website/public/examples/dino-lab/index.html:338
 msgctxt "page:examples/dino-lab/index.html"
@@ -3660,6 +3677,11 @@ msgid ""
 "collision checks are new code for this teaching game; its simulation "
 "advances at 60 updates per second."
 msgstr ""
+"Το μίνι παιχνίδι χρησιμοποιεί αυτή τη συνάρτηση για την αυτόματη επιτάχυνση."
+" Όταν μετακινείτε το ρυθμιστικό, ορίζεται αντί γι’ αυτό μια σταθερή "
+"ταχύτητα. Η σχεδίαση, η φυσική του άλματος και οι έλεγχοι σύγκρουσης "
+"ορθογωνίων είναι νέος κώδικας για αυτό το εκπαιδευτικό παιχνίδι· η "
+"προσομοίωσή του προχωρά με 60 ενημερώσεις ανά δευτερόλεπτο."
 
 #. {ph0}: <a href="../../assets/dino-speed.js" download >
 #. {ph1}: </a >
@@ -3670,11 +3692,12 @@ msgstr ""
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Download the speed rule{ph1} · {ph2}Read the game code{ph3}"
 msgstr ""
+"{ph0}Λήψη του κανόνα ταχύτητας{ph1} · {ph2}Ο κώδικας του παιχνιδιού{ph3}"
 
 #: website/public/examples/dino-lab/index.html:352
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Check the reconstruction"
-msgstr ""
+msgstr "Ελέγξτε την ανακατασκευή"
 
 #: website/public/examples/dino-lab/index.html:353
 msgctxt "page:examples/dino-lab/index.html"
@@ -3683,26 +3706,29 @@ msgid ""
 "scheduling disabled. Compare those recorded speeds with a replay of the "
 "recovered rule."
 msgstr ""
+"Καλέσαμε τη συνάρτηση ενημέρωσης του αρχικού παιχνιδιού με απενεργοποιημένα "
+"τα εμπόδια και τον αυτόματο προγραμματισμό. Συγκρίνετε αυτές τις "
+"καταγεγραμμένες ταχύτητες με μια επανάληψη του ανακτημένου κανόνα."
 
 #: website/public/examples/dino-lab/index.html:362
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Updates"
-msgstr ""
+msgstr "Ενημερώσεις"
 
 #: website/public/examples/dino-lab/index.html:363
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Original game"
-msgstr ""
+msgstr "Αρχικό παιχνίδι"
 
 #: website/public/examples/dino-lab/index.html:364
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Reconstructed rule"
-msgstr ""
+msgstr "Ανακατασκευασμένος κανόνας"
 
 #: website/public/examples/dino-lab/index.html:391
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Run the speed check"
-msgstr ""
+msgstr "Εκτέλεση του ελέγχου ταχύτητας"
 
 #: website/public/examples/dino-lab/index.html:394
 msgctxt "page:examples/dino-lab/index.html"
@@ -3710,11 +3736,14 @@ msgid ""
 "Values rounded to three decimals. The branch checks before adding, so the "
 "final increment can take speed just above 13."
 msgstr ""
+"Οι τιμές είναι στρογγυλοποιημένες στο τρίτο δεκαδικό ψηφίο. Η διακλάδωση "
+"κάνει τον έλεγχο πριν από την πρόσθεση, οπότε η τελευταία αύξηση μπορεί να "
+"φέρει την ταχύτητα λίγο πάνω από το 13."
 
 #: website/public/examples/dino-lab/index.html:400
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Try the analysis yourself"
-msgstr ""
+msgstr "Δοκιμάστε μόνοι σας την ανάλυση"
 
 #. {ph0}: <a href="../../get-started/">
 #. {ph1}: </a>
@@ -3722,7 +3751,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}Set up REA{ph1} with your coding agent."
-msgstr ""
+msgstr "{ph0}Ρυθμίστε το REA{ph1} με τον agent προγραμματισμού σας."
 
 #. {ph0}: <a href="../../guides/browser/#prepare" >
 #. {ph1}: </a >
@@ -3733,6 +3762,8 @@ msgctxt "page:examples/dino-lab/index.html"
 msgid ""
 "Follow the {ph0}browser connection steps{ph1}, using {ph2} as the page URL."
 msgstr ""
+"Ακολουθήστε τα {ph0}βήματα σύνδεσης με το πρόγραμμα περιήγησης{ph1}, "
+"χρησιμοποιώντας το {ph2} ως διεύθυνση URL της σελίδας."
 
 #: website/public/examples/dino-lab/index.html:413
 msgctxt "page:examples/dino-lab/index.html"
@@ -3740,6 +3771,8 @@ msgid ""
 "Give your agent the page URL and local debugging endpoint, then copy this "
 "prompt."
 msgstr ""
+"Δώστε στον agent σας τη διεύθυνση URL της σελίδας και το τοπικό endpoint "
+"αποσφαλμάτωσης και έπειτα αντιγράψτε αυτό το prompt."
 
 #. {ph0}: <span class="terminal-dots" aria-hidden="true" >
 #. {ph1}: <i>
@@ -3753,7 +3786,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:examples/dino-lab/index.html"
 msgid "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Your coding agent"
-msgstr ""
+msgstr "{ph0}{ph1}{ph2}{ph3}{ph4}{ph5}{ph6}{ph7}Ο agent προγραμματισμού σας"
 
 #. {ph0}: <span class="prompt-symbol" aria-hidden="true">
 #. {ph1}: </span >
@@ -3769,6 +3802,9 @@ msgid ""
 "faster? Show the speed rule, then build a small version with an adjustable "
 "speed.{ph3}{ph4}{ph5}"
 msgstr ""
+"{ph0}›{ph1}{ph2}Χρησιμοποίησε το REA για να εξετάσεις αυτό το παιχνίδι με "
+"τον δεινόσαυρο. Γιατί επιταχύνει; Δείξε τον κανόνα ταχύτητας και έπειτα "
+"κατασκεύασε μια μικρή έκδοση με ρυθμιζόμενη ταχύτητα.{ph3}{ph4}{ph5}"
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -3779,6 +3815,9 @@ msgid ""
 "Ask a follow-up: {ph0}“Where is jump height calculated? Add a jump-height "
 "control to the new version.”{ph1}"
 msgstr ""
+"Κάντε μια συμπληρωματική ερώτηση: {ph0}«Πού υπολογίζεται το ύψος του "
+"άλματος; Πρόσθεσε στη νέα έκδοση ένα στοιχείο ελέγχου για το ύψος του "
+"άλματος.»{ph1}"
 
 #. {ph0}: <a href="https://github.com/wayou/t-rex-
 #. runner/blob/5455bfa408ec6b707c7300ff194b7390733a766d/index.js#L565-L571" >
@@ -3793,11 +3832,16 @@ msgid ""
 " BSD license{ph3}. REA 4.1.0 inspected the running HTTP edition in Chrome "
 "150."
 msgstr ""
+"Πηγή: {ph0}κώδικας ταχύτητας που εξετάστηκε{ph1}, Chromium Authors. "
+"{ph2}Πνευματικά δικαιώματα και άδεια BSD{ph3}. Το REA 4.1.0 εξέτασε την "
+"έκδοση HTTP καθώς εκτελούνταν στο Chrome 150."
 
 #: website/public/examples/dino-lab/index.html:6
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Chrome Dinosaur Game: Rebuild Its Speed Rule — REA"
 msgstr ""
+"Παιχνίδι με τον δεινόσαυρο του Chrome: Ανακατασκευή του κανόνα ταχύτητας — "
+"REA"
 
 #: website/public/examples/dino-lab/index.html:7
 msgctxt "page:examples/dino-lab/index.html"
@@ -3805,11 +3849,13 @@ msgid ""
 "Read the dinosaur game’s speed rule with REA, rebuild it, then change the "
 "speed and play."
 msgstr ""
+"Διαβάστε με το REA τον κανόνα ταχύτητας του παιχνιδιού με τον δεινόσαυρο, "
+"ανακατασκευάστε τον και έπειτα αλλάξτε την ταχύτητα και παίξτε."
 
 #: website/public/examples/dino-lab/index.html:219
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Dinosaur speed reconstruction"
-msgstr ""
+msgstr "Ανακατασκευή της ταχύτητας του δεινοσαύρου"
 
 #: website/public/examples/dino-lab/index.html:250
 msgctxt "page:examples/dino-lab/index.html"
@@ -3817,21 +3863,23 @@ msgid ""
 "Dinosaur mini-game. Use the Jump button or press Space while the game is "
 "focused."
 msgstr ""
+"Μίνι παιχνίδι με δεινόσαυρο. Χρησιμοποιήστε το κουμπί Άλμα ή πατήστε Space "
+"όσο το παιχνίδι έχει την εστίαση."
 
 #: website/public/examples/dino-lab/index.html:325
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Copy reconstructed speed rule"
-msgstr ""
+msgstr "Αντιγραφή του ανακατασκευασμένου κανόνα ταχύτητας"
 
 #: website/public/examples/dino-lab/index.html:424
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Copy dinosaur analysis prompt"
-msgstr ""
+msgstr "Αντιγραφή του prompt ανάλυσης του δεινοσαύρου"
 
 #: website/public/examples/dino-lab/index.html:477
 msgctxt "page:examples/dino-lab/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/faq/index.html:105
 msgctxt "page:faq/index.html"
