@@ -10,7 +10,7 @@ msgstr ""
 #: website/public/blog/index.html:105
 msgctxt "page:blog/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #: website/public/blog/index.html:115
 #: website/public/blog/reverse-engineering-models/index.html:115
@@ -102,29 +102,29 @@ msgstr "Οδηγοί"
 #, python-brace-format
 msgctxt "page:blog/index.html"
 msgid "{ph0}Home{ph1} / Blog"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1} / Ιστολόγιο"
 
 #: website/public/blog/index.html:197
 msgctxt "page:blog/index.html"
 msgid "Blog."
-msgstr ""
+msgstr "Ιστολόγιο."
 
 #: website/public/blog/index.html:198
 msgctxt "page:blog/index.html"
 msgid "Thoughts on reverse engineering."
-msgstr ""
+msgstr "Σκέψεις για την αντίστροφη μηχανική."
 
 #. {ph0}: <br />
 #: website/public/blog/index.html:202
 #, python-brace-format
 msgctxt "page:blog/index.html"
 msgid "Model specialization{ph0}Essay"
-msgstr ""
+msgstr "Εξειδίκευση μοντέλων{ph0}Δοκίμιο"
 
 #: website/public/blog/index.html:204
 msgctxt "page:blog/index.html"
 msgid "Does reverse engineering need a bigger model?"
-msgstr ""
+msgstr "Χρειάζεται η αντίστροφη μηχανική μεγαλύτερο μοντέλο;"
 
 #: website/public/blog/index.html:205
 msgctxt "page:blog/index.html"
@@ -132,28 +132,30 @@ msgid ""
 "What Touhou reconstruction suggests about general models, specialist models "
 "and learning from compiler feedback."
 msgstr ""
+"Τι δείχνει η ανακατασκευή του Touhou για τα γενικά μοντέλα, τα εξειδικευμένα"
+" μοντέλα και τη μάθηση από την ανάδραση του μεταγλωττιστή."
 
 #: website/public/blog/index.html:209 website/public/blog/index.html:224
 msgctxt "page:blog/index.html"
 msgid "Read the article"
-msgstr ""
+msgstr "Διαβάστε το άρθρο"
 
 #: website/public/blog/index.html:212
 msgctxt "page:blog/index.html"
 msgid "By N0zoM1z0 · 13 October 2026"
-msgstr ""
+msgstr "Συγγραφέας: N0zoM1z0 · 13 Οκτωβρίου 2026"
 
 #. {ph0}: <br />
 #: website/public/blog/index.html:216
 #, python-brace-format
 msgctxt "page:blog/index.html"
 msgid "Game reconstruction{ph0}Essay"
-msgstr ""
+msgstr "Ανακατασκευή παιχνιδιών{ph0}Δοκίμιο"
 
 #: website/public/blog/index.html:218
 msgctxt "page:blog/index.html"
 msgid "The industrial revolution in reverse engineering"
-msgstr ""
+msgstr "Η βιομηχανική επανάσταση στην αντίστροφη μηχανική"
 
 #: website/public/blog/index.html:219
 msgctxt "page:blog/index.html"
@@ -161,11 +163,14 @@ msgid ""
 "What manual RE and reconstructing TH08, TH095 and TH04 taught me about "
 "agents, verification and knowledge that compounds across projects."
 msgstr ""
+"Τι με δίδαξαν η χειροκίνητη αντίστροφη μηχανική και η ανακατασκευή των TH08,"
+" TH095 και TH04 για τους agents, την επαλήθευση και τη γνώση που "
+"συσσωρεύεται από έργο σε έργο."
 
 #: website/public/blog/index.html:227
 msgctxt "page:blog/index.html"
 msgid "By N0zoM1z0 · 10 October 2026"
-msgstr ""
+msgstr "Συγγραφέας: N0zoM1z0 · 10 Οκτωβρίου 2026"
 
 #: website/public/blog/index.html:238
 #: website/public/blog/reverse-engineering-models/index.html:877
@@ -278,7 +283,7 @@ msgstr "{ph0}↑{ph1} Κορυφή"
 #: website/public/blog/index.html:6
 msgctxt "page:blog/index.html"
 msgid "REA Blog — Thoughts on Reverse Engineering"
-msgstr ""
+msgstr "Ιστολόγιο REA — Σκέψεις για την αντίστροφη μηχανική"
 
 #: website/public/blog/index.html:7
 msgctxt "page:blog/index.html"
@@ -286,6 +291,8 @@ msgid ""
 "Thoughts on reverse engineering, drawing on practical experience with REA "
 "and AI agents."
 msgstr ""
+"Σκέψεις για την αντίστροφη μηχανική, με βάση την πρακτική εμπειρία με το REA"
+" και με agents τεχνητής νοημοσύνης."
 
 #: website/public/blog/index.html:77 website/public/blog/index.html:90
 #: website/public/blog/reverse-engineering-models/index.html:77
@@ -433,12 +440,12 @@ msgstr "Ακολουθήστε το REA στο X"
 #: website/public/blog/index.html:246
 msgctxt "page:blog/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/blog/reverse-engineering-models/index.html:105
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -449,26 +456,27 @@ msgstr ""
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}Home{ph1} / {ph2}Blog{ph3} / Models and RE"
 msgstr ""
+"{ph0}Αρχική{ph1} / {ph2}Ιστολόγιο{ph3} / Μοντέλα και αντίστροφη μηχανική"
 
 #: website/public/blog/reverse-engineering-models/index.html:199
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Essay"
-msgstr ""
+msgstr "Δοκίμιο"
 
 #: website/public/blog/reverse-engineering-models/index.html:200
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Does reverse engineering need a bigger model?"
-msgstr ""
+msgstr "Χρειάζεται η αντίστροφη μηχανική μεγαλύτερο μοντέλο;"
 
 #: website/public/blog/reverse-engineering-models/index.html:201
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "By N0zoM1z0 · 13 October 2026"
-msgstr ""
+msgstr "Συγγραφέας: N0zoM1z0 · 13 Οκτωβρίου 2026"
 
 #: website/public/blog/reverse-engineering-models/index.html:203
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Takeaway"
-msgstr ""
+msgstr "Βασικά σημεία"
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -479,6 +487,9 @@ msgid ""
 "{ph0}Model capability changes the hypotheses an agent can find.{ph1} Later "
 "sessions have solved problems that earlier work left unresolved."
 msgstr ""
+"{ph0}Οι ικανότητες του μοντέλου αλλάζουν τις υποθέσεις που μπορεί να βρει "
+"ένας agent.{ph1} Μεταγενέστερες συνεδρίες έχουν λύσει προβλήματα που η "
+"προηγούμενη δουλειά είχε αφήσει άλυτα."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -489,6 +500,9 @@ msgid ""
 "{ph0}A familiar compiler gives specialization something concrete to "
 "learn.{ph1} Some exact matches depend on narrow, reusable source patterns."
 msgstr ""
+"{ph0}Ένας οικείος μεταγλωττιστής δίνει στην εξειδίκευση κάτι συγκεκριμένο να"
+" μάθει.{ph1} Ορισμένες ακριβείς ταυτίσεις εξαρτώνται από στενά, "
+"επαναχρησιμοποιήσιμα μοτίβα πηγαίου κώδικα."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -499,6 +513,8 @@ msgid ""
 "{ph0}Give repository knowledge a fair comparison.{ph1} A smaller model with "
 "good retrieval may already know enough to make progress."
 msgstr ""
+"{ph0}Συγκρίνετε δίκαια και τη γνώση του αποθετηρίου.{ph1} Ένα μικρότερο "
+"μοντέλο με καλή ανάκτηση ίσως γνωρίζει ήδη αρκετά για να σημειώσει πρόοδο."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -509,6 +525,9 @@ msgid ""
 "{ph0}Train the next useful experiment, and test its oracle.{ph1} The value "
 "of feedback depends on what the checker actually verifies."
 msgstr ""
+"{ph0}Εκπαιδεύστε το μοντέλο στο επόμενο χρήσιμο πείραμα και ελέγξτε το "
+"μαντείο του.{ph1} Η αξία της ανάδρασης εξαρτάται από το τι πραγματικά "
+"επαληθεύει ο ελεγκτής."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -519,11 +538,13 @@ msgid ""
 "{ph0}Measure accepted reconstruction against time and cost.{ph1} That is the"
 " result I want from the whole agent."
 msgstr ""
+"{ph0}Μετρήστε τις αποδεκτές ανακατασκευές σε σχέση με τον χρόνο και το "
+"κόστος.{ph1} Αυτό είναι το αποτέλεσμα που θέλω από τον agent στο σύνολό του."
 
 #: website/public/blog/reverse-engineering-models/index.html:243
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "In this article"
-msgstr ""
+msgstr "Σε αυτό το άρθρο"
 
 #. {ph0}: <a href="#model-capability">
 #. {ph1}: </a>
@@ -531,7 +552,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}What better models changed{ph1}"
-msgstr ""
+msgstr "{ph0}Τι άλλαξαν τα καλύτερα μοντέλα{ph1}"
 
 #. {ph0}: <a href="#specialization">
 #. {ph1}: </a>
@@ -539,7 +560,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}Why specialize?{ph1}"
-msgstr ""
+msgstr "{ph0}Γιατί εξειδίκευση;{ph1}"
 
 #. {ph0}: <a href="#repository-knowledge">
 #. {ph1}: </a>
@@ -547,7 +568,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}Where experience lives{ph1}"
-msgstr ""
+msgstr "{ph0}Πού βρίσκεται η εμπειρία{ph1}"
 
 #. {ph0}: <a href="#learning-search">
 #. {ph1}: </a>
@@ -555,7 +576,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}Learning the next experiment{ph1}"
-msgstr ""
+msgstr "{ph0}Μάθηση του επόμενου πειράματος{ph1}"
 
 #. {ph0}: <a href="#re-and-rl">
 #. {ph1}: </a>
@@ -563,7 +584,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}RE and reinforcement learning{ph1}"
-msgstr ""
+msgstr "{ph0}Αντίστροφη μηχανική και ενισχυτική μάθηση{ph1}"
 
 #. {ph0}: <a href="#oracle">
 #. {ph1}: </a>
@@ -571,7 +592,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}When the oracle is wrong{ph1}"
-msgstr ""
+msgstr "{ph0}Όταν το μαντείο κάνει λάθος{ph1}"
 
 #. {ph0}: <a href="#comparison">
 #. {ph1}: </a>
@@ -579,7 +600,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}A comparison worth running{ph1}"
-msgstr ""
+msgstr "{ph0}Μια σύγκριση που αξίζει να γίνει{ph1}"
 
 #. {ph0}: <a href="#future-agent">
 #. {ph1}: </a>
@@ -587,12 +608,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "{ph0}What kind of agent?{ph1}"
-msgstr ""
+msgstr "{ph0}Τι είδους agent;{ph1}"
 
 #: website/public/blog/reverse-engineering-models/index.html:260
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "What better models changed"
-msgstr ""
+msgstr "Τι άλλαξαν τα καλύτερα μοντέλα"
 
 #: website/public/blog/reverse-engineering-models/index.html:261
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -603,6 +624,11 @@ msgid ""
 " I have changed models, the repositories have kept a record of what each "
 "session managed to recover."
 msgstr ""
+"Από τον Αύγουστο του 2026 διερευνώ πόση αντίστροφη μηχανική μπορεί να φέρει "
+"εις πέρας ένας agent όταν έχει πρόσβαση σε ένα πρόγραμμα και έναν τρόπο να "
+"ελέγχει τη δουλειά του. Το μεγαλύτερο μέρος της εμπειρίας μου προέρχεται από"
+" την ανακατασκευή παιχνιδιών, κυρίως του Touhou. Καθώς άλλαζα μοντέλα, τα "
+"αποθετήρια κατέγραφαν τι κατάφερε να ανακτήσει κάθε συνεδρία."
 
 #: website/public/blog/reverse-engineering-models/index.html:269
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -612,11 +638,17 @@ msgid ""
 "the target function. When a later model succeeds where earlier work stalled,"
 " the source changes show what made that progress possible."
 msgstr ""
+"Μεγάλο μέρος αυτής της δουλειάς στοχεύει στην ακριβή ανακατασκευή: "
+"μεταγλωττίζουμε τον πηγαίο κώδικα που συντηρούμε με μια καθορισμένη ιστορική"
+" αλυσίδα εργαλείων και ελέγχουμε αν αναπαράγει τη συνάρτηση-στόχο. Όταν ένα "
+"μεταγενέστερο μοντέλο πετυχαίνει εκεί όπου η προηγούμενη δουλειά είχε "
+"κολλήσει, οι αλλαγές στον πηγαίο κώδικα δείχνουν τι έκανε δυνατή αυτή την "
+"πρόοδο."
 
 #: website/public/blog/reverse-engineering-models/index.html:276
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "The temporary values had to stay alive together"
-msgstr ""
+msgstr "Οι προσωρινές τιμές έπρεπε να παραμένουν ζωντανές ταυτόχρονα"
 
 #: website/public/blog/reverse-engineering-models/index.html:277
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -626,6 +658,11 @@ msgid ""
 "The remaining problem was how long those results needed to stay alive and "
 "when their storage could be reused."
 msgstr ""
+"Μεγάλο μέρος της λογικής μιας συνάρτησης επίθεσης του TH09 είχε ήδη "
+"ανακατασκευαστεί, αλλά ο μεταγλωττιστής εξακολουθούσε να αποθηκεύει τα "
+"προσωρινά αποτελέσματα διαφορετικά από ό,τι στο αρχικό. Το πρόβλημα που "
+"απέμενε ήταν πόσο χρόνο έπρεπε να παραμένουν ζωντανά αυτά τα αποτελέσματα "
+"και πότε μπορούσε να επαναχρησιμοποιηθεί ο χώρος αποθήκευσής τους."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th09/commit/de63c0f9121963f3a6b1ab5471c4878625fd3425"
@@ -644,6 +681,10 @@ msgid ""
 "problem{ph3}, it found a useful hypothesis about how long those temporary "
 "values needed to stay alive."
 msgstr ""
+"Ένα {ph0}σημείο ελέγχου του GPT-6-Sol{ph1} κατέγραψε αυτή την απόκλιση, αφού"
+" δοκίμασε αρκετές συνηθισμένες διατάξεις του πηγαίου κώδικα. Όταν {ph2}το "
+"GPT-6.1-Sol επανήλθε στο πρόβλημα{ph3}, βρήκε μια χρήσιμη υπόθεση για το "
+"πόσο χρόνο έπρεπε να παραμένουν ζωντανές αυτές οι προσωρινές τιμές."
 
 #: website/public/blog/reverse-engineering-models/index.html:298
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -654,6 +695,12 @@ msgid ""
 "results alive together, so the compiler could no longer reuse the same "
 "storage for all of them."
 msgstr ""
+"Η συνάρτηση παρήγαγε προσωρινά αποτελέσματα και τα αντέγραφε σε θέσεις "
+"κινούμενων γραφικών. Στη C++, ένα προσωρινό αποτέλεσμα παραμένει ζωντανό "
+"μέχρι να ολοκληρωθεί η έκφραση που το χρησιμοποιεί. Η ομαδοποίηση των "
+"πραγματικών πράξεων σε μία έκφραση κράτησε αυτά τα αποτελέσματα ζωντανά "
+"ταυτόχρονα, οπότε ο μεταγλωττιστής δεν μπορούσε πλέον να επαναχρησιμοποιήσει"
+" τον ίδιο χώρο αποθήκευσης για όλα."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -666,6 +713,11 @@ msgid ""
 "After several targeted experiments, {ph0}a clean rebuild confirmed that the "
 "full function matched{ph1}."
 msgstr ""
+"Ένα αποτέλεσμα εξακολουθούσε να μοιράζεται χώρο αποθήκευσης με μια τιμή που "
+"χρησιμοποιούνταν αργότερα σε ελέγχους σύγκρουσης. Όταν αυτή η τιμή απέκτησε "
+"τον δικό της χρόνο ζωής, η επικάλυψη που απέμενε εξαλείφθηκε. Μετά από "
+"αρκετά στοχευμένα πειράματα, {ph0}μια καθαρή επαναμεταγλώττιση επιβεβαίωσε "
+"ότι ολόκληρη η συνάρτηση ταυτιζόταν{ph1}."
 
 #: website/public/blog/reverse-engineering-models/index.html:314
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -674,11 +726,15 @@ msgid ""
 "lifetime hypothesis gave the agent a new direction; compiler feedback helped"
 " it refine that hypothesis into a source arrangement that matched."
 msgstr ""
+"Αυτό που με ενδιαφέρει είναι πώς η ανακάλυψη και οι δοκιμές λειτούργησαν "
+"μαζί. Η υπόθεση για τον χρόνο ζωής έδωσε στον agent μια νέα κατεύθυνση· η "
+"ανάδραση του μεταγλωττιστή τον βοήθησε να τη μετατρέψει σε μια διάταξη "
+"πηγαίου κώδικα που ταυτιζόταν."
 
 #: website/public/blog/reverse-engineering-models/index.html:320
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "A different control-flow graph"
-msgstr ""
+msgstr "Ένας διαφορετικός γράφος ροής ελέγχου"
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th09/commit/f8d12d72aaf02212ee1b585a8f3f86d7ed000269"
@@ -693,6 +749,11 @@ msgid ""
 "{ph0}GPT-6.1-Sol's earlier work{ph1} got parts of the function to match, but"
 " the branches still joined up differently from the original."
 msgstr ""
+"Μια δεύτερη συνάρτηση του TH09 δείχνει γιατί αυτή η νέα κατεύθυνση μπορεί να"
+" έχει σημασία. Εδώ, το εμπόδιο ήταν ο τρόπος με τον οποίο πολλές "
+"διακλαδώσεις μοιράζονταν την τελική τους εργασία. {ph0}Η προηγούμενη δουλειά"
+" του GPT-6.1-Sol{ph1} πέτυχε ταύτιση σε τμήματα της συνάρτησης, αλλά οι "
+"διακλαδώσεις εξακολουθούσαν να ενώνονται διαφορετικά από ό,τι στο αρχικό."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th09/commit/da33a646221198ceb7f3df2b96e2ca0e9b2f705f"
@@ -712,6 +773,11 @@ msgid ""
 "complete function matched, and a {ph2}separate rebuild check confirmed "
 "it{ph3}."
 msgstr ""
+"{ph0}Το GPT-6-Astra άλλαξε τον γύρω γράφο ροής ελέγχου{ph1}. Οι κύριες "
+"διαδρομές οδηγούσαν πλέον σε μια κοινή τελική ενημέρωση και επιστροφή. Με "
+"αυτή τη δομή πηγαίου κώδικα, ο μεταγλωττιστής συνδύασε τις διακλαδώσεις με "
+"τον ίδιο τρόπο όπως στο αρχικό. Ολόκληρη η συνάρτηση ταυτίστηκε και ένας "
+"{ph2}ξεχωριστός έλεγχος επαναμεταγλώττισης το επιβεβαίωσε{ph3}."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -724,6 +790,11 @@ msgid ""
 "agent can keep trying local variations for a long time before finding a "
 "better way to express the surrounding work."
 msgstr ""
+"{ph0}Η αλλαγή της αναπαράστασης άνοιξε έναν πιο παραγωγικό χώρο "
+"αναζήτησης.{ph1} Και οι δύο περιπτώσεις μού δίνουν λόγο να παίρνω στα σοβαρά"
+" τις ικανότητες των γενικών μοντέλων: ένας agent μπορεί να δοκιμάζει τοπικές"
+" παραλλαγές για πολύ καιρό, πριν βρει έναν καλύτερο τρόπο να εκφράσει τον "
+"κώδικα γύρω από αυτές."
 
 #: website/public/blog/reverse-engineering-models/index.html:353
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -734,6 +805,11 @@ msgid ""
 "comparison would help separate the effect of the model from the experience "
 "it inherited."
 msgstr ""
+"Ταυτόχρονα, οι μεταγενέστερες συνεδρίες ξεκίνησαν με τον προηγούμενο πηγαίο "
+"κώδικα και τις καταγεγραμμένες αποτυχίες. Αυτή η συσσωρευμένη δουλειά ήταν "
+"μέρος του πλεονεκτήματός τους. Το ιστορικό μάς επιτρέπει να εξετάσουμε τις "
+"ανακαλύψεις και τους ελέγχους τους· μια ελεγχόμενη σύγκριση θα βοηθούσε να "
+"διαχωριστεί η επίδραση του μοντέλου από την εμπειρία που κληρονόμησε."
 
 #: website/public/blog/reverse-engineering-models/index.html:360
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -744,11 +820,17 @@ msgid ""
 "broad reasoning ability, and how much could a model learn through repeated "
 "experience with that compiler and code?"
 msgstr ""
+"Σε αυτό το σημείο το ερώτημα γίνεται ενδιαφέρον για μένα. Μέρος της προόδου "
+"προήλθε από την εύρεση μιας νέας αναπαράστασης, ενώ μεγάλο μέρος της "
+"υπόλοιπης δουλειάς αφορούσε τη δοκιμή μορφών πηγαίου κώδικα σε έναν οικείο "
+"μεταγλωττιστή. Πόσο χρειάζεται ευρεία ικανότητα συλλογισμού και πόσα θα "
+"μπορούσε να μάθει ένα μοντέλο μέσα από επαναλαμβανόμενη εμπειρία με αυτόν "
+"τον μεταγλωττιστή και τον κώδικα;"
 
 #: website/public/blog/reverse-engineering-models/index.html:370
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Why might a specialist do well?"
-msgstr ""
+msgstr "Γιατί μπορεί να αποδώσει καλά ένα εξειδικευμένο μοντέλο;"
 
 #: website/public/blog/reverse-engineering-models/index.html:371
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -759,6 +841,12 @@ msgid ""
 "examples: related loops and helper arrangements have supplied hypotheses "
 "across games."
 msgstr ""
+"Το Touhou μάς δίνει έναν συγκεκριμένο λόγο να περιμένουμε ότι αυτή η "
+"εμπειρία θα βοηθήσει. Μεγάλο μέρος του κώδικα των παιχνιδιών προέρχεται από "
+"τον ίδιο δημιουργό, τον ZUN, οπότε οι επαναλαμβανόμενες συνήθειες αποτελούν "
+"μια εύλογη αρχική υπόθεση. Τα αποθετήρια το επιβεβαιώνουν με χρήσιμα "
+"παραδείγματα: συγγενικοί βρόχοι και διατάξεις βοηθητικών συναρτήσεων έχουν "
+"δώσει υποθέσεις από παιχνίδι σε παιχνίδι."
 
 #: website/public/blog/reverse-engineering-models/index.html:378
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -768,6 +856,11 @@ msgid ""
 "produce repeatable differences in machine code. Some of those differences "
 "are surprisingly obscure."
 msgstr ""
+"Αυτά τα μοτίβα πηγαίου κώδικα γίνονται πιο συγκεκριμένα όταν λάβουμε υπόψη "
+"και τον μεταγλωττιστή. Με μια συγκεκριμένη έκδοση και ένα συγκεκριμένο "
+"σύνολο επιλογών, μικρές αλλαγές στον πηγαίο κώδικα μπορούν να προκαλέσουν "
+"επαναλήψιμες διαφορές στον κώδικα μηχανής. Ορισμένες από αυτές τις διαφορές "
+"είναι εκπληκτικά δυσδιάκριτες."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -786,6 +879,12 @@ msgid ""
 "pattern that affected the compiler's choice. That gave us a more promising "
 "hypothesis for {ph2}the reconstruction of {ph3}{ph4}."
 msgstr ""
+"Στο TH095, για παράδειγμα, {ph0}ακόμη και το όνομα μιας τοπικής μεταβλητής "
+"μπορούσε να αλλάξει το σημείο όπου την αποθήκευε ο VC7.1{ph1}. Η μετακίνηση "
+"της δήλωσης από μόνη της δεν έλυσε τη διάταξη, αλλά μια προηγούμενη "
+"συνάρτηση φόντου είχε αποκαλύψει ένα μοτίβο ονοματοδοσίας που επηρέαζε την "
+"επιλογή του μεταγλωττιστή. Αυτό μας έδωσε μια πιο ελπιδοφόρα υπόθεση για "
+"{ph2}την ανακατασκευή της συνάρτησης {ph3}{ph4}."
 
 #: website/public/blog/reverse-engineering-models/index.html:398
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -793,6 +892,9 @@ msgid ""
 "Reusing that pattern for the file-size variable produced the required layout"
 " without adding storage. The full function then matched."
 msgstr ""
+"Η επαναχρησιμοποίηση αυτού του μοτίβου για τη μεταβλητή του μεγέθους αρχείου"
+" έδωσε την απαιτούμενη διάταξη χωρίς επιπλέον χώρο αποθήκευσης. Στη "
+"συνέχεια, ολόκληρη η συνάρτηση ταυτίστηκε."
 
 #: website/public/blog/reverse-engineering-models/index.html:403
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -801,6 +903,10 @@ msgid ""
 "arrives. A specialist trained on this compiler could encounter many such "
 "cases and learn which source variations are worth testing first."
 msgstr ""
+"Αυτό είναι το είδος της στενής λεπτομέρειας που ένα γενικό μοντέλο ίσως να "
+"μη γνωρίζει όταν ξεκινά. Ένα εξειδικευμένο μοντέλο εκπαιδευμένο σε αυτόν τον"
+" μεταγλωττιστή θα μπορούσε να συναντήσει πολλές τέτοιες περιπτώσεις και να "
+"μάθει ποιες παραλλαγές του πηγαίου κώδικα αξίζει να δοκιμαστούν πρώτες."
 
 #: website/public/blog/reverse-engineering-models/index.html:409
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -811,6 +917,12 @@ msgid ""
 "could help the model propose those forms more efficiently, while the target "
 "still determines which hypotheses survive."
 msgstr ""
+"Η ευκαιρία είναι ιδιαίτερα σαφής στα τελικά προβλήματα ταύτισης, όπου ήδη "
+"κατανοούμε τη συμπεριφορά. Τότε το ερώτημα είναι ποια συνηθισμένη μορφή "
+"πηγαίου κώδικα μετατρέπει αυτός ο μεταγλωττιστής στις εντολές που "
+"παρατηρούμε. Η εξειδίκευση θα μπορούσε να βοηθήσει το μοντέλο να προτείνει "
+"αυτές τις μορφές πιο αποδοτικά, ενώ ο στόχος εξακολουθεί να καθορίζει ποιες "
+"υποθέσεις επιβιώνουν."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th04/commit/6dce0a79d5b931f0e2a08475b90e0c33d2321b98"
@@ -828,11 +940,20 @@ msgid ""
 " whether it applies. Distinguishing those contexts is part of what a "
 "specialist would need to learn."
 msgstr ""
+"Ωστόσο, τα χρήσιμα μοτίβα θα έπρεπε να διατηρούν το πλαίσιό τους. Το TH08 "
+"χρησιμοποιεί παλαιότερη έκδοση της Visual C++ από τα TH095 και TH09. Το TH04"
+" χρησιμοποιεί διαφορετικό μεταγλωττιστή της εποχής του DOS και η "
+"{ph0}ανακατασκευή του παίκτη{ph1} σε αυτό χρειάστηκε διαφορετικές υποθέσεις "
+"για τα μοτίβα του πηγαίου κώδικα και για τον τρόπο με τον οποίο ο "
+"μεταγλωττισμένος κώδικας συνδυάστηκε σε εκτελέσιμο αρχείο. Ο κοινός "
+"δημιουργός μάς δίνει μια αρχική υπόθεση, αλλά κάθε στόχος μάς δείχνει αν "
+"αυτή ισχύει. Η διάκριση αυτών των πλαισίων είναι μέρος όσων θα χρειαζόταν να"
+" μάθει ένα εξειδικευμένο μοντέλο."
 
 #: website/public/blog/reverse-engineering-models/index.html:433
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Where should that experience live?"
-msgstr ""
+msgstr "Πού πρέπει να βρίσκεται αυτή η εμπειρία;"
 
 #. {ph0}: <a href="../touhou-reconstruction/">
 #. {ph1}: </a>
@@ -846,6 +967,11 @@ msgid ""
 "memory includes compiler lessons, along with the source and failed "
 "experiments that made them useful."
 msgstr ""
+"Πριν αποφασίσω να διδάξω αυτά τα μοτίβα μέσω εκπαίδευσης μοντέλου, θα "
+"εξέταζα τη γνώση που ήδη διατηρούμε στο αποθετήριο. Στο {ph0}προηγούμενο "
+"δοκίμιο{ph1} έγραψα για το πώς αυτή η γνώση γίνεται η μνήμη εργασίας του "
+"έργου. Η μνήμη αυτή περιλαμβάνει διδάγματα για τον μεταγλωττιστή, μαζί με "
+"τον πηγαίο κώδικα και τα αποτυχημένα πειράματα που τα έκαναν χρήσιμα."
 
 #: website/public/blog/reverse-engineering-models/index.html:443
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -855,6 +981,10 @@ msgid ""
 "failed in the same context. The starting point improves without changing the"
 " model's weights."
 msgstr ""
+"Ανακτώντας αυτό το αρχείο, ένας agent μπορεί να ξεκινήσει από ένα γνωστό "
+"αποτέλεσμα και να εξετάσει πώς φτάσαμε σε αυτό. Μπορεί επίσης να αποφύγει "
+"εναλλακτικές που έχουν ήδη αποτύχει στο ίδιο πλαίσιο. Το σημείο εκκίνησης "
+"βελτιώνεται χωρίς να αλλάξουν τα βάρη του μοντέλου."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th09/commit/1eb843383941d00065622a9e353146c4bb96979e"
@@ -870,6 +1000,13 @@ msgid ""
 "within it. TH09's own evidence supplied the game-specific details, and clean"
 " rebuilds confirmed the complete match."
 msgstr ""
+"Κατά την ανακατασκευή της συνάρτησης εμφάνισης εχθρών του TH09, μια "
+"{ph0}συνεδρία του GPT-6-Luna-max{ph1} άντλησε μια υπόθεση από την αντίστοιχη"
+" οικογένεια πηγαίου κώδικα του TH08. Αυτός ο παλαιότερος κώδικας υποδείκνυε "
+"πώς να δομηθεί ο βρόχος και πώς να χειριστούν οι αποτυχίες μέσα σε αυτόν. Τα"
+" τεκμήρια του ίδιου του TH09 έδωσαν τις λεπτομέρειες που αφορούσαν το "
+"συγκεκριμένο παιχνίδι, και καθαρές επαναμεταγλωττίσεις επιβεβαίωσαν την "
+"πλήρη ταύτιση."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -883,6 +1020,13 @@ msgid ""
 "candidate fails, the model must decide what the result means for its next "
 "attempt. Knowing the relevant pattern is only the beginning of that process."
 msgstr ""
+"{ph0}Το «το μοντέλο δεν ήξερε αυτή την ιδιορρυθμία του μεταγλωττιστή» και το"
+" «το μοντέλο δεν μπορούσε να τη χρησιμοποιήσει» είναι διαφορετικά "
+"προβλήματα.{ph1} Η ανάκτηση μπορεί να λύσει το πρώτο, αλλά η μετατροπή αυτής"
+" της γνώσης σε χρήσιμη υποψήφια λύση εξακολουθεί να απαιτεί δουλειά. Και αν "
+"η υποψήφια λύση αποτύχει, το μοντέλο πρέπει να αποφασίσει τι σημαίνει το "
+"αποτέλεσμα για την επόμενη προσπάθειά του. Η γνώση του σχετικού μοτίβου "
+"είναι μόνο η αρχή αυτής της διαδικασίας."
 
 #: website/public/blog/reverse-engineering-models/index.html:470
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -892,11 +1036,15 @@ msgid ""
 "identify what training adds: better candidate generation, better decisions "
 "after feedback, or both."
 msgstr ""
+"Γι' αυτόν τον λόγο, θα συμπεριλάμβανα σε κάθε σύγκριση ένα μικρότερο γενικό "
+"μοντέλο με καλή ανάκτηση. Αν του δίναμε την ίδια βιβλιοθήκη εμπειρίας, θα "
+"μπορούσαμε να εντοπίσουμε τι προσθέτει η εκπαίδευση: καλύτερη παραγωγή "
+"υποψήφιων λύσεων, καλύτερες αποφάσεις μετά την ανάδραση ή και τα δύο."
 
 #: website/public/blog/reverse-engineering-models/index.html:478
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Learning the next useful experiment"
-msgstr ""
+msgstr "Μάθηση του επόμενου χρήσιμου πειράματος"
 
 #: website/public/blog/reverse-engineering-models/index.html:479
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -906,6 +1054,11 @@ msgid ""
 "against the program. Even when the candidate fails, the result can narrow "
 "the remaining possibilities and suggest a more useful next experiment."
 msgstr ""
+"Αυτές οι αποφάσεις μετά την ανάδραση είναι αυτό που θα ήθελα περισσότερο να "
+"μελετήσω. Στην ανακατασκευή με agents, το μοντέλο προτείνει μια εξήγηση και "
+"τη δοκιμάζει απέναντι στο πρόγραμμα. Ακόμη κι όταν η υποψήφια λύση "
+"αποτυγχάνει, το αποτέλεσμα μπορεί να περιορίσει τις εναπομείνασες "
+"δυνατότητες και να υποδείξει ένα πιο χρήσιμο επόμενο πείραμα."
 
 #: website/public/blog/reverse-engineering-models/index.html:486
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -915,42 +1068,49 @@ msgid ""
 "information. Each of the following experiments helped identify what still "
 "needed to change."
 msgstr ""
+"Ας εξετάσουμε ξανά το παράδειγμα των προσωρινών αποτελεσμάτων. Ο τελικός "
+"πηγαίος κώδικας δείχνει τη διάταξη που λειτούργησε, όμως η διαδρομή προς "
+"αυτόν περιέχει περισσότερη πληροφορία. Καθένα από τα παρακάτω πειράματα "
+"βοήθησε να εντοπιστεί τι έμενε ακόμη να αλλάξει."
 
 #: website/public/blog/reverse-engineering-models/index.html:499
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Experiment"
-msgstr ""
+msgstr "Πείραμα"
 
 #: website/public/blog/reverse-engineering-models/index.html:500
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "What its result taught us"
-msgstr ""
+msgstr "Τι μας δίδαξε το αποτέλεσμα"
 
 #: website/public/blog/reverse-engineering-models/index.html:505
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Try a different way to copy the results"
-msgstr ""
+msgstr "Δοκιμή διαφορετικού τρόπου αντιγραφής των αποτελεσμάτων"
 
 #: website/public/blog/reverse-engineering-models/index.html:506
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "The copy code changes, but the function still differs."
 msgstr ""
+"Ο κώδικας αντιγραφής αλλάζει, αλλά η συνάρτηση εξακολουθεί να διαφέρει."
 
 #: website/public/blog/reverse-engineering-models/index.html:511
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Use the returned values directly"
-msgstr ""
+msgstr "Άμεση χρήση των επιστρεφόμενων τιμών"
 
 #: website/public/blog/reverse-engineering-models/index.html:512
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid ""
 "Copying follows the original pattern, but temporary storage still differs."
 msgstr ""
+"Η αντιγραφή ακολουθεί το αρχικό μοτίβο, αλλά η προσωρινή αποθήκευση "
+"εξακολουθεί να διαφέρει."
 
 #: website/public/blog/reverse-engineering-models/index.html:518
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Keep the temporary results alive together"
-msgstr ""
+msgstr "Διατήρηση των προσωρινών αποτελεσμάτων ζωντανών ταυτόχρονα"
 
 #: website/public/blog/reverse-engineering-models/index.html:519
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -958,16 +1118,18 @@ msgid ""
 "They get separate storage, but one still overlaps a value used later for "
 "collision checks."
 msgstr ""
+"Αποκτούν ξεχωριστό χώρο αποθήκευσης, αλλά ένα εξακολουθεί να επικαλύπτεται "
+"με μια τιμή που χρησιμοποιείται αργότερα σε ελέγχους σύγκρουσης."
 
 #: website/public/blog/reverse-engineering-models/index.html:525
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Keep the collision-check value separate"
-msgstr ""
+msgstr "Διατήρηση της τιμής ελέγχου σύγκρουσης χωριστά"
 
 #: website/public/blog/reverse-engineering-models/index.html:526
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "A clean rebuild confirms the complete match."
-msgstr ""
+msgstr "Μια καθαρή επαναμεταγλώττιση επιβεβαιώνει την πλήρη ταύτιση."
 
 #: website/public/blog/reverse-engineering-models/index.html:531
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -975,6 +1137,8 @@ msgid ""
 "Selected experiments from the attack-function reconstruction above, grouped "
 "by what they taught us."
 msgstr ""
+"Επιλεγμένα πειράματα από την παραπάνω ανακατασκευή της συνάρτησης επίθεσης, "
+"ομαδοποιημένα με βάση το τι μας δίδαξαν."
 
 #: website/public/blog/reverse-engineering-models/index.html:535
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -984,6 +1148,12 @@ msgid ""
 " next decision. Keeping ineffective variations matters too: they tell a "
 "later agent which hypotheses have already been tested in that context."
 msgstr ""
+"Ένα αρχείο εκπαίδευσης που διατηρεί αυτή την ακολουθία μπορεί να διδάξει "
+"περισσότερα από τον τελικό πηγαίο κώδικα μόνο. Συνδέει κάθε προτεινόμενη "
+"αλλαγή με ένα παρατηρούμενο αποτέλεσμα και με την επόμενη απόφαση. Έχει "
+"σημασία να διατηρούνται και οι παραλλαγές που δεν απέδωσαν: δείχνουν σε έναν"
+" μεταγενέστερο agent ποιες υποθέσεις έχουν ήδη δοκιμαστεί σε αυτό το "
+"πλαίσιο."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -996,6 +1166,11 @@ msgid ""
 " to another cause. When local edits stop being informative, the agent should"
 " be able to revisit the source representation or inspect the evidence again."
 msgstr ""
+"{ph0}Θα ήθελα το μοντέλο να μάθει πώς να χρησιμοποιεί την ανάδραση.{ph1} Ένα"
+" ουδέτερο αποτέλεσμα είναι λόγος να επανεξεταστεί η παραλλαγή· μια απόκλιση "
+"που άλλαξε μπορεί να υποδεικνύει άλλη αιτία. Όταν οι τοπικές αλλαγές πάψουν "
+"να δίνουν πληροφορία, ο agent θα πρέπει να μπορεί να επανεξετάσει την "
+"αναπαράσταση του πηγαίου κώδικα ή να εξετάσει ξανά τα τεκμήρια."
 
 #: website/public/blog/reverse-engineering-models/index.html:551
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1005,11 +1180,16 @@ msgid ""
 "rigid sequence of required rewrites would remove that choice, along with "
 "part of the behavior we want the model to learn."
 msgstr ""
+"Για να μάθει κανείς να κάνει αυτές τις επιλογές χρειάζεται αυτονομία. "
+"Μερικές φορές το χρήσιμο επόμενο βήμα είναι να εξεταστεί μια άλλη συνάρτηση "
+"που καλεί τη συγκεκριμένη και όχι να μεταγλωττιστεί άλλη μία αλλαγή. Μια "
+"άκαμπτη ακολουθία υποχρεωτικών επανεγγραφών θα αφαιρούσε αυτή την επιλογή, "
+"μαζί με μέρος της συμπεριφοράς που θέλουμε να μάθει το μοντέλο."
 
 #: website/public/blog/reverse-engineering-models/index.html:560
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Why RE is interesting for reinforcement learning"
-msgstr ""
+msgstr "Γιατί η αντίστροφη μηχανική ενδιαφέρει την ενισχυτική μάθηση"
 
 #: website/public/blog/reverse-engineering-models/index.html:561
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1019,6 +1199,11 @@ msgid ""
 "produce quick, repeatable feedback. The agent can compile a candidate, "
 "inspect the mismatch and use that observation to choose its next step."
 msgstr ""
+"Η οριοθετημένη ανακατασκευή μάς δίνει ένα πρακτικό περιβάλλον για τη μελέτη "
+"αυτών των επιλογών. Μόλις καθοριστούν ο στόχος και ο μεταγλωττιστής, πολλά "
+"πειράματα στον πηγαίο κώδικα δίνουν γρήγορη, επαναλήψιμη ανάδραση. Ο agent "
+"μπορεί να μεταγλωττίσει μια υποψήφια λύση, να εξετάσει την απόκλιση και να "
+"χρησιμοποιήσει αυτή την παρατήρηση για να επιλέξει το επόμενο βήμα του."
 
 #: website/public/blog/reverse-engineering-models/index.html:568
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1028,6 +1213,11 @@ msgid ""
 "concrete outcome, while the sequence of attempts lets us observe how much "
 "work it took to reach it."
 msgstr ""
+"Η ενισχυτική μάθηση θα μπορούσε να εκπαιδεύσει αυτή τη διαδικασία λήψης "
+"αποφάσεων μέσω της ανάδρασης που λαμβάνει. Μια υποψήφια λύση που γίνεται "
+"αποδεκτή από έναν καθορισμένο έλεγχο μάς δίνει ένα συγκεκριμένο αποτέλεσμα, "
+"ενώ η ακολουθία των προσπαθειών μάς επιτρέπει να παρατηρήσουμε πόση δουλειά "
+"χρειάστηκε για να φτάσουμε σε αυτό."
 
 #. {ph0}: <a href="https://aclanthology.org/2024.emnlp-main.203/" >
 #. {ph1}: </a >
@@ -1044,6 +1234,13 @@ msgid ""
 "starting point for the related task of finding source that matches a "
 "historical compiler's output."
 msgstr ""
+"Υπάρχει ήδη έρευνα που στηρίζει αυτή την κατεύθυνση. Το "
+"{ph0}LLM4Decompile{ph1} μελετά μοντέλα εξειδικευμένα στην απομεταγλώττιση. "
+"Το {ph2}AutoDecompiler{ph3} εκπαιδεύει τη βελτίωση σε πολλούς γύρους με "
+"ανάδραση από τον μεταγλωττιστή και την εκτέλεση. Οι μελέτες τους εστιάζουν "
+"στη λειτουργική ανάκτηση. Για αυτή τη δουλειά, θα τις χρησιμοποιούσα ως "
+"αφετηρία για τη συγγενική εργασία της εύρεσης πηγαίου κώδικα που ταυτίζεται "
+"με την έξοδο ενός ιστορικού μεταγλωττιστή."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th08/commit/af9cb1d3e839b15a78b47ac1701506083cc82847"
@@ -1059,6 +1256,13 @@ msgid ""
 "handled floating-point calculations{ph1}. Before the agent could test a "
 "useful correction, it had to work out what to measure."
 msgstr ""
+"Για να φτάσουμε όμως σε μια τόσο σαφώς ορισμένη εργασία, ίσως πρέπει πρώτα "
+"να προσδιορίσουμε τι ανήκει σε μια συνάρτηση ή να επινοήσουμε μια νέα "
+"μέτρηση κατά την εκτέλεση. Στο TH08, για παράδειγμα, {ph0}μια διαφορά στις "
+"συγκρούσεις οδήγησε πίσω στον τρόπο με τον οποίο το αρχικό πρόγραμμα "
+"χειριζόταν τους υπολογισμούς κινητής υποδιαστολής{ph1}. Πριν ο agent "
+"μπορέσει να δοκιμάσει μια χρήσιμη διόρθωση, έπρεπε να καταλάβει τι να "
+"μετρήσει."
 
 #: website/public/blog/reverse-engineering-models/index.html:597
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1067,11 +1271,15 @@ msgid ""
 "problem checkable in the first place. Once that check exists, we can "
 "investigate how far a learned search policy can get with it."
 msgstr ""
+"Αυτό υποδεικνύει έναν ακόμη ρόλο για ένα μοντέλο με ευρείες ικανότητες: να "
+"βοηθά ώστε το πρόβλημα να γίνει εξαρχής ελέγξιμο. Μόλις υπάρξει αυτός ο "
+"έλεγχος, μπορούμε να διερευνήσουμε πόσο μακριά μπορεί να φτάσει με αυτόν μια"
+" πολιτική αναζήτησης που έχει μάθει το μοντέλο."
 
 #: website/public/blog/reverse-engineering-models/index.html:605
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "When the oracle is wrong"
-msgstr ""
+msgstr "Όταν το μαντείο κάνει λάθος"
 
 #: website/public/blog/reverse-engineering-models/index.html:606
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1080,6 +1288,10 @@ msgid ""
 "model learns. I call the reference or checker an oracle. Even if it gives a "
 "repeatable answer, we still need to understand what that answer covers."
 msgstr ""
+"Μόλις εκπαιδεύσουμε με βάση αυτόν τον έλεγχο, η κάλυψή του γίνεται μέρος "
+"αυτού που μαθαίνει το μοντέλο. Ονομάζω μαντείο (oracle) την αναφορά ή τον "
+"ελεγκτή. Ακόμη κι αν δίνει επαναλήψιμη απάντηση, πρέπει και πάλι να "
+"κατανοούμε τι καλύπτει αυτή η απάντηση."
 
 #: website/public/blog/reverse-engineering-models/index.html:612
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1091,6 +1303,13 @@ msgid ""
 "explicitly recorded for verification. Other literal references could pass "
 "without their values being examined."
 msgstr ""
+"Το TH08 έδειξε πόσα μπορούν να κρύβονται έξω από αυτή την κάλυψη. Ορισμένες "
+"ανακατασκευασμένες συναρτήσεις περνούσαν τις ακριβείς συγκρίσεις τους με "
+"λανθασμένες σταθερές κινητής υποδιαστολής. Το εργαλείο σύγκρισης προσάρμοζε "
+"τις μετατοπισμένες διευθύνσεις πριν ελέγξει τις εντολές, αλλά έλεγχε τις "
+"τιμές πίσω από αυτές τις διευθύνσεις μόνο όταν είχαν καταγραφεί ρητά για "
+"επαλήθευση. Άλλες αναφορές σε σταθερές τιμές μπορούσαν να περάσουν χωρίς να "
+"εξεταστούν οι τιμές τους."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th08/commit/a393f400786e4cc6cbb1000af0dad3276da12c78"
@@ -1106,6 +1325,10 @@ msgid ""
 "functions that had already been accepted. In one calculation, the "
 "reconstructed source added {ph2} where the original added {ph3}."
 msgstr ""
+"Για να κλείσει αυτό το κενό, ένας {ph0}ευρύτερος έλεγχος{ph1} εντόπισε "
+"λανθασμένες σταθερές σε συναρτήσεις που είχαν ήδη γίνει αποδεκτές. Σε έναν "
+"υπολογισμό, ο ανακατασκευασμένος πηγαίος κώδικας πρόσθετε {ph2} εκεί όπου ο "
+"αρχικός πρόσθετε {ph3}."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1118,6 +1341,12 @@ msgid ""
 " observed failure was in the check itself. But using that check as a reward "
 "would have made the same blind spot part of the learning environment."
 msgstr ""
+"{ph0}Ένα μοντέλο που ανταμείβεται από τον παλιό έλεγχο θα μπορούσε να μάθει "
+"να παράγει τη λάθος ανακατασκευή.{ph1} Δεν είχαμε εκπαιδεύσει μοντέλο "
+"ενισχυτικής μάθησης με βάση αυτό το μαντείο· η αποτυχία που παρατηρήθηκε "
+"βρισκόταν στον ίδιο τον έλεγχο. Όμως, αν χρησιμοποιούσαμε αυτόν τον έλεγχο "
+"ως ανταμοιβή, το ίδιο τυφλό σημείο θα είχε γίνει μέρος του περιβάλλοντος "
+"μάθησης."
 
 #. {ph0}: <a href="https://arxiv.org/html/2609.05370v1" >
 #. {ph1}: </a >
@@ -1131,6 +1360,12 @@ msgid ""
 "the cases they exercise, just as an instruction match needs to be read in "
 "terms of the bytes and data it checks."
 msgstr ""
+"Ένας λειτουργικός έλεγχος μπορεί να έχει παρόμοιο τυφλό σημείο. {ph0}Έρευνα "
+"με διαφορικό fuzzing σε απομεταγλωττιστές βασισμένους σε LLM{ph1} έχει "
+"εντοπίσει διαφορές συμπεριφοράς πέρα από τους παρεχόμενους ελέγχους. "
+"Επομένως, η επιτυχία σε αυτούς τους ελέγχους πρέπει να ερμηνεύεται με βάση "
+"τις περιπτώσεις που καλύπτουν, όπως ακριβώς μια ταύτιση εντολών πρέπει να "
+"ερμηνεύεται με βάση τα byte και τα δεδομένα που ελέγχει."
 
 #: website/public/blog/reverse-engineering-models/index.html:651
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1141,6 +1376,12 @@ msgid ""
 "its reconstruction. Otherwise, something like a byte array copied from the "
 "target could satisfy a naive score without recovering useful source."
 msgstr ""
+"Πριν χρησιμοποιήσω οποιοδήποτε από τα δύο είδη ελέγχου ως ανταμοιβή, θα τον "
+"δοκίμαζα με σκόπιμες αποτυχίες. Θα κρατούσα επίσης την τελική αποδοχή εκτός "
+"του επεξεργάσιμου πηγαίου κώδικα της υποψήφιας λύσης, ώστε το μοντέλο να "
+"πρέπει να ικανοποιήσει τον έλεγχο μέσω της ανακατασκευής του. Διαφορετικά, "
+"κάτι σαν ένας πίνακας byte αντιγραμμένος από τον στόχο θα μπορούσε να "
+"ικανοποιήσει μια αφελή βαθμολογία χωρίς να ανακτήσει χρήσιμο πηγαίο κώδικα."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1152,11 +1393,15 @@ msgid ""
 "research problem.{ph1} As the learner gets better at optimizing the feedback"
 " we give it, understanding that feedback becomes more important too."
 msgstr ""
+"{ph0}Η βελτίωση του μοντέλου που μαθαίνει και η βελτίωση του μαντείου του "
+"ανήκουν στο ίδιο ερευνητικό πρόβλημα.{ph1} Όσο το μοντέλο βελτιώνεται στη "
+"βελτιστοποίηση της ανάδρασης που του δίνουμε, τόσο πιο σημαντική γίνεται και"
+" η κατανόηση αυτής της ανάδρασης."
 
 #: website/public/blog/reverse-engineering-models/index.html:669
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "A comparison worth running"
-msgstr ""
+msgstr "Μια σύγκριση που αξίζει να γίνει"
 
 #: website/public/blog/reverse-engineering-models/index.html:670
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1167,6 +1412,13 @@ msgid ""
 "show what retrieval changes. From there, supervised specialization and an "
 "RL-trained version would let us examine what training adds."
 msgstr ""
+"Με αυτούς τους ελέγχους σε ισχύ, θα ξεκινούσα τη σύγκριση σε μια σταθερή "
+"οικογένεια εργασιών για τον VC7.1. Πρώτα, θα όριζα σημεία αναφοράς για ένα "
+"ισχυρό γενικό μοντέλο και για ένα μικρότερο. Η προσθήκη της γνώσης του "
+"αποθετηρίου στο μικρότερο μοντέλο θα έδειχνε τι αλλάζει η ανάκτηση. Από εκεί"
+" και πέρα, η εξειδίκευση με επιβλεπόμενη μάθηση και μια έκδοση εκπαιδευμένη "
+"με ενισχυτική μάθηση θα μας επέτρεπαν να εξετάσουμε τι προσθέτει η "
+"εκπαίδευση."
 
 #: website/public/blog/reverse-engineering-models/index.html:678
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1176,6 +1428,12 @@ msgid ""
 "keep the base model and available knowledge fixed as well. Repeated trials "
 "would help distinguish a reliable search strategy from a lucky candidate."
 msgstr ""
+"Για να είναι αυτές οι συγκρίσεις κατατοπιστικές, κάθε μοντέλο θα λάμβανε τα "
+"ίδια τεκμήρια για τον στόχο και τα ίδια εργαλεία. Στις συγκρίσεις που "
+"αφορούν ειδικά την εκπαίδευση, θα κρατούσα επίσης σταθερά το βασικό μοντέλο "
+"και τη διαθέσιμη γνώση. Οι επαναλαμβανόμενες δοκιμές θα βοηθούσαν να "
+"διακρίνουμε μια αξιόπιστη στρατηγική αναζήτησης από μια τυχερή υποψήφια "
+"λύση."
 
 #: website/public/blog/reverse-engineering-models/index.html:685
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1186,6 +1444,12 @@ msgid ""
 "model does much of the work needed to reach it. Measuring them separately "
 "would reveal that division of work."
 msgstr ""
+"Στη συνέχεια, θα διαχώριζα δύο αφετηρίες: την ανακατασκευή μιας συνάρτησης "
+"από τις εντολές της και την εξάλειψη των τελευταίων διαφορών σε πηγαίο "
+"κώδικα που ήδη συντηρείται. Ένα εξειδικευμένο μοντέλο μπορεί να είναι "
+"εξαιρετικό στη δεύτερη εργασία, ενώ ένα γενικό μοντέλο κάνει μεγάλο μέρος "
+"της δουλειάς που χρειάζεται για να φτάσουμε σε αυτήν. Η χωριστή μέτρησή τους"
+" θα αποκάλυπτε αυτόν τον καταμερισμό της εργασίας."
 
 #: website/public/blog/reverse-engineering-models/index.html:693
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1195,6 +1459,13 @@ msgid ""
 "identical functions to appear in training. I would instead hold out source "
 "families and keep their accepted answers out of both training and retrieval."
 msgstr ""
+"Και οι δύο εργασίες χρειάζονται παραδείγματα που έχουν πραγματικά εξαιρεθεί "
+"από την εκπαίδευση. Επειδή τα συγγενικά παιχνίδια Touhou μοιράζονται κώδικα "
+"μηχανής παιχνιδιού, η εξαίρεση ενός παιχνιδιού με βάση το όνομά του θα "
+"επέτρεπε και πάλι να εμφανιστούν σχεδόν πανομοιότυπες συναρτήσεις στην "
+"εκπαίδευση. Αντί γι' αυτό, θα εξαιρούσα οικογένειες πηγαίου κώδικα και θα "
+"κρατούσα τις αποδεκτές απαντήσεις τους εκτός τόσο της εκπαίδευσης όσο και "
+"της ανάκτησης."
 
 #: website/public/blog/reverse-engineering-models/index.html:700
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1205,6 +1476,13 @@ msgid ""
 "compilation, would tell us whether that quality produces an efficient "
 "workflow. Training costs would need their own accounting too."
 msgstr ""
+"Σε αυτά τα παραδείγματα, το ζητούμενο αποτέλεσμα θα ήταν πλήρεις ταυτίσεις, "
+"επικυρωμένες ανεξάρτητα. Αν δίναμε σε κάθε μοντέλο τον ίδιο προϋπολογισμό "
+"υποψήφιων λύσεων ή μεταγλωττίσεων, θα μπορούσαμε να συγκρίνουμε την ποιότητα"
+" της αναζήτησης. Η μέτρηση του χρόνου που πέρασε και του συνολικού κόστους, "
+"μαζί με τη μεταγλώττιση, θα μας έδειχνε αν αυτή η ποιότητα οδηγεί σε "
+"αποδοτική ροή εργασίας. Και το κόστος εκπαίδευσης θα χρειαζόταν τη δική του "
+"καταγραφή."
 
 #: website/public/blog/reverse-engineering-models/index.html:708
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1214,6 +1492,11 @@ msgid ""
 "model may pay for itself by finding a useful experiment sooner. The "
 "comparison should capture those costs."
 msgstr ""
+"Και οι δύο οπτικές έχουν σημασία, επειδή μια φθηνότερη πρόταση μπορεί να "
+"οδηγήσει σε ακριβή ροή εργασίας αν προκαλεί περισσότερες μεταγλωττίσεις που "
+"δεν δίνουν πληροφορία. Αντίστροφα, ένα πιο αργό μοντέλο μπορεί να αποσβέσει "
+"το κόστος του βρίσκοντας νωρίτερα ένα χρήσιμο πείραμα. Η σύγκριση θα πρέπει "
+"να αποτυπώνει αυτά τα κόστη."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th09/commit/ab72fd77728293fc0beacfc656ca701b0e266016"
@@ -1232,6 +1515,16 @@ msgid ""
 "validate any reward for \"getting closer\" against the full acceptance "
 "check."
 msgstr ""
+"Η καταμέτρηση των αποδεκτών αποτελεσμάτων βάζει επίσης την ενδιάμεση πρόοδο "
+"στη σωστή της διάσταση. Μια {ph0}υποψήφια λύση για την αποθήκευση "
+"replay{ph1} στο TH09 φαινόταν πολλά υποσχόμενη, επειδή η μεταγλωττισμένη "
+"συνάρτηση είχε το αναμενόμενο μέγεθος, αλλά μια πλήρης σύγκριση εντόπισε και"
+" πάλι ουσιαστικές διαφορές. Αλλαγές στον τρόπο με τον οποίο ο μεταγλωττιστής"
+" διατάσσει τις εντολές μπορούν επίσης να κάνουν μια υποψήφια λύση να "
+"φαίνεται πιο κοντά, χωρίς να λύνουν το υποκείμενο πρόβλημα. Τέτοια "
+"διαγνωστικά στοιχεία μπορούν να καθοδηγήσουν το επόμενο πείραμα, αλλά θα "
+"επικύρωνα οποιαδήποτε ανταμοιβή για το «πλησίασμα» με βάση τον πλήρη έλεγχο "
+"αποδοχής."
 
 #: website/public/blog/reverse-engineering-models/index.html:729
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1242,11 +1535,17 @@ msgid ""
 "training still add? The answers would help us decide where each kind of "
 "model is most useful."
 msgstr ""
+"Θα με ενδιέφερε το μοτίβο που προκύπτει από αυτά τα αποτελέσματα. Αν ένα "
+"εξειδικευμένο μοντέλο αποδίδει καλά σε μια οικεία οικογένεια μεταγλωττιστών,"
+" διατηρείται αυτό το πλεονέκτημα όταν αλλάζει η αλυσίδα εργαλείων; Και όταν "
+"και τα δύο μοντέλα έχουν καλή ανάκτηση, πόσα προσθέτει ακόμη η εκπαίδευση; "
+"Οι απαντήσεις θα μας βοηθούσαν να αποφασίσουμε πού είναι πιο χρήσιμο κάθε "
+"είδος μοντέλου."
 
 #: website/public/blog/reverse-engineering-models/index.html:738
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "What kind of agent does this suggest?"
-msgstr ""
+msgstr "Τι είδους agent υποδεικνύει αυτό;"
 
 #: website/public/blog/reverse-engineering-models/index.html:739
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1257,6 +1556,13 @@ msgid ""
 " results stop making sense, the broader agent could return to the target "
 "evidence or investigate the measurement itself."
 msgstr ""
+"Αν αποδειχθεί ότι τα μοντέλα βοηθούν σε διαφορετικά στάδια, μια χρήσιμη "
+"διάταξη θα μπορούσε να είναι ένας γενικός agent με πρόσβαση σε ένα "
+"εξειδικευμένο μοντέλο. Όταν μια εργασία γίνει μια οικεία αναζήτηση στον "
+"μεταγλωττιστή, ο agent θα μπορούσε να ζητήσει υποψήφιες λύσεις από το "
+"εξειδικευμένο μοντέλο. Αν τα αποτελέσματα πάψουν να βγάζουν νόημα, ο "
+"γενικότερος agent θα μπορούσε να επιστρέψει στα τεκμήρια του στόχου ή να "
+"διερευνήσει την ίδια τη μέτρηση."
 
 #: website/public/blog/reverse-engineering-models/index.html:747
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1265,6 +1571,10 @@ msgid ""
 "the investigation develops. The agent keeps the freedom to change direction "
 "that made the earlier breakthroughs possible."
 msgstr ""
+"Σε αυτή τη διάταξη, η εξειδίκευση γίνεται ένα εργαλείο που ο agent μπορεί να"
+" επιλέξει καθώς εξελίσσεται η διερεύνηση. Ο agent διατηρεί την ελευθερία να "
+"αλλάζει κατεύθυνση, η οποία έκανε δυνατές τις προηγούμενες σημαντικές "
+"προόδους."
 
 #: website/public/blog/reverse-engineering-models/index.html:752
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1274,6 +1584,11 @@ msgid ""
 "work. It also gives us a reason to ask which decisions need broad judgment "
 "and which improve through repeated experience with a particular craft."
 msgstr ""
+"Αυτό προκύπτει φυσικά από τη βιομηχανική μετάβαση που περιέγραψα στο "
+"προηγούμενο δοκίμιο. Η δυνατότητα να εκτελούμε πολύ περισσότερα πειράματα "
+"αλλάζει τον τρόπο που οργανώνουμε τη δουλειά. Μας δίνει επίσης λόγο να "
+"αναρωτηθούμε ποιες αποφάσεις χρειάζονται ευρεία κρίση και ποιες βελτιώνονται"
+" μέσα από επαναλαμβανόμενη εμπειρία σε μια συγκεκριμένη τέχνη."
 
 #: website/public/blog/reverse-engineering-models/index.html:759
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1284,6 +1599,12 @@ msgid ""
 "breadth, and how much could be handled by a model trained in this particular"
 " kind of reconstruction?"
 msgstr ""
+"Προς το παρόν, το ισχυρότερο γενικό μοντέλο έχει κερδίσει τη θέση του στη "
+"ροή εργασίας μου, επειδή ξεκλείδωσε προβλήματα που είχα αφήσει άλυτα. Αυτές "
+"οι επιτυχίες είναι που με κάνουν να θέλω να εξετάσω τη δουλειά πιο "
+"προσεκτικά: πόσο εξαρτήθηκε από το εύρος του μοντέλου και πόσο θα μπορούσε "
+"να το χειριστεί ένα μοντέλο εκπαιδευμένο σε αυτό το συγκεκριμένο είδος "
+"ανακατασκευής;"
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1294,11 +1615,14 @@ msgid ""
 "{ph0}The repositories give us a way to test the question.{ph1} I would like "
 "to use that record to build the comparison and see what we learn."
 msgstr ""
+"{ph0}Τα αποθετήρια μάς δίνουν έναν τρόπο να ελέγξουμε το ερώτημα.{ph1} Θα "
+"ήθελα να χρησιμοποιήσω αυτό το αρχείο για να στήσω τη σύγκριση και να δω τι "
+"θα μάθουμε."
 
 #: website/public/blog/reverse-engineering-models/index.html:777
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Evidence and model attribution"
-msgstr ""
+msgstr "Τεκμήρια και απόδοση στα μοντέλα"
 
 #. {ph0}: <a
 #. href="https://github.com/morluto/rea/blob/main/website/evidence/reverse-
@@ -1311,6 +1635,8 @@ msgid ""
 "{ph0}Detailed evidence notes{ph1} include the recorded comparisons and "
 "experiment context."
 msgstr ""
+"Οι {ph0}αναλυτικές σημειώσεις τεκμηρίων{ph1} περιλαμβάνουν τις "
+"καταγεγραμμένες συγκρίσεις και το πλαίσιο των πειραμάτων."
 
 #: website/public/blog/reverse-engineering-models/index.html:785
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1319,6 +1645,10 @@ msgid ""
 "linked commits. Whole-game runtime checks are separate milestones. Source "
 "and matching records were reviewed on 13 October 2026."
 msgstr ""
+"Τα παραδείγματα περιγράφουν ιστορικές συγκρίσεις σε επίπεδο συνάρτησης, που "
+"έχουν καταγραφεί στα συνδεδεμένα commits. Οι έλεγχοι ολόκληρου του "
+"παιχνιδιού κατά την εκτέλεση αποτελούν ξεχωριστά ορόσημα. Ο πηγαίος κώδικας "
+"και τα αρχεία ταύτισης εξετάστηκαν στις 13 Οκτωβρίου 2026."
 
 #. {ph0}: <code>gpt-dots</code>
 #. {ph1}: <code>gpt-web</code>
@@ -1332,6 +1662,12 @@ msgid ""
 "attribution; the histories do not contain uniform per-run cost or effort "
 "measurements."
 msgstr ""
+"Η ετικέτα {ph0} του TH09 αντιστοιχεί στο GPT-6-Astra. Η ετικέτα {ph1} άλλαζε"
+" ανάλογα με το μοντέλο που χρησιμοποιούνταν κάθε φορά, οπότε από μόνη της "
+"δεν προσδιορίζει μια μεμονωμένη εκτέλεση. Τα ρητά ονόματα μοντέλων στα "
+"υπόλοιπα commits που αναφέρονται τεκμηριώνουν την καταγεγραμμένη απόδοσή "
+"τους· τα ιστορικά δεν περιέχουν ενιαίες μετρήσεις κόστους ή προσπάθειας ανά "
+"εκτέλεση."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1350,6 +1686,8 @@ msgid ""
 "{ph0}TH09 temporary lifetimes:{ph1} the {ph2}earlier context review{ph3} and"
 " {ph4}complete cold reconstruction{ph5}."
 msgstr ""
+"{ph0}Χρόνοι ζωής προσωρινών τιμών στο TH09:{ph1} η {ph2}προηγούμενη εξέταση "
+"του πλαισίου{ph3} και η {ph4}πλήρης ανακατασκευή από την αρχή{ph5}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1372,6 +1710,9 @@ msgid ""
 "{ph0}TH09 Front callback:{ph1} {ph2}non-exact diagnostic regions{ph3}, "
 "{ph4}Astra's new graph{ph5} and its {ph6}accepted recompile replay{ph7}."
 msgstr ""
+"{ph0}Callback Front του TH09:{ph1} {ph2}μη ακριβείς διαγνωστικές "
+"περιοχές{ph3}, {ph4}ο νέος γράφος του Astra{ph5} και η {ph6}αποδεκτή "
+"αναπαραγωγή της επαναμεταγλώττισής του{ph7}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1395,6 +1736,10 @@ msgid ""
 "{ph4}TH04 player source and linker order{ph5} and {ph6}Luna's TH09 enemy-"
 "spawn closure{ph7}."
 msgstr ""
+"{ph0}Γνώση για τον μεταγλωττιστή:{ph1} {ph2}επαναχρησιμοποίηση κάδων "
+"αναγνωριστικών στο TH095{ph3}, {ph4}πηγαίος κώδικας του παίκτη και σειρά του"
+" linker στο TH04{ph5} και {ph6}ολοκλήρωση της εμφάνισης εχθρών στο TH09 από "
+"το Luna{ph7}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1418,6 +1763,9 @@ msgid ""
 "{ph4}TH08 numerical investigation{ph5} and {ph6}TH09 replay-save "
 "reconstruction{ph7}."
 msgstr ""
+"{ph0}Έλεγχοι και διαγνωστικά:{ph1} {ph2}έλεγχος σταθερών κινητής "
+"υποδιαστολής στο TH08{ph3}, {ph4}αριθμητική διερεύνηση στο TH08{ph5} και "
+"{ph6}ανακατασκευή αποθήκευσης replay στο TH09{ph7}."
 
 #: website/public/blog/reverse-engineering-models/index.html:861
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1426,11 +1774,15 @@ msgid ""
 "project histories motivate them; no trained specialist was evaluated for "
 "this essay."
 msgstr ""
+"Οι προτεινόμενες συγκρίσεις με εξειδικευμένα μοντέλα και ενισχυτική μάθηση "
+"είναι μελλοντικά πειράματα. Τα ιστορικά των έργων αποτελούν το κίνητρό τους·"
+" κανένα εκπαιδευμένο εξειδικευμένο μοντέλο δεν αξιολογήθηκε για αυτό το "
+"δοκίμιο."
 
 #: website/public/blog/reverse-engineering-models/index.html:6
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Does reverse engineering need a bigger model? | REA"
-msgstr ""
+msgstr "Χρειάζεται η αντίστροφη μηχανική μεγαλύτερο μοντέλο; | REA"
 
 #: website/public/blog/reverse-engineering-models/index.html:7
 msgctxt "page:blog/reverse-engineering-models/index.html"
@@ -1438,31 +1790,34 @@ msgid ""
 "What Touhou reconstruction taught me about general models, specialist models"
 " and learning to propose better hypotheses from compiler feedback."
 msgstr ""
+"Τι με δίδαξε η ανακατασκευή του Touhou για τα γενικά μοντέλα, τα "
+"εξειδικευμένα μοντέλα και τη μάθηση της διατύπωσης καλύτερων υποθέσεων από "
+"την ανάδραση του μεταγλωττιστή."
 
 #: website/public/blog/reverse-engineering-models/index.html:242
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #: website/public/blog/reverse-engineering-models/index.html:255
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Models and reverse engineering essay"
-msgstr ""
+msgstr "Δοκίμιο για τα μοντέλα και την αντίστροφη μηχανική"
 
 #: website/public/blog/reverse-engineering-models/index.html:493
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Selected reconstruction experiments"
-msgstr ""
+msgstr "Επιλεγμένα πειράματα ανακατασκευής"
 
 #: website/public/blog/reverse-engineering-models/index.html:885
 msgctxt "page:blog/reverse-engineering-models/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/blog/touhou-reconstruction/index.html:105
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Skip to content"
-msgstr ""
+msgstr "Μετάβαση στο περιεχόμενο"
 
 #. {ph0}: <a href="../../">
 #. {ph1}: </a>
@@ -1472,27 +1827,27 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}Home{ph1} / {ph2}Blog{ph3} / Touhou reconstruction"
-msgstr ""
+msgstr "{ph0}Αρχική{ph1} / {ph2}Ιστολόγιο{ph3} / Ανακατασκευή Touhou"
 
 #: website/public/blog/touhou-reconstruction/index.html:200
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Essay · Touhou reconstruction"
-msgstr ""
+msgstr "Δοκίμιο · Ανακατασκευή Touhou"
 
 #: website/public/blog/touhou-reconstruction/index.html:201
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "The industrial revolution in reverse engineering."
-msgstr ""
+msgstr "Η βιομηχανική επανάσταση στην αντίστροφη μηχανική."
 
 #: website/public/blog/touhou-reconstruction/index.html:202
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "By N0zoM1z0 · 10 October 2026"
-msgstr ""
+msgstr "Συγγραφέας: N0zoM1z0 · 10 Οκτωβρίου 2026"
 
 #: website/public/blog/touhou-reconstruction/index.html:204
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Takeaway"
-msgstr ""
+msgstr "Συμπέρασμα"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1503,6 +1858,9 @@ msgid ""
 "{ph0}Give agents autonomy over the investigation.{ph1} Set a clear goal and "
 "acceptance criteria, then let the agent decide what to try next."
 msgstr ""
+"{ph0}Δώστε στους agents αυτονομία στη διερεύνηση.{ph1} Ορίστε σαφή στόχο και"
+" κριτήρια αποδοχής και αφήστε τον agent να αποφασίσει τι θα δοκιμάσει στη "
+"συνέχεια."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1514,6 +1872,9 @@ msgid ""
 "with the code. Git checkpoints let the next session continue after the "
 "conversation ends."
 msgstr ""
+"{ph0}Χρησιμοποιήστε το αποθετήριο και το Git ως μνήμη εργασίας.{ph1} "
+"Κρατήστε τη συλλογιστική μαζί με τον κώδικα. Τα σημεία ελέγχου στο Git "
+"επιτρέπουν στην επόμενη συνεδρία να συνεχίσει αφού τελειώσει η συνομιλία."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1524,6 +1885,9 @@ msgid ""
 "{ph0}Let evidence decide what you claim.{ph1} A confident explanation still "
 "needs testing. “Unknown” is a valid answer when the evidence is incomplete."
 msgstr ""
+"{ph0}Αφήστε τα τεκμήρια να καθορίσουν τι ισχυρίζεστε.{ph1} Μια σίγουρη "
+"εξήγηση χρειάζεται και πάλι έλεγχο. Το «Άγνωστο» είναι έγκυρη απάντηση όταν "
+"τα τεκμήρια είναι ελλιπή."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1534,6 +1898,9 @@ msgid ""
 "{ph0}Test the oracle too.{ph1} Try cases it should reject. If it misses a "
 "bug, revisit the earlier results that depended on it."
 msgstr ""
+"{ph0}Ελέγξτε και το μαντείο.{ph1} Δοκιμάστε περιπτώσεις που θα έπρεπε να "
+"απορρίψει. Αν του ξεφύγει ένα σφάλμα, επανεξετάστε τα προηγούμενα "
+"αποτελέσματα που βασίστηκαν σε αυτό."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1544,11 +1911,14 @@ msgid ""
 "{ph0}We are in the early days of RE's industrial revolution.{ph1} The "
 "methods are still taking shape. There is plenty left to explore."
 msgstr ""
+"{ph0}Βρισκόμαστε στις πρώτες μέρες της βιομηχανικής επανάστασης της "
+"αντίστροφης μηχανικής.{ph1} Οι μέθοδοι διαμορφώνονται ακόμη. Μένουν πολλά να"
+" εξερευνήσουμε."
 
 #: website/public/blog/touhou-reconstruction/index.html:238
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "How experience compounds"
-msgstr ""
+msgstr "Πώς συσσωρεύεται η εμπειρία"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1556,58 +1926,58 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}Human direction{ph1} · Goal and acceptance criteria"
-msgstr ""
+msgstr "{ph0}Ανθρώπινη καθοδήγηση{ph1} · Στόχος και κριτήρια αποδοχής"
 
 #: website/public/blog/touhou-reconstruction/index.html:327
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Autonomy"
-msgstr ""
+msgstr "Αυτονομία"
 
 #: website/public/blog/touhou-reconstruction/index.html:328
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Agent"
-msgstr ""
+msgstr "Agent"
 
 #. {ph0}: <br />
 #: website/public/blog/touhou-reconstruction/index.html:329
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Choose an experiment.{ph0}Propose a hypothesis."
-msgstr ""
+msgstr "Επιλέγει ένα πείραμα.{ph0}Προτείνει μια υπόθεση."
 
 #: website/public/blog/touhou-reconstruction/index.html:332
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Verification"
-msgstr ""
+msgstr "Επαλήθευση"
 
 #: website/public/blog/touhou-reconstruction/index.html:333
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Oracle"
-msgstr ""
+msgstr "Μαντείο"
 
 #. {ph0}: <br />
 #: website/public/blog/touhou-reconstruction/index.html:334
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Test against a{ph0}concrete reference."
-msgstr ""
+msgstr "Έλεγχος έναντι{ph0}συγκεκριμένης αναφοράς."
 
 #: website/public/blog/touhou-reconstruction/index.html:337
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Repository"
-msgstr ""
+msgstr "Αποθετήριο"
 
 #: website/public/blog/touhou-reconstruction/index.html:338
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Working memory"
-msgstr ""
+msgstr "Μνήμη εργασίας"
 
 #. {ph0}: <br />
 #: website/public/blog/touhou-reconstruction/index.html:339
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Code, evidence,{ph0}checks and lessons."
-msgstr ""
+msgstr "Κώδικας, τεκμήρια,{ph0}έλεγχοι και διδάγματα."
 
 #. {ph0}: <br />
 #. {ph1}: <strong>
@@ -1616,7 +1986,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Mismatch{ph0}{ph1}Revise the hypothesis{ph2}"
-msgstr ""
+msgstr "Ασυμφωνία{ph0}{ph1}Αναθεώρηση της υπόθεσης{ph2}"
 
 #. {ph0}: <br />
 #. {ph1}: <strong>
@@ -1625,12 +1995,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "A better{ph0}{ph1}starting point{ph2}"
-msgstr ""
+msgstr "Ένα καλύτερο{ph0}{ph1}σημείο εκκίνησης{ph2}"
 
 #: website/public/blog/touhou-reconstruction/index.html:347
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Reuse"
-msgstr ""
+msgstr "Επαναχρησιμοποίηση"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1639,6 +2009,7 @@ msgstr ""
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}Pass{ph1} · Keep the result and its evidence"
 msgstr ""
+"{ph0}Επιτυχία{ph1} · Διατήρηση του αποτελέσματος και των τεκμηρίων του"
 
 #: website/public/blog/touhou-reconstruction/index.html:360
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1646,11 +2017,13 @@ msgid ""
 "Each project leaves the next with a better starting point. That includes "
 "fixing the checks when we discover a gap."
 msgstr ""
+"Κάθε έργο αφήνει στο επόμενο ένα καλύτερο σημείο εκκίνησης. Αυτό "
+"περιλαμβάνει και τη διόρθωση των ελέγχων όταν ανακαλύπτουμε ένα κενό."
 
 #: website/public/blog/touhou-reconstruction/index.html:367
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "In this article"
-msgstr ""
+msgstr "Σε αυτό το άρθρο"
 
 #. {ph0}: <a href="#august">
 #. {ph1}: </a>
@@ -1658,7 +2031,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}August 2026{ph1}"
-msgstr ""
+msgstr "{ph0}Αύγουστος 2026{ph1}"
 
 #. {ph0}: <a href="#th08">
 #. {ph1}: </a>
@@ -1666,7 +2039,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}TH08: the continuation{ph1}"
-msgstr ""
+msgstr "{ph0}TH08: η συνέχιση{ph1}"
 
 #. {ph0}: <a href="#different-approaches">
 #. {ph1}: </a>
@@ -1674,7 +2047,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}Two approaches{ph1}"
-msgstr ""
+msgstr "{ph0}Δύο προσεγγίσεις{ph1}"
 
 #. {ph0}: <a href="#th095">
 #. {ph1}: </a>
@@ -1682,7 +2055,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}TH095: compounding{ph1}"
-msgstr ""
+msgstr "{ph0}TH095: συσσώρευση{ph1}"
 
 #. {ph0}: <a href="#th04">
 #. {ph1}: </a>
@@ -1690,7 +2063,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}TH04: across architectures{ph1}"
-msgstr ""
+msgstr "{ph0}TH04: σε άλλη αρχιτεκτονική{ph1}"
 
 #. {ph0}: <a href="#semantic-reconstruction">
 #. {ph1}: </a>
@@ -1698,7 +2071,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}From exact to readable{ph1}"
-msgstr ""
+msgstr "{ph0}Από το ακριβές στο αναγνώσιμο{ph1}"
 
 #. {ph0}: <a href="#industrial-shift">
 #. {ph1}: </a>
@@ -1706,7 +2079,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}The industrial shift{ph1}"
-msgstr ""
+msgstr "{ph0}Η βιομηχανική στροφή{ph1}"
 
 #. {ph0}: <a href="#possibilities">
 #. {ph1}: </a>
@@ -1714,12 +2087,12 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}What becomes possible{ph1}"
-msgstr ""
+msgstr "{ph0}Τι γίνεται εφικτό{ph1}"
 
 #: website/public/blog/touhou-reconstruction/index.html:383
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "What changed in August 2026"
-msgstr ""
+msgstr "Τι άλλαξε τον Αύγουστο του 2026"
 
 #: website/public/blog/touhou-reconstruction/index.html:384
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1730,6 +2103,11 @@ msgid ""
 "the next function. It also meant keeping an increasingly large picture in my"
 " head."
 msgstr ""
+"Πριν από αυτή τη δουλειά, είχα κάνει πολλή χειροκίνητη αντίστροφη μηχανική. "
+"Εξέταζα μια συνάρτηση μέχρι να έχω μια εξήγηση και μετά δοκίμαζα αυτή την "
+"εξήγηση πάνω στο πρόγραμμα. Για να προχωρήσω, έπρεπε να αφιερώσω περισσότερο"
+" από τον δικό μου χρόνο στην επόμενη συνάρτηση. Έπρεπε επίσης να κρατώ στο "
+"μυαλό μου μια όλο και μεγαλύτερη εικόνα."
 
 #: website/public/blog/touhou-reconstruction/index.html:391
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1739,6 +2117,12 @@ msgid ""
 "experience behind this article. The method can be useful elsewhere, but each"
 " field needs to establish what it can check against a reliable reference."
 msgstr ""
+"Το μεγαλύτερο μέρος της δουλειάς μου στην αντίστροφη μηχανική αφορά "
+"παιχνίδια. Τα ανακατασκευάζω ώστε να γίνεται κατανοητή η συμπεριφορά τους "
+"και τελικά να μπορεί να μεταφερθεί σε μια μεταφορά (port) ή σε ένα mod. Αυτή"
+" είναι η εμπειρία πίσω από το άρθρο. Η μέθοδος μπορεί να φανεί χρήσιμη και "
+"αλλού, αλλά κάθε πεδίο πρέπει να καθορίσει τι μπορεί να ελέγξει έναντι μιας "
+"αξιόπιστης αναφοράς."
 
 #: website/public/blog/touhou-reconstruction/index.html:398
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1748,6 +2132,10 @@ msgid ""
 "development tools. Touhou reconstruction gave me a substantial project in "
 "which to find out."
 msgstr ""
+"Τον Αύγουστο του 2026 άρχισα να εξερευνώ σοβαρά την αντίστροφη μηχανική με "
+"agents. Ήθελα να δω πόσο μακριά μπορεί να φτάσει ένας agent με πρόσβαση στο "
+"πρόγραμμα και σε συνηθισμένα εργαλεία ανάπτυξης. Η ανακατασκευή του Touhou "
+"μού έδωσε ένα ουσιαστικό έργο για να το ανακαλύψω."
 
 #: website/public/blog/touhou-reconstruction/index.html:404
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1759,6 +2147,13 @@ msgid ""
 "spend more attention on the project's direction and on whether its checks "
 "were trustworthy."
 msgstr ""
+"Η πρόοδος στην αρχή ήταν εντυπωσιακή. Μια διερεύνηση μπορούσε να προχωρά "
+"χωρίς να επιλέγω εγώ κάθε μεμονωμένο βήμα. Μια αποτυχημένη σύγκριση μπορούσε"
+" να στείλει τον agent σε έναν άλλον καλούντα. Μπορούσε να γράψει ένα μικρό "
+"διαγνωστικό και να χρησιμοποιήσει το αποτέλεσμα για να αποφασίσει τι θα "
+"δοκιμάσει μετά. Αυτή η ελευθερία έκανε τη διαφορά: μπορούσα να αφιερώνω "
+"περισσότερη προσοχή στην κατεύθυνση του έργου και στο αν οι έλεγχοί του ήταν"
+" αξιόπιστοι."
 
 #: website/public/blog/touhou-reconstruction/index.html:413
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1767,11 +2162,14 @@ msgid ""
 "beyond the current project. Would the next game benefit from everything we "
 "had just learned?"
 msgstr ""
+"Ο ρυθμός ήταν αυτό που μου τράβηξε πρώτα την προσοχή. Έπειτα άρχισα να "
+"αναρωτιέμαι τι θα επιβίωνε πέρα από το τρέχον έργο. Θα επωφελούνταν το "
+"επόμενο παιχνίδι από όλα όσα μόλις είχαμε μάθει;"
 
 #: website/public/blog/touhou-reconstruction/index.html:420
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "TH08: building on human work"
-msgstr ""
+msgstr "TH08: χτίζοντας πάνω σε ανθρώπινη δουλειά"
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/th08">
 #. {ph1}: </a>
@@ -1786,6 +2184,10 @@ msgid ""
 "substantial foundation. It came with knowledge of the build and a history of"
 " contributions that I preserved in the continuation."
 msgstr ""
+"Το {ph0}TH08{ph1}, Imperishable Night, ξεκίνησε ως συνέχιση της "
+"{ph2}ανακατασκευής του GensokyoClub{ph3}. Ο δημόσιος πηγαίος κώδικάς τους "
+"μού έδωσε μια ουσιαστική βάση. Συνοδευόταν από γνώση για τη δόμηση και από "
+"ένα ιστορικό συνεισφορών που διατήρησα στη συνέχιση."
 
 #: website/public/blog/touhou-reconstruction/index.html:430
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1794,6 +2196,10 @@ msgid ""
 " continuation began on 13 August. By 19 August, the ledger recorded source "
 "for all 1,107 identified game functions."
 msgstr ""
+"Το εισαγόμενο ιστορικό τελειώνει στο δημόσιο σημείο ελέγχου της 10ης "
+"Αυγούστου. Η ανεξάρτητη συνέχισή μου ξεκίνησε στις 13 Αυγούστου. Έως τις 19 "
+"Αυγούστου, το μητρώο κατέγραφε πηγαίο κώδικα και για τις 1,107 εντοπισμένες "
+"συναρτήσεις του παιχνιδιού."
 
 #: website/public/blog/touhou-reconstruction/index.html:435
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1802,6 +2208,10 @@ msgid ""
 "eleven days after the continuation began. A Web edition followed. The native"
 " Linux 64-bit release arrived on 30 August."
 msgstr ""
+"Μια μεταφορά της ανακατασκευής για Linux, που μπορούσε να παιχτεί, "
+"καταχωρήθηκε στις 24 Αυγούστου, περίπου έντεκα ημέρες μετά την έναρξη της "
+"συνέχισης. Ακολούθησε μια έκδοση Web. Η εγγενής έκδοση για Linux 64-bit "
+"κυκλοφόρησε στις 30 Αυγούστου."
 
 #: website/public/blog/touhou-reconstruction/index.html:440
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1811,6 +2221,11 @@ msgid ""
 "Even when two functions looked correct in isolation, they could accidentally"
 " use separate copies of state that should have been shared."
 msgstr ""
+"Αυτό που μου έκανε εντύπωση ήταν ότι η δουλειά είχε φτάσει σε ένα πρόγραμμα "
+"που μπορούσε να εκτελέσει ο κόσμος. Για να φτάσουμε εκεί, έπρεπε να "
+"ακολουθήσουμε προβλήματα πέρα από μια μεμονωμένη συνάρτηση. Ακόμη κι όταν "
+"δύο συναρτήσεις έμοιαζαν σωστές μεμονωμένα, μπορούσαν κατά λάθος να "
+"χρησιμοποιούν ξεχωριστά αντίγραφα μιας κατάστασης που έπρεπε να είναι κοινή."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1825,11 +2240,17 @@ msgid ""
 " explanation and tests it; a mismatch gives it something specific to "
 "investigate."
 msgstr ""
+"Έτσι οι έλεγχοι αναφοράς έγιναν κεντρικοί στη δουλειά. Τους ονομάζω "
+"{ph0}μαντεία{ph1}. Μια σύγκριση κώδικα μπορεί να μας πει αν μια "
+"ανακατασκευασμένη συνάρτηση αναπαράγει τις αρχικές εντολές. Ένας έλεγχος "
+"κατά την εκτέλεση μπορεί να μας πει αν μια διαδρομή που δοκιμάστηκε φτάνει "
+"στην αναμενόμενη κατάσταση. Ο agent προτείνει μια εξήγηση και τη δοκιμάζει· "
+"μια ασυμφωνία του δίνει κάτι συγκεκριμένο να διερευνήσει."
 
 #: website/public/blog/touhou-reconstruction/index.html:455
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "An exact match with the wrong constant"
-msgstr ""
+msgstr "Ακριβής αντιστοιχία με λάθος σταθερά"
 
 #: website/public/blog/touhou-reconstruction/index.html:456
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1837,6 +2258,8 @@ msgid ""
 "An oracle is software someone wrote. TH08 gave me a clear reminder of how "
 "much can depend on that software."
 msgstr ""
+"Ένα μαντείο είναι λογισμικό που έγραψε κάποιος. Το TH08 μού θύμισε καθαρά "
+"πόσα μπορεί να εξαρτώνται από αυτό το λογισμικό."
 
 #. {ph0}: <code>0.0</code>
 #. {ph1}: <code>128.0</code>
@@ -1848,6 +2271,10 @@ msgid ""
 "auto-collection. The reconstructed source checked player power against "
 "{ph0}. The original used {ph1}, the maximum-power threshold."
 msgstr ""
+"Τον Σεπτέμβριο, ένα σφάλμα που αναφέρθηκε από μια παράγωγη μεταφορά για "
+"Switch οδήγησε πίσω στην αυτόματη συλλογή αντικειμένων. Ο ανακατασκευασμένος"
+" πηγαίος κώδικας σύγκρινε τη δύναμη του παίκτη με {ph0}. Το πρωτότυπο "
+"χρησιμοποιούσε {ph1}, το όριο μέγιστης δύναμης."
 
 #: website/public/blog/touhou-reconstruction/index.html:466
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1857,6 +2284,11 @@ msgid ""
 "attract items without requiring maximum power. The other exceptions in the "
 "condition were correct. This one constant changed the behavior."
 msgstr ""
+"Η κανονική δύναμη δεν είναι αρνητική, οπότε ο ανακατασκευασμένος έλεγχος "
+"δύναμης ικανοποιούνταν ουσιαστικά πάντα. Πάνω από τη γραμμή συλλογής, το "
+"παιχνίδι μπορούσε να έλκει αντικείμενα χωρίς να απαιτεί μέγιστη δύναμη. Οι "
+"άλλες εξαιρέσεις στη συνθήκη ήταν σωστές. Αυτή η μία σταθερά άλλαζε τη "
+"συμπεριφορά."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1864,7 +2296,7 @@ msgstr ""
 #, python-brace-format
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}Yet the function had already passed the exact comparison.{ph1}"
-msgstr ""
+msgstr "{ph0}Κι όμως, η συνάρτηση είχε ήδη περάσει την ακριβή σύγκριση.{ph1}"
 
 #: website/public/blog/touhou-reconstruction/index.html:479
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1874,6 +2306,11 @@ msgid ""
 "before comparing them with the original. But it never checked the floating-"
 "point value stored at the referenced address."
 msgstr ""
+"Μια νέα μεταγλώττιση μπορεί να τοποθετήσει μια σταθερά σε διαφορετική "
+"διεύθυνση. Το εργαλείο σύγκρισης το λάμβανε υπόψη προσαρμόζοντας τις "
+"διευθύνσεις στις μεταγλωττισμένες εντολές πριν τις συγκρίνει με το "
+"πρωτότυπο. Δεν έλεγχε όμως ποτέ την τιμή κινητής υποδιαστολής που ήταν "
+"αποθηκευμένη στη διεύθυνση αναφοράς."
 
 #. {ph0}: <code>128.0</code>
 #. {ph1}: <code>0.0</code>
@@ -1885,6 +2322,10 @@ msgid ""
 "at the original's {ph0} while the source still said {ph1}. The instruction "
 "bytes matched. The source meant something different."
 msgstr ""
+"Αυτό άφηνε ένα κενό στον έλεγχο. Μπορούσε να στρέψει την ανακατασκευασμένη "
+"εντολή στο {ph0} του πρωτοτύπου, ενώ ο πηγαίος κώδικας εξακολουθούσε να "
+"γράφει {ph1}. Τα byte της εντολής ταίριαζαν. Ο πηγαίος κώδικας σήμαινε κάτι "
+"διαφορετικό."
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/th08/pull/11" >
 #. {ph1}: </a >
@@ -1899,6 +2340,11 @@ msgid ""
 "examined 1,548 floating-literal references. It found another twelve "
 "incorrect references across five accepted functions."
 msgstr ""
+"Η {ph0}διόρθωση της 2ας Σεπτεμβρίου{ph1} διόρθωσε τον πηγαίο κώδικα και "
+"έκανε τη σύγκριση να ελέγχει τα πραγματικά byte της σταθεράς αναφοράς. Μια "
+"{ph2}ευρύτερη επιθεώρηση{ph3} εξέτασε στη συνέχεια 1,548 αναφορές σε "
+"σταθερές κινητής υποδιαστολής. Βρήκε άλλες δώδεκα λανθασμένες αναφορές σε "
+"πέντε αποδεκτές συναρτήσεις."
 
 #: website/public/blog/touhou-reconstruction/index.html:503
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1907,6 +2353,10 @@ msgid ""
 "deliberately wrong values to make sure they are rejected. We also had to "
 "revisit results that had passed the weaker check."
 msgstr ""
+"Η σύγκριση ελέγχει πλέον κάθε τέτοια σταθερά κινητής υποδιαστολής. Οι "
+"δοκιμές της περιλαμβάνουν σκόπιμα λανθασμένες τιμές για να διασφαλιστεί ότι "
+"απορρίπτονται. Χρειάστηκε επίσης να επανεξετάσουμε αποτελέσματα που είχαν "
+"περάσει τον ασθενέστερο έλεγχο."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -1917,6 +2367,8 @@ msgid ""
 "{ph0}The oracle needed reconstructing too.{ph1} Repairing it was part of "
 "repairing the game."
 msgstr ""
+"{ph0}Και το μαντείο χρειαζόταν ανακατασκευή.{ph1} Η επιδιόρθωσή του ήταν "
+"μέρος της επιδιόρθωσης του παιχνιδιού."
 
 #: website/public/blog/touhou-reconstruction/index.html:512
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1927,6 +2379,12 @@ msgid ""
 "investigations before I notice it. I have to understand what the checker "
 "actually verifies and test it against cases that ought to fail."
 msgstr ""
+"Αυτό έχει σημασία όταν η ομάδα είναι κυρίως ένας άνθρωπος που δουλεύει με "
+"agents. Δεν μπορώ να εξετάσω προσωπικά κάθε γραμμή που παράγουν, οπότε "
+"μεγάλο μέρος της εμπιστοσύνης μου στηρίζεται στους ελέγχους τους. Ένα τυφλό "
+"σημείο ενός κοινόχρηστου μαντείου μπορεί να επηρεάσει πολλές διερευνήσεις "
+"πριν το προσέξω. Πρέπει να καταλαβαίνω τι επαληθεύει πραγματικά ο ελεγκτής "
+"και να τον δοκιμάζω με περιπτώσεις που θα έπρεπε να αποτύχουν."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1939,6 +2397,11 @@ msgid ""
 "where an earlier one stopped. {ph0}The repository was becoming the project's"
 " working memory.{ph1}"
 msgstr ""
+"Καθώς η δουλειά προχωρούσε, αυτοί οι έλεγχοι έγιναν μέρος του αποθετηρίου. "
+"Το ίδιο και οι λόγοι για τις αλλαγές στον πηγαίο κώδικα, καθώς και "
+"σημειώσεις που επέτρεπαν σε μια μεταγενέστερη συνεδρία να συνεχίσει από εκεί"
+" που σταμάτησε μια προηγούμενη. {ph0}Το αποθετήριο γινόταν η μνήμη εργασίας "
+"του έργου.{ph1}"
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -1949,11 +2412,13 @@ msgid ""
 "{ph0}A successful batch gave us both recovered code and a better environment"
 " for the next batch.{ph1}"
 msgstr ""
+"{ph0}Μια επιτυχημένη παρτίδα μάς έδινε και ανακτημένο κώδικα και ένα "
+"καλύτερο περιβάλλον για την επόμενη παρτίδα.{ph1}"
 
 #: website/public/blog/touhou-reconstruction/index.html:537
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Two different ideas of reconstruction"
-msgstr ""
+msgstr "Δύο διαφορετικές αντιλήψεις για την ανακατασκευή"
 
 #. {ph0}: <a
 #. href="https://web.archive.org/web/20260909051514/https://github.com/GensokyoClub/th08#important-
@@ -1967,6 +2432,9 @@ msgid ""
 " of work explicit. The notice announces that further development will happen"
 " privately until completion. One passage reads:"
 msgstr ""
+"Το {ph0}δημόσιο README{ph1} του GensokyoClub εκφράζει ρητά τη διαφωνία του "
+"με αυτό το είδος δουλειάς. Η ανακοίνωση αναφέρει ότι η περαιτέρω ανάπτυξη θα"
+" γίνεται ιδιωτικά μέχρι την ολοκλήρωση. Ένα απόσπασμα λέει:"
 
 #: website/public/blog/touhou-reconstruction/index.html:549
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1974,6 +2442,9 @@ msgid ""
 "The rise of grifters (AI decompilations and ports) in this space taking from"
 " our work paints a bad image for future decompilation efforts…"
 msgstr ""
+"Η άνοδος των απατεώνων (απομεταγλωττίσεις και μεταφορές με AI) σε αυτόν τον "
+"χώρο, που παίρνουν από τη δουλειά μας, δίνει κακή εικόνα για τις μελλοντικές"
+" προσπάθειες απομεταγλώττισης…"
 
 #: website/public/blog/touhou-reconstruction/index.html:555
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1985,6 +2456,12 @@ msgid ""
 "want to discuss is about how reconstruction should proceed and how a "
 "contribution should be judged."
 msgstr ""
+"Η ανακοίνωση περιγράφει επίσης την ψυχολογική επιβάρυνση των συντηρητών. Η "
+"πολιτική συνεισφορών τους αποκλείει pull requests που έχουν παραχθεί κυρίως "
+"με AI. Έχουν αφιερώσει τον ελεύθερο χρόνο τους σε δύσκολη δουλειά, και αυτή "
+"η δουλειά βοήθησε να γίνει δυνατή η συνέχισή μου. Σέβομαι τον κόπο πίσω από "
+"αυτήν. Η διαφωνία που θέλω να συζητήσω αφορά το πώς πρέπει να προχωρά η "
+"ανακατασκευή και πώς πρέπει να κρίνεται μια συνεισφορά."
 
 #: website/public/blog/touhou-reconstruction/index.html:564
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -1994,6 +2471,11 @@ msgid ""
 " on that person's expertise. Trust in the contributor mattered because so "
 "much of the reasoning happened while they worked."
 msgstr ""
+"Στη χειροκίνητη ροή εργασίας που γνώριζα, η κατανόηση μιας συνάρτησης και η "
+"ανακατασκευή της έπεφταν συνήθως στο ίδιο άτομο. Ένα έργο βασιζόταν σε "
+"μεγάλο βαθμό στην εξειδίκευση αυτού του ατόμου. Η εμπιστοσύνη στον "
+"συνεισφέροντα είχε σημασία, επειδή μεγάλο μέρος της συλλογιστικής γινόταν "
+"την ώρα που δούλευε."
 
 #: website/public/blog/touhou-reconstruction/index.html:571
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2002,6 +2484,10 @@ msgid ""
 "tools. What changed for me was that an agent could use that knowledge to "
 "pursue the next investigation on its own."
 msgstr ""
+"Τα υπάρχοντα έργα διατηρούν ήδη γνώση στον πηγαίο κώδικα και στα εργαλεία "
+"δόμησής τους. Αυτό που άλλαξε για μένα ήταν ότι ένας agent μπορούσε να "
+"χρησιμοποιήσει αυτή τη γνώση για να προχωρήσει μόνος του στην επόμενη "
+"διερεύνηση."
 
 #: website/public/blog/touhou-reconstruction/index.html:576
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2012,6 +2498,11 @@ msgid ""
 "person to be able to examine why we chose an implementation, even if an "
 "agent did most of the work."
 msgstr ""
+"Στη δική μου συνέχιση, εγώ αποφασίζω τον στόχο και το κριτήριο αποδοχής ενός"
+" αποτελέσματος. Ο agent έχει ευρεία ελευθερία να διερευνήσει. Η ανακατασκευή"
+" που προτείνει πρέπει έπειτα να περάσει τους σχετικούς ελέγχους. Θέλω ένας "
+"άλλος άνθρωπος να μπορεί να εξετάσει γιατί επιλέξαμε μια υλοποίηση, ακόμη κι"
+" αν το μεγαλύτερο μέρος της δουλειάς το έκανε ένας agent."
 
 #: website/public/blog/touhou-reconstruction/index.html:583
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2021,6 +2512,11 @@ msgid ""
 "questions about credit. It also changes what maintainers need to know before"
 " accepting a contribution."
 msgstr ""
+"Αυτή μπορεί να είναι μια δύσκολη μετάβαση. Χρόνια προσεκτικής δουλειάς "
+"μπορεί να γίνουν το θεμέλιο για μια συνέχιση που προχωρά πολύ πιο γρήγορα. "
+"Αυτό εγείρει πραγματικά ερωτήματα για την αναγνώριση της συνεισφοράς. "
+"Αλλάζει επίσης το τι πρέπει να γνωρίζουν οι συντηρητές πριν αποδεχτούν μια "
+"συνεισφορά."
 
 #: website/public/blog/touhou-reconstruction/index.html:589
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2031,6 +2527,12 @@ msgid ""
 "and recognize when its output is wrong. Different communities can choose how"
 " much of that change they want to take on."
 msgstr ""
+"Η βιομηχανική αναλογία με βοηθά να το σκεφτώ αυτό. Σε μια χειροτεχνία, "
+"μεγάλο μέρος της διαδικασίας εξαρτάται από τη δεξιότητα του ανθρώπου που την"
+" εκτελεί. Τα μηχανήματα αλλάζουν το πού χρειάζεται αυτή η δεξιότητα. Κάποιος"
+" πρέπει ακόμη να σχεδιάσει τη διαδικασία και να αναγνωρίσει πότε το "
+"αποτέλεσμά της είναι λάθος. Διαφορετικές κοινότητες μπορούν να επιλέξουν "
+"πόσο από αυτή την αλλαγή θέλουν να υιοθετήσουν."
 
 #: website/public/blog/touhou-reconstruction/index.html:597
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2040,6 +2542,11 @@ msgid ""
 " to ask how far this approach can go and to learn from what goes wrong along"
 " the way."
 msgstr ""
+"Η επιλογή μου είναι να συνεχίσω δημόσια, αναγνωρίζοντας τη δουλειά που "
+"κληρονόμησα και διατηρώντας το ιστορικό της. Θέλω η νέα δουλειά να μπορεί να"
+" ελεγχθεί από άλλους. Έτσι έχουμε έναν τρόπο να εξετάσουμε πόσο μακριά "
+"μπορεί να φτάσει αυτή η προσέγγιση και να μάθουμε από ό,τι πάει στραβά στην "
+"πορεία."
 
 #. {ph0}: <a
 #. href="https://github.com/GensokyoClub/th08/blob/e874b98e210b3be1ed21c5e03d54b883eac5069c/README.md#important-
@@ -2061,11 +2568,16 @@ msgid ""
 "and its {ph2}contribution policy{ph3}. The quotation is a shortened excerpt."
 " TH08's {ph4}credits and provenance{ph5} record the continuation boundary."
 msgstr ""
+"Πηγή: η {ph0}ανακοίνωση στο README{ph1} του GensokyoClub, όπως ελέγχθηκε "
+"στις 10 Οκτωβρίου 2026, και η {ph2}πολιτική συνεισφορών{ph3} του. Το "
+"παράθεμα είναι συντομευμένο απόσπασμα. Οι {ph4}αναφορές συντελεστών και "
+"προέλευσης{ph5} του TH08 καταγράφουν το σημείο από το οποίο ξεκινά η "
+"συνέχιση."
 
 #: website/public/blog/touhou-reconstruction/index.html:621
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "TH095: experience starts compounding"
-msgstr ""
+msgstr "TH095: η εμπειρία αρχίζει να συσσωρεύεται"
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/th095">
 #. {ph1}: </a>
@@ -2078,6 +2590,11 @@ msgid ""
 "functions in the ledger. We still had to learn the game. But we already knew"
 " much more about how to begin a reconstruction and how to keep it moving."
 msgstr ""
+"Το {ph0}TH095{ph1}, Shoot the Bullet, έκανε την αξία αυτής της εμπειρίας "
+"πολύ πιο εμφανή. Το αποθετήριό του ξεκίνησε στις 29 Αυγούστου με μηδέν "
+"επιβεβαιωμένες συναρτήσεις του παιχνιδιού στο μητρώο. Έπρεπε ακόμη να "
+"μάθουμε το παιχνίδι. Ξέραμε όμως ήδη πολύ περισσότερα για το πώς να "
+"ξεκινήσουμε μια ανακατασκευή και πώς να την κρατήσουμε σε κίνηση."
 
 #: website/public/blog/touhou-reconstruction/index.html:630
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2087,6 +2604,11 @@ msgid ""
 "linked on 9 September. The Windows i386 reconstruction was marked playable "
 "on 10 September, about twelve days after initialization."
 msgstr ""
+"Έως τις 7 Σεπτεμβρίου, και οι 697 εντοπισμένες συναρτήσεις του παιχνιδιού "
+"είχαν πηγαίο κώδικα. Έως τις 8 Σεπτεμβρίου, οι 696 είχαν γίνει αποδεκτές με "
+"ακριβή σύγκριση. Ολόκληρο το πρόγραμμα συνδέθηκε (link) στις 9 Σεπτεμβρίου. "
+"Η ανακατασκευή για Windows i386 σημειώθηκε ως παίξιμη στις 10 Σεπτεμβρίου, "
+"περίπου δώδεκα ημέρες μετά την αρχικοποίηση."
 
 #: website/public/blog/touhou-reconstruction/index.html:637
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2095,6 +2617,10 @@ msgid ""
 "could benefit from work done on another game. The experience was already "
 "present in the tools and in the way the project was organized."
 msgstr ""
+"Αυτό το βρήκα πιο συναρπαστικό από την ταχύτητα του πρώτου έργου. Ένας "
+"καινούργιος στόχος μπορούσε να επωφεληθεί από δουλειά που είχε γίνει σε άλλο"
+" παιχνίδι. Η εμπειρία υπήρχε ήδη στα εργαλεία και στον τρόπο οργάνωσης του "
+"έργου."
 
 #: website/public/blog/touhou-reconstruction/index.html:643
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2105,6 +2631,12 @@ msgid ""
 "working together. That lesson helped shape how we approached TH095's whole-"
 "program build."
 msgstr ""
+"Για παράδειγμα, το TH08 μάς είχε διδάξει να προσέχουμε νωρίς το "
+"συναρμολογημένο πρόγραμμα. Αν πολλές ανακτημένες συναρτήσεις εξαρτώνται από "
+"την ίδια κατάσταση, οι μεμονωμένες συγκρίσεις τους αφήνουν ανοιχτό ένα "
+"σημαντικό ερώτημα. Πρέπει να τις δούμε να λειτουργούν μαζί. Αυτό το δίδαγμα "
+"διαμόρφωσε τον τρόπο που προσεγγίσαμε τη δόμηση ολόκληρου του προγράμματος "
+"του TH095."
 
 #: website/public/blog/touhou-reconstruction/index.html:650
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2114,6 +2646,10 @@ msgid ""
 "on. The next agent can use the result without repeating the investigation "
 "that led to it."
 msgstr ""
+"Ένα δίδαγμα που μένει στο μυαλό μου είναι χρήσιμο όσο είμαι εκεί. Όταν γίνει"
+" έλεγχος που μπορεί να εκτελέσει μια άλλη συνεδρία, συνεχίζει να βοηθά και "
+"αφού έχω προχωρήσει σε άλλα. Ο επόμενος agent μπορεί να αξιοποιήσει το "
+"αποτέλεσμα χωρίς να επαναλάβει τη διερεύνηση που οδήγησε σε αυτό."
 
 #: website/public/blog/touhou-reconstruction/index.html:656
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2123,6 +2659,10 @@ msgid ""
 " correction with the code helps later projects avoid inheriting the old "
 "check's blind spot."
 msgstr ""
+"Το σφάλμα με τη σταθερά κινητής υποδιαστολής ανήκει κι αυτό σε αυτή τη "
+"μνήμη. Εξηγεί γιατί ο έλεγχος μιας αναφοράς απαιτεί και έλεγχο των δεδομένων"
+" πίσω από αυτήν. Η διατήρηση αυτής της διόρθωσης μαζί με τον κώδικα βοηθά τα"
+" μεταγενέστερα έργα να μην κληρονομήσουν το τυφλό σημείο του παλιού ελέγχου."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -2134,6 +2674,9 @@ msgid ""
 "game.{ph1} We can spend more of the next project's effort on what is "
 "actually new about its target."
 msgstr ""
+"{ph0}Η μέθοδος γίνεται μέρος του υλικού εκκίνησης για το επόμενο "
+"παιχνίδι.{ph1} Μπορούμε να αφιερώσουμε περισσότερη από την προσπάθεια του "
+"επόμενου έργου σε ό,τι είναι πραγματικά καινούργιο στον στόχο του."
 
 #: website/public/blog/touhou-reconstruction/index.html:670
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2143,11 +2686,15 @@ msgid ""
 " reconstruct the entire project's history to find out why the source looks "
 "the way it does."
 msgstr ""
+"Το ίδιο όφελος έχουν και όσοι προστίθενται αργότερα. Μπορούν να εξετάσουν "
+"μια απόφαση και να ξανατρέξουν τον έλεγχό της πριν συνεχίσουν τη δουλειά. "
+"Δεν χρειάζεται να ανασυνθέσουν όλο το ιστορικό του έργου για να καταλάβουν "
+"γιατί ο πηγαίος κώδικας είναι όπως είναι."
 
 #: website/public/blog/touhou-reconstruction/index.html:678
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "TH04: the workflow survives a different architecture"
-msgstr ""
+msgstr "TH04: η ροή εργασίας αντέχει σε μια διαφορετική αρχιτεκτονική"
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/th04">
 #. {ph1}: </a>
@@ -2163,6 +2710,12 @@ msgid ""
 "Windows games. Existing {ph2}ReC98 work{ph3} gave us valuable knowledge and "
 "source material here too."
 msgstr ""
+"Το {ph0}TH04{ph1}, Lotus Land Story, πήγε αυτή τη δουλειά στην εποχή του DOS"
+" στο PC-98. Ο στόχος ήταν πλέον ένα περιβάλλον 16-bit με τέσσερα "
+"συνεργαζόμενα προγράμματα. Η κατανόηση της συμπεριφοράς του υλικού του "
+"απαιτούσε διαφορετικά τεκμήρια από τα παιχνίδια για Windows. Η υπάρχουσα "
+"{ph2}δουλειά του ReC98{ph3} μάς έδωσε κι εδώ πολύτιμη γνώση και πηγαίο "
+"υλικό."
 
 #: website/public/blog/touhou-reconstruction/index.html:688
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2172,6 +2725,11 @@ msgid ""
 "work is a native 64-bit port. Establishing a working DOS version first gives"
 " that port a reference."
 msgstr ""
+"Η ανακατασκευή για DOS λειτουργεί πλέον. Στις χειροκίνητες δοκιμές μου, "
+"έπαιξα ολόκληρες διαδρομές Normal μέχρι το φινάλε τους και έλεγξα τις "
+"αποθηκεύσεις. Η τρέχουσα δουλειά είναι μια εγγενής μεταφορά στα 64 bit. Η "
+"δημιουργία πρώτα μιας λειτουργικής έκδοσης για DOS δίνει σε αυτή τη μεταφορά"
+" ένα σημείο αναφοράς."
 
 #: website/public/blog/touhou-reconstruction/index.html:694
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2181,6 +2739,11 @@ msgid ""
 "still follow a question through to a result and let that result guide the "
 "next experiment."
 msgstr ""
+"Η αρχιτεκτονική άλλαξε το τι έπρεπε να διερευνήσουμε. Άλλαξε επίσης τον "
+"μεταγλωττιστή και το περιβάλλον εκτέλεσης έναντι των οποίων ελέγχαμε τη "
+"δουλειά μας. Ο agent όμως μπορούσε ακόμη να ακολουθήσει ένα ερώτημα μέχρι "
+"ένα αποτέλεσμα και να αφήσει αυτό το αποτέλεσμα να καθοδηγήσει το επόμενο "
+"πείραμα."
 
 #: website/public/blog/touhou-reconstruction/index.html:700
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2191,6 +2754,11 @@ msgid ""
 "evidence and checks are available, an agent can work through the question "
 "much as it did on a Windows title."
 msgstr ""
+"Σκεφτείτε τη μετάβαση από το gameplay σε ένα φινάλε. Πρέπει να ξέρουμε ποια "
+"κατάσταση περνά αυτό το όριο και ποιο πρόγραμμα είναι υπεύθυνο γι' αυτήν. "
+"Αυτό μπορούμε να το διερευνήσουμε έναντι του προϊόντος για DOS. Μόλις "
+"υπάρχουν τα τεκμήρια και οι έλεγχοι, ένας agent μπορεί να δουλέψει το "
+"ερώτημα σχεδόν όπως σε έναν τίτλο για Windows."
 
 #: website/public/blog/touhou-reconstruction/index.html:708
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2199,6 +2767,10 @@ msgid ""
 "not force us to start over with a new way of working. The architecture "
 "defined the problem; the workflow still gave us a way to solve it."
 msgstr ""
+"Γι' αυτό το TH04 έχει σημασία για το επιχείρημα. Μια ουσιαστική αλλαγή "
+"πλατφόρμας δεν μας ανάγκασε να ξεκινήσουμε από την αρχή με νέο τρόπο "
+"εργασίας. Η αρχιτεκτονική όρισε το πρόβλημα· η ροή εργασίας μάς έδωσε και "
+"πάλι τον τρόπο να το λύσουμε."
 
 #: website/public/blog/touhou-reconstruction/index.html:714
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2207,6 +2779,9 @@ msgid ""
 "behavior already recovered on DOS. The knowledge from reconstruction gives "
 "the port something to build on."
 msgstr ""
+"Για τη μεταφορά στα 64 bit, μπορούμε πλέον να εξετάσουμε τη νέα υλοποίηση "
+"έναντι συμπεριφοράς που έχει ήδη ανακτηθεί στο DOS. Η γνώση από την "
+"ανακατασκευή δίνει στη μεταφορά μια βάση πάνω στην οποία να χτίσει."
 
 #. {ph0}: <a
 #. href="https://github.com/N0zoM1z0/th04/blob/bb9faca54e2eb3c0d6c757c75d59ac29d2cd5e93/docs/RE_HANDOFF.md"
@@ -2221,11 +2796,14 @@ msgid ""
 "Project state as of 10 October 2026: {ph0}DOS reconstruction and manual "
 "testing{ph1} · {ph2}64-bit port{ph3}. The port remains in development."
 msgstr ""
+"Κατάσταση του έργου στις 10 Οκτωβρίου 2026: {ph0}ανακατασκευή για DOS και "
+"χειροκίνητες δοκιμές{ph1} · {ph2}μεταφορά στα 64 bit{ph3}. Η μεταφορά "
+"βρίσκεται ακόμη σε ανάπτυξη."
 
 #: website/public/blog/touhou-reconstruction/index.html:732
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "From exact code to readable code"
-msgstr ""
+msgstr "Από τον ακριβή κώδικα στον αναγνώσιμο κώδικα"
 
 #: website/public/blog/touhou-reconstruction/index.html:733
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2233,6 +2811,8 @@ msgid ""
 "Once a reconstruction works, I want someone else to be able to understand "
 "it."
 msgstr ""
+"Μόλις μια ανακατασκευή λειτουργήσει, θέλω να μπορεί να την καταλάβει και "
+"κάποιος άλλος."
 
 #: website/public/blog/touhou-reconstruction/index.html:737
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2242,6 +2822,11 @@ msgid ""
 "follow the game's logic without keeping the executable's memory layout in "
 "their head."
 msgstr ""
+"Για μένα, η assembly και οι σκέτες μετατοπίσεις (offsets) μπορεί να μοιάζουν"
+" με παλιούς φίλους. Καταλαβαίνω ότι αυτός είναι ένας κάπως ασυνήθιστος "
+"ορισμός του «αναγνώσιμου». Οι περισσότεροι θα προτιμούσαν να παρακολουθούν "
+"τη λογική του παιχνιδιού χωρίς να κρατούν στο μυαλό τους τη διάταξη μνήμης "
+"του εκτελέσιμου."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2255,6 +2840,12 @@ msgid ""
 "type that fits the evidence. We keep the reasoning with the source so the "
 "next person can see where that interpretation came from."
 msgstr ""
+"Εδώ μπαίνει η {ph0}σημασιολογική ανακατασκευή{ph1}. Ένα ανακτημένο πεδίο "
+"μπορεί να είναι ακόμη γνωστό κυρίως από τη μετατόπισή του (offset). "
+"Παρακολουθούμε πώς το χρησιμοποιεί το παιχνίδι μέχρι να μπορούμε να "
+"εξηγήσουμε τον ρόλο του. Τότε μπορούμε να του δώσουμε ένα όνομα με νόημα και"
+" έναν τύπο που ταιριάζει με τα τεκμήρια. Κρατάμε τη συλλογιστική μαζί με τον"
+" πηγαίο κώδικα, ώστε ο επόμενος να βλέπει από πού προήλθε αυτή η ερμηνεία."
 
 #: website/public/blog/touhou-reconstruction/index.html:751
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2265,11 +2856,16 @@ msgid ""
 "To move the behavior safely, we need to recover the relationship behind the "
 "old memory access."
 msgstr ""
+"Αυτό γίνεται ιδιαίτερα σημαντικό σε μια μεταφορά. Μια απόλυτη διεύθυνση μού "
+"λέει πού βρισκόταν κάτι στο παλιό εκτελέσιμο. Δεν βοηθά ιδιαίτερα μια "
+"υλοποίηση 64-bit να αποφασίσει ποιο αντικείμενο πρέπει να κατέχει αυτή την "
+"κατάσταση. Για να μεταφέρουμε τη συμπεριφορά με ασφάλεια, πρέπει να "
+"ανακτήσουμε τη σχέση πίσω από την παλιά πρόσβαση στη μνήμη."
 
 #: website/public/blog/touhou-reconstruction/index.html:758
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "The order I now use is:"
-msgstr ""
+msgstr "Η σειρά που ακολουθώ τώρα είναι:"
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2282,6 +2878,11 @@ msgid ""
 "original executable. Record unresolved differences so the next phase has a "
 "clear starting point."
 msgstr ""
+"{ph0}Ανακτήστε μια ακριβή βάση αναφοράς.{ph1} Μεταγλωττίστε τα "
+"ανακατασκευασμένα κομμάτια με τον ιστορικό μεταγλωττιστή. Συγκρίνετε τον "
+"σχετικό κώδικα και τα δεδομένα με το αρχικό εκτελέσιμο. Καταγράψτε τις "
+"διαφορές που δεν έχουν επιλυθεί, ώστε η επόμενη φάση να έχει σαφές σημείο "
+"εκκίνησης."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2294,6 +2895,11 @@ msgid ""
 "important gameplay paths. This is where we can find problems with shared "
 "state or initialization that an isolated function comparison missed."
 msgstr ""
+"{ph0}Δομήστε και παίξτε το στην αρχική πλατφόρμα.{ph1} Συνδέστε αυτά τα "
+"κομμάτια στο πραγματικό πρόγραμμα με την αρχική αρχιτεκτονική και τον αρχικό"
+" μεταγλωττιστή. Δοκιμάστε σημαντικές διαδρομές του gameplay. Εδώ μπορούμε να"
+" βρούμε προβλήματα με κοινή κατάσταση ή αρχικοποίηση που μια μεμονωμένη "
+"σύγκριση συνάρτησης δεν εντόπισε."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -2306,6 +2912,10 @@ msgid ""
 "means. Improve its representation while preserving the exact comparisons and"
 " the playable historical build."
 msgstr ""
+"{ph0}Ανακατασκευάστε τη σημασιολογία έναντι και των δύο αναφορών.{ph1} Πάρτε"
+" ένα συνεκτικό μέρος του παιχνιδιού κάθε φορά και τεκμηριώστε τι σημαίνει ο "
+"ανακτημένος πηγαίος κώδικάς του. Βελτιώστε την αναπαράστασή του διατηρώντας "
+"τις ακριβείς συγκρίσεις και την παίξιμη ιστορική δόμηση."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2317,6 +2927,10 @@ msgid ""
 "environment, such as a native 64-bit build. The reconstructed original-"
 "platform game remains a reference for comparing how the port behaves."
 msgstr ""
+"{ph0}Φτιάξτε τη σύγχρονη μεταφορά.{ph1} Μεταφέρετε την τεκμηριωμένη "
+"συμπεριφορά στο νέο περιβάλλον, για παράδειγμα σε μια εγγενή δόμηση 64-bit. "
+"Το ανακατασκευασμένο παιχνίδι για την αρχική πλατφόρμα παραμένει αναφορά για"
+" τη σύγκριση της συμπεριφοράς της μεταφοράς."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2330,6 +2944,11 @@ msgid ""
 "reconstructed program still builds and behaves correctly along the paths we "
 "exercise."
 msgstr ""
+"Η παίξιμη έκδοση από το δεύτερο στάδιο γίνεται {ph0}δεύτερο μαντείο{ph1} "
+"κατά το τρίτο. Το πρώτο μαντείο ελέγχει αν ο τροποποιημένος πηγαίος κώδικας "
+"αναπαράγει ακόμη τον σχετικό αρχικό κώδικα και τα δεδομένα. Το δεύτερο "
+"ελέγχει ότι το ανακατασκευασμένο πρόγραμμα εξακολουθεί να δομείται και να "
+"συμπεριφέρεται σωστά στις διαδρομές που δοκιμάζουμε."
 
 #: website/public/blog/touhou-reconstruction/index.html:798
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2339,6 +2958,11 @@ msgid ""
 "different copies of state. Keeping both checks available gives the agent a "
 "concrete failure to investigate before carrying a refactor further."
 msgstr ""
+"Εντοπίζουν διαφορετικά λάθη. Μια αλλαγή τύπου μπορεί να μεταβάλει τις "
+"παραγόμενες εντολές. Μια αλλαγή ιδιοκτησίας μπορεί να αφήσει δύο μέρη του "
+"παιχνιδιού να χρησιμοποιούν διαφορετικά αντίγραφα της κατάστασης. Με "
+"διαθέσιμους και τους δύο ελέγχους, ο agent έχει μια συγκεκριμένη αποτυχία να"
+" διερευνήσει πριν προχωρήσει περαιτέρω μια αναδιάρθρωση."
 
 #: website/public/blog/touhou-reconstruction/index.html:805
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2348,6 +2972,11 @@ msgid ""
 " how the game writes and uses it. If the meaning remains uncertain, a "
 "neutral name is more helpful to the next reader than a confident guess."
 msgstr ""
+"Ένα όνομα χρειάζεται δικά του τεκμήρια. Μια ακριβής σύγκριση δεν μπορεί να "
+"μας πει αν ένα πεδίο σημαίνει πράγματι «χρόνος ατρωσίας». Αυτό πρέπει να το "
+"τεκμηριώσουμε από τον τρόπο με τον οποίο το παιχνίδι το γράφει και το "
+"χρησιμοποιεί. Αν η σημασία παραμένει αβέβαιη, ένα ουδέτερο όνομα βοηθά "
+"περισσότερο τον επόμενο αναγνώστη από μια σίγουρη εικασία."
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/touhou-reconstruction-
 #. factory/blob/717e1b8560783ed17a39fdf159d30aa16bb307a7/docs/semantic-
@@ -2363,6 +2992,12 @@ msgid ""
 "original-platform build first, so semantic work can use it as a reference "
 "before porting begins."
 msgstr ""
+"Αυτή τη σειρά τη μάθαμε μέσα από τα έργα. Το TH08 είχε ήδη παίξιμες "
+"μεταφορές πριν από ορισμένες από τις μεταγενέστερες επιθεωρήσεις του στην "
+"ιστορική πλατφόρμα. Αυτό έκανε ορισμένα ελαττώματα πιο δύσκολο να "
+"εντοπιστούν. Η {ph0}τρέχουσα ροή εργασίας του Factory{ph1} βάζει πρώτη τη "
+"δόμηση για την αρχική πλατφόρμα, ώστε η σημασιολογική δουλειά να μπορεί να "
+"τη χρησιμοποιήσει ως αναφορά πριν ξεκινήσει η μεταφορά."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -2373,11 +3008,14 @@ msgid ""
 "{ph0}Exact reconstruction gives us a reference. Semantic reconstruction "
 "makes the recovered knowledge usable.{ph1} A port can then build on both."
 msgstr ""
+"{ph0}Η ακριβής ανακατασκευή μάς δίνει μια αναφορά. Η σημασιολογική "
+"ανακατασκευή κάνει την ανακτημένη γνώση αξιοποιήσιμη.{ph1} Μια μεταφορά "
+"μπορεί στη συνέχεια να χτίσει και πάνω στις δύο."
 
 #: website/public/blog/touhou-reconstruction/index.html:832
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "What makes this an industrial shift"
-msgstr ""
+msgstr "Γιατί πρόκειται για βιομηχανική στροφή"
 
 #: website/public/blog/touhou-reconstruction/index.html:833
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2387,6 +3025,11 @@ msgid ""
 " one of the most useful things I could do. A better tool could help with "
 "every later function that needed it."
 msgstr ""
+"Αυτά τα έργα άλλαξαν το πού έστρεφα την προσοχή μου. Από τη στιγμή που οι "
+"agents μπορούσαν να προωθήσουν μεγάλο μέρος μιας διερεύνησης, η βελτίωση του"
+" περιβάλλοντος εργασίας τους έγινε ένα από τα πιο χρήσιμα πράγματα που "
+"μπορούσα να κάνω. Ένα καλύτερο εργαλείο μπορούσε να βοηθήσει σε κάθε "
+"μεταγενέστερη συνάρτηση που το χρειαζόταν."
 
 #: website/public/blog/touhou-reconstruction/index.html:840
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2396,6 +3039,11 @@ msgid ""
 "somewhere unexpected. If it has to wait for me to prescribe each step, much "
 "of the work remains tied to my attention."
 msgstr ""
+"Η αυτονομία έχει σημασία εδώ. Το χρήσιμο επόμενο βήμα συχνά γίνεται σαφές "
+"μόνο μετά από ένα αποτυχημένο πείραμα. Ένας agent χρειάζεται αρκετή "
+"ελευθερία για να ακολουθήσει αυτό το αποτέλεσμα κάπου απρόσμενα. Αν πρέπει "
+"να περιμένει να του ορίσω κάθε βήμα, μεγάλο μέρος της δουλειάς μένει δεμένο "
+"με τη δική μου προσοχή."
 
 #: website/public/blog/touhou-reconstruction/index.html:847
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2405,6 +3053,11 @@ msgid ""
 "understand the mistake well enough to try again. I still have to decide "
 "whether the accumulated evidence supports a project milestone."
 msgstr ""
+"Περιμένω ότι ο agent θα κάνει λανθασμένες υποθέσεις. Αυτό που μετράει είναι "
+"αν μπορούμε να τις ελέγξουμε και να μάθουμε από το αποτέλεσμα. Ένας "
+"αποτυχημένος έλεγχος πρέπει να τον βοηθά να καταλάβει το λάθος αρκετά καλά "
+"ώστε να ξαναδοκιμάσει. Εγώ εξακολουθώ να αποφασίζω αν τα συσσωρευμένα "
+"τεκμήρια στηρίζουν ένα ορόσημο του έργου."
 
 #: website/public/blog/touhou-reconstruction/index.html:854
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2415,6 +3068,12 @@ msgid ""
 "use those to test the source it proposes and see where its explanation holds"
 " up."
 msgstr ""
+"Το REA δίνει στον agent πρόσβαση σε εργαλεία ανάλυσης. Ένα ερώτημα για τον "
+"καλούντα μιας συνάρτησης μπορεί να οδηγήσει κατευθείαν στην εξέταση αυτού "
+"του καλούντα. Το έργο ανακατασκευής παρέχει τον μεταγλωττιστή και τους "
+"δικούς του ελέγχους αναφοράς. Ο agent μπορεί να τα χρησιμοποιήσει για να "
+"δοκιμάσει τον πηγαίο κώδικα που προτείνει και να δει πού στέκει η εξήγησή "
+"του."
 
 #: website/public/blog/touhou-reconstruction/index.html:861
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2424,6 +3083,11 @@ msgid ""
 " it can spread much further than a mistake in one implementation. Testing "
 "the checker improves the feedback available to all that later work."
 msgstr ""
+"Το σφάλμα του TH08 δείχνει γιατί αυτοί οι έλεγχοι αξίζουν τη δική τους "
+"μηχανική προσοχή. Όταν η ίδια σύγκριση χρησιμοποιείται σε εκατοντάδες "
+"συναρτήσεις, ένα κενό της μπορεί να εξαπλωθεί πολύ περισσότερο από ένα λάθος"
+" σε μία υλοποίηση. Η δοκιμή του ελεγκτή βελτιώνει την ανατροφοδότηση που "
+"είναι διαθέσιμη σε όλη την κατοπινή δουλειά."
 
 #. {ph0}: <a
 #. href="https://collection.sciencemuseumgroup.org.uk/objects/co51439/watts-
@@ -2440,6 +3104,13 @@ msgid ""
 " comparison tools serve a similar purpose: they let us examine what the "
 "machinery is doing while we improve it."
 msgstr ""
+"Η βιομηχανική αναλογία έχει εδώ ένα χρήσιμο ιστορικό παράδειγμα. Οι Boulton "
+"και Watt εισήγαγαν έναν {ph0}δείκτη ατμομηχανής το 1796{ph1} για να βοηθήσει"
+" στη ρύθμιση των βαλβίδων της μηχανής. Μια καταγραφική εκδοχή του χάραζε την"
+" πίεση σε όλη τη διαδρομή του εμβόλου. Έκανε την εσωτερική συμπεριφορά της "
+"μηχανής διαθέσιμη για εξέταση. Τα εργαλεία σύγκρισής μας εξυπηρετούν "
+"παρόμοιο σκοπό: μας επιτρέπουν να εξετάζουμε τι κάνει ο μηχανισμός ενώ τον "
+"βελτιώνουμε."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -2453,6 +3124,13 @@ msgid ""
 " we find a defect in a shared tool, we have to repair it and revisit the "
 "results it affected. The next project can then inherit a stronger tool."
 msgstr ""
+"{ph0}Βρισκόμαστε στα πρώτα στάδια αυτής της βιομηχανικής στροφής.{ph1} "
+"Μεγάλο μέρος της υποδομής είναι ακόμη ανώριμο. Οι agents μπορούν να "
+"κινούνται πιο γρήγορα απ' όσο σχεδιάστηκαν να υποστηρίζουν οι έλεγχοί μας, "
+"οπότε η διαδικασία πρέπει να εξελίσσεται μαζί τους. Όταν βρίσκουμε ένα "
+"ελάττωμα σε ένα κοινόχρηστο εργαλείο, πρέπει να το επιδιορθώσουμε και να "
+"επανεξετάσουμε τα αποτελέσματα που επηρέασε. Έτσι το επόμενο έργο μπορεί να "
+"κληρονομήσει ένα ισχυρότερο εργαλείο."
 
 #: website/public/blog/touhou-reconstruction/index.html:891
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2462,6 +3140,10 @@ msgid ""
 "for another session to continue without losing the reason for the last "
 "decision."
 msgstr ""
+"Υπάρχει επίσης ένα πρακτικό όριο σε κάθε μεμονωμένη συνομιλία. Θα τελειώσει "
+"πριν ολοκληρωθεί μια μεγάλη ανακατασκευή. Το αποθετήριο πρέπει να επιτρέπει "
+"σε μια άλλη συνεδρία να συνεχίσει χωρίς να χαθεί ο λόγος της τελευταίας "
+"απόφασης."
 
 #. {ph0}: <a href="https://github.com/N0zoM1z0/touhou-reconstruction-factory"
 #. >
@@ -2474,6 +3156,10 @@ msgid ""
 "projects a shared way to carry their checks and lessons forward. Work on one"
 " game can improve the starting conditions for another."
 msgstr ""
+"Το {ph0}Touhou Reconstruction Factory{ph1} γεννήθηκε από αυτή την ανάγκη. "
+"Δίνει στα έργα έναν κοινό τρόπο να μεταφέρουν τους ελέγχους και τα διδάγματά"
+" τους παρακάτω. Η δουλειά σε ένα παιχνίδι μπορεί να βελτιώσει τις συνθήκες "
+"εκκίνησης για ένα άλλο."
 
 #: website/public/blog/touhou-reconstruction/index.html:907
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2482,11 +3168,15 @@ msgid ""
 "starts becoming part of tools that others can use. Improving those tools "
 "changes how much the next person—or the next agent—can get done."
 msgstr ""
+"Αυτό είναι που κάνει τη βιομηχανική αναλογία ουσιαστική για μένα. Η εμπειρία"
+" αρχίζει να γίνεται μέρος εργαλείων που μπορούν να χρησιμοποιήσουν άλλοι. Η "
+"βελτίωση αυτών των εργαλείων αλλάζει το πόσα μπορεί να καταφέρει ο επόμενος "
+"άνθρωπος—ή ο επόμενος agent."
 
 #: website/public/blog/touhou-reconstruction/index.html:915
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "The projects we can now consider"
-msgstr ""
+msgstr "Τα έργα που μπορούμε πλέον να εξετάσουμε"
 
 #: website/public/blog/touhou-reconstruction/index.html:916
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2495,6 +3185,10 @@ msgid ""
 "fascinating to reverse engineer and still demand more of my own attention "
 "than I could realistically give it. Many projects would stay ideas."
 msgstr ""
+"Ο ρυθμός έχει σημασία επειδή αλλάζει την απόφαση να ξεκινήσει κανείς. Ένα "
+"παιχνίδι μπορεί να είναι συναρπαστικό για αντίστροφη μηχανική και παρ' όλα "
+"αυτά να απαιτεί περισσότερη από τη δική μου προσοχή απ' όση θα μπορούσα "
+"ρεαλιστικά να του δώσω. Πολλά έργα θα έμεναν απλώς ιδέες."
 
 #: website/public/blog/touhou-reconstruction/index.html:922
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2505,6 +3199,11 @@ msgid ""
 " explore a mod. The effort put into understanding the game can keep paying "
 "off after the first version runs."
 msgstr ""
+"Τώρα βλέπω έναν τρόπο να κρατήσω ένα τέτοιο έργο σε κίνηση μέσα από "
+"διαδοχικές διερευνήσεις. Μια λειτουργική ανακατασκευή κάνει μια μεταφορά πιο"
+" πρακτική. Η ανάκτηση αναγνώσιμης σημασιολογίας διευκολύνει κάποιον άλλο να "
+"εξερευνήσει ένα mod. Ο κόπος που μπήκε στην κατανόηση του παιχνιδιού μπορεί "
+"να συνεχίσει να αποδίδει και αφού τρέξει η πρώτη έκδοση."
 
 #. {ph0}: <strong >
 #. {ph1}: </strong >
@@ -2515,6 +3214,9 @@ msgid ""
 "I now look at an unfamiliar program and ask: {ph0}what access, feedback and "
 "accumulated knowledge would let an agent work on this reliably?{ph1}"
 msgstr ""
+"Τώρα κοιτάζω ένα άγνωστο πρόγραμμα και αναρωτιέμαι: {ph0}ποια πρόσβαση, ποια"
+" ανατροφοδότηση και ποια συσσωρευμένη γνώση θα επέτρεπαν σε έναν agent να "
+"δουλέψει πάνω του αξιόπιστα;{ph1}"
 
 #: website/public/blog/touhou-reconstruction/index.html:936
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2523,11 +3225,14 @@ msgid ""
 " Each one can improve the way we approach the next. I want to keep exploring"
 " how far that can take us."
 msgstr ""
+"Αυτό το ερώτημα με κάνει να εξετάζω έργα που παλαιότερα θα είχα αφήσει στην "
+"άκρη. Το καθένα μπορεί να βελτιώσει τον τρόπο που προσεγγίζουμε το επόμενο. "
+"Θέλω να συνεχίσω να εξερευνώ πόσο μακριά μπορεί να μας πάει αυτό."
 
 #: website/public/blog/touhou-reconstruction/index.html:944
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Project milestones and sources"
-msgstr ""
+msgstr "Ορόσημα του έργου και πηγές"
 
 #: website/public/blog/touhou-reconstruction/index.html:945
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2537,6 +3242,11 @@ msgid ""
 "commits. Source presence, exact comparisons, a build and a runtime result "
 "each name a different milestone."
 msgstr ""
+"Οι ημερομηνίες περιγράφουν καταγεγραμμένα σημεία ελέγχου του έργου, που "
+"διασταυρώθηκαν με το δημόσιο ιστορικό στο GitHub στις 10 Οκτωβρίου 2026. Ο "
+"χρόνος που μεσολάβησε είναι ημερολογιακός χρόνος μεταξύ commits. Η ύπαρξη "
+"πηγαίου κώδικα, οι ακριβείς συγκρίσεις, μια δόμηση και ένα αποτέλεσμα κατά "
+"την εκτέλεση αντιστοιχούν το καθένα σε διαφορετικό ορόσημο."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2567,6 +3277,10 @@ msgid ""
 "ledger{ph5}, {ph6}24 August Linux port{ph7}, {ph8}26 August Web "
 "edition{ph9}, and {ph10}30 August 64-bit Linux release{ph11}."
 msgstr ""
+"{ph0}TH08:{ph1} {ph2}συνέχιση της 13ης Αυγούστου{ph3}, {ph4}μητρώο πηγαίου "
+"κώδικα της 19ης Αυγούστου{ph5}, {ph6}μεταφορά για Linux της 24ης "
+"Αυγούστου{ph7}, {ph8}έκδοση Web της 26ης Αυγούστου{ph9} και {ph10}κυκλοφορία"
+" για Linux 64-bit της 30ής Αυγούστου{ph11}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2598,6 +3312,10 @@ msgid ""
 " ledger{ph5}, {ph6}8 September comparisons{ph7}, {ph8}9 September "
 "linkage{ph9}, and {ph10}10 September playable-build record{ph11}."
 msgstr ""
+"{ph0}TH095:{ph1} {ph2}αρχικό μητρώο της 29ης Αυγούστου{ph3}, {ph4}μητρώο "
+"πηγαίου κώδικα της 7ης Σεπτεμβρίου{ph5}, {ph6}συγκρίσεις της 8ης "
+"Σεπτεμβρίου{ph7}, {ph8}σύνδεση (linkage) της 9ης Σεπτεμβρίου{ph9} και "
+"{ph10}καταγραφή παίξιμης έκδοσης της 10ης Σεπτεμβρίου{ph11}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2613,6 +3331,9 @@ msgid ""
 "reconstruction, the maintainer's complete Normal-route testing and the "
 "current 64-bit phase."
 msgstr ""
+"{ph0}TH04:{ph1} η {ph2}παράδοση της 10ης Οκτωβρίου{ph3} καταγράφει τη "
+"λειτουργική ανακατασκευή για DOS, τις πλήρεις δοκιμές του συντηρητή στις "
+"διαδρομές Normal και την τρέχουσα φάση 64-bit."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2634,6 +3355,9 @@ msgid ""
 "bug{ph3}, {ph4}the source and comparison fix{ph5}, and {ph6}the full "
 "floating-literal audit{ph7}."
 msgstr ""
+"{ph0}Διόρθωση του μαντείου του TH08:{ph1} {ph2}το αναφερθέν σφάλμα αυτόματης"
+" συλλογής{ph3}, {ph4}η διόρθωση του πηγαίου κώδικα και της σύγκρισης{ph5} "
+"και {ph6}η πλήρης επιθεώρηση των σταθερών κινητής υποδιαστολής{ph7}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2652,6 +3376,9 @@ msgid ""
 "{ph0}Semantic reconstruction:{ph1} {ph2}TH08's readability playbook{ph3} and"
 " {ph4}the Factory's phase order and two validation paths{ph5}."
 msgstr ""
+"{ph0}Σημασιολογική ανακατασκευή:{ph1} {ph2}ο οδηγός αναγνωσιμότητας του "
+"TH08{ph3} και {ph4}η σειρά φάσεων και οι δύο διαδρομές επικύρωσης του "
+"Factory{ph5}."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2667,6 +3394,9 @@ msgid ""
 "indicator record{ph3} describes the 1796 introduction and the pressure-"
 "recording mechanism."
 msgstr ""
+"{ph0}Βιομηχανική ιστορία:{ph1} {ph2}η καταχώριση του Science Museum Group "
+"για τον δείκτη ατμομηχανής{ph3} περιγράφει την εισαγωγή του το 1796 και τον "
+"μηχανισμό καταγραφής της πίεσης."
 
 #. {ph0}: <strong>
 #. {ph1}: </strong>
@@ -2685,6 +3415,9 @@ msgid ""
 "{ph0}Method:{ph1} the Factory's {ph2}agent autonomy{ph3} and {ph4}cross-game"
 " knowledge{ph5} documents retain the working principles and lessons."
 msgstr ""
+"{ph0}Μέθοδος:{ph1} τα έγγραφα του Factory για την {ph2}αυτονομία των "
+"agents{ph3} και τη {ph4}γνώση μεταξύ παιχνιδιών{ph5} διατηρούν τις αρχές "
+"εργασίας και τα διδάγματα."
 
 #. {ph0}: <a class="text-link" href="../">
 #. {ph1}: </a>
@@ -2695,11 +3428,12 @@ msgstr ""
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "{ph0}More articles{ph1} · {ph2}Explore a TH04 investigation{ph3}"
 msgstr ""
+"{ph0}Περισσότερα άρθρα{ph1} · {ph2}Εξερευνήστε μια διερεύνηση του TH04{ph3}"
 
 #: website/public/blog/touhou-reconstruction/index.html:6
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Reverse Engineering’s Industrial Revolution — REA"
-msgstr ""
+msgstr "Η βιομηχανική επανάσταση της αντίστροφης μηχανικής — REA"
 
 #: website/public/blog/touhou-reconstruction/index.html:7
 msgctxt "page:blog/touhou-reconstruction/index.html"
@@ -2707,26 +3441,29 @@ msgid ""
 "N0zoM1z0 reflects on manual reverse engineering, Touhou reconstruction with "
 "AI agents, and how knowledge compounds across TH08, TH095 and PC-98 TH04."
 msgstr ""
+"Σκέψεις του N0zoM1z0 για τη χειροκίνητη αντίστροφη μηχανική, την "
+"ανακατασκευή του Touhou με AI agents και το πώς η γνώση συσσωρεύεται από το "
+"TH08 στο TH095 και στο TH04 για PC-98."
 
 #: website/public/blog/touhou-reconstruction/index.html:352
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Experience carried between projects"
-msgstr ""
+msgstr "Εμπειρία που μεταφέρεται από έργο σε έργο"
 
 #: website/public/blog/touhou-reconstruction/index.html:366
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "On this page"
-msgstr ""
+msgstr "Σε αυτή τη σελίδα"
 
 #: website/public/blog/touhou-reconstruction/index.html:381
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Touhou reconstruction essay"
-msgstr ""
+msgstr "Δοκίμιο για την ανακατασκευή του Touhou"
 
 #: website/public/blog/touhou-reconstruction/index.html:1082
 msgctxt "page:blog/touhou-reconstruction/index.html"
 msgid "Back to top"
-msgstr ""
+msgstr "Επιστροφή στην κορυφή"
 
 #: website/public/examples/dino-lab/index.html:106
 msgctxt "page:examples/dino-lab/index.html"
