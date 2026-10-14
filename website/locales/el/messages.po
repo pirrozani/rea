@@ -13021,6 +13021,8 @@ msgstr "Επιστροφή στην κορυφή"
 msgctxt "runtime"
 msgid "Translation is being updated. Read this page in English for now."
 msgstr ""
+"Η μετάφραση ενημερώνεται. Προς το παρόν, διαβάστε αυτή τη σελίδα στα "
+"αγγλικά."
 
 #: website/public/assets/aegis-demo.js:22
 #, python-brace-format
@@ -13372,7 +13374,7 @@ msgstr "63 ίδια byte"
 #: website/public/assets/figures/rea-investigation-flow.svg:22
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "REA investigation flow"
-msgstr ""
+msgstr "Ροή διερεύνησης του REA"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:3
 msgctxt "figure:rea-investigation-flow.svg"
@@ -13381,76 +13383,79 @@ msgid ""
 "analysis adapters, returns evidence, and supports follow-up questions as "
 "your agent explains, implements and tests."
 msgstr ""
+"Κάντε μια ερώτηση για έναν τοπικό στόχο. Το REA εξετάζει και ιχνηλατεί μέσω "
+"τοπικών προσαρμογέων ανάλυσης, επιστρέφει τεκμήρια και υποστηρίζει ερωτήσεις"
+" συνέχειας, καθώς ο agent σας εξηγεί, υλοποιεί και δοκιμάζει."
 
 #: website/public/assets/figures/rea-investigation-flow.svg:31
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "1. Ask"
-msgstr ""
+msgstr "1. Ερώτηση"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:32
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Your agent + local target"
-msgstr ""
+msgstr "Agent + τοπικός στόχος"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:33
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "App / binary / browser"
-msgstr ""
+msgstr "Εφαρμογή / αρχείο / web"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:34
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "2. Inspect & trace"
-msgstr ""
+msgstr "2. Ιχνηλάτηση"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:36
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "CLI / MCP"
-msgstr ""
+msgstr "CLI / MCP"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:37
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "3. Read the evidence"
-msgstr ""
+msgstr "3. Τεκμήρια"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:38
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Code / references /"
-msgstr ""
+msgstr "Κώδικας / αναφορές /"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:39
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "unknowns"
-msgstr ""
+msgstr "άγνωστα στοιχεία"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:40
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "4. Use what you learn"
-msgstr ""
+msgstr "4. Αξιοποίηση"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:41
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Your agent"
-msgstr ""
+msgstr "Ο agent σας"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:42
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Explain / implement / test"
-msgstr ""
+msgstr "Εξήγηση/υλοποίηση/τεστ"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:43
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Analysis tools"
-msgstr ""
+msgstr "Εργαλεία ανάλυσης"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:44
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Local analysis adapters"
-msgstr ""
+msgstr "Τοπικοί προσαρμογείς"
 
 #: website/public/assets/figures/rea-investigation-flow.svg:45
 msgctxt "figure:rea-investigation-flow.svg"
 msgid "Follow-up question"
-msgstr ""
+msgstr "Επόμενη ερώτηση"
 
 #: website/public/assets/figures/th04-bullet-ring.svg:2
 msgctxt "figure:th04-bullet-ring.svg"
